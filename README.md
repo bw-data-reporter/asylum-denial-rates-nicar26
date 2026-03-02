@@ -1,5 +1,5 @@
 # NICAR 2026: Using immigration data to tell stories in your community
-Friday, March 6, 9-10 a.m. CT
+Friday, March 6, 9-10 a.m.
 
 Julia Ingram and Joe Yerardi
 
@@ -27,8 +27,15 @@ TRAC has several tools for tracking immigration court outcomes. Here's an overvi
 - [**Mapping representation**](https://tracreports.org/phptools/immigration/addressrep/): This 50-state map shows the number of pending cases in each state and how many of the individuals those cases represent have lawyers. Many immigrants represent themselves (pro se), though those individuals historically see less favorable outcomes.
 - [**Asylum decisions**](https://tracreports.org/phptools/immigration/asylum/): This tool provides data on completed asylum cases so you can see how denial or grant rates change over time by immigration court. "Other relief granted" means an immigration judge allowed the individual to stay in the U.S. using a mechanism other than asylum. Asylum grant rates have declined under the second Trump administration.
 - [**Asylum decisions by judge**](https://tracreports.org/immigration/reports/judgereports/): TRAC periodically releases an analysis of how asylum grant rates differ by judge. Historically, there is a huge range of outcomes, and you can zoom in to your city or state to see how it compares with those in other places. In the past, California judges have had higher grant rates than judges in the southern U.S., for example. 
-- [**Bond decisions**](https://tracreports.org/phptools/immigration/bond/): Since the second Trump administration has widely expanded its use of mandatory detention, a record number of people are being detained -- and staying in detention. Bond rates are hitting new lows. 
+- [**Bond decisions**](https://tracreports.org/phptools/immigration/bond/): Since the second Trump administration has widely expanded its use of mandatory detention, a record number of people are being detained -- and staying in detention. Bond rates are hitting new lows, as mandatory detention takes the discretionary power away from the judge to release someone. This tool allows you to view whether a bond request was granted, and what the outcome of the case was in instances where bond was granted. 
 
 
 Across all of these tools, TRAC lets you select a geographic area and drill down on up to two variables, such as custody, legal representation or nationality, which you can select by clicking the down arrow on each column header to expand the dropdown menu.
+
+## Additional Data Sources for reporting on Immigration
+
+TK links from 
+Deportation Data Project
+ICE Detention Management
+DetentionReports/ Relevant Research
 
