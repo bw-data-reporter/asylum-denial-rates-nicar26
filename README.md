@@ -11,11 +11,11 @@ Case data is broken down by the city of the immigration court, which means you c
 
 TRAC displays its data in tools that are easy to use for extracting quick statistics. But it lacks an easy download button for more in-depth analysis on the underlying data. We'll show you how to take advantage of an undocumented API on TRAC's website to extract the data. Then, we'll walk you through a few different analysis questions so you can report a story for your city similar to Joe's Oct. 2025 piece in the Philadelphia Inquirer finding the city's immigration court rejects [three in four asylum cases under Trump](https://archive.is/62i4T).
 
-## This Repo
+## Code
 
-The code for pulling data from the TRAC tools using the undocumented API can be found in python at [get-trac-data-python.ipynb](get-trac-data-python.ipynb) and in R at [trac_asylum_scraper.Rmd](trac_asylum_scraper.Rmd). This repo focuses on the asylum tool, but similar endpoints exist for other TRAC tools. 
+The code for pulling data from the TRAC tools using the undocumented API can be found in the **`trac_asylum_scraper`** notebooks. This code focuses on the API endpoints for the asylum tool, but similar endpoints exist for other TRAC tools. 
 
-The code for the analysis of this data can be found in python at [analysis-python.ipynb](analysis-python.ipynb) and in R can be found at TK. 
+The code for the analysis of this data can be found in the **`asylum_analysis`** notebooks
 
 ## Immigration Data Sources 
 
