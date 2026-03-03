@@ -3,7 +3,7 @@ Friday, March 6, 9-10 a.m.
 
 Julia Ingram and Joe Yerardi
 
-## Overview
+## Session Overview
 
 As record numbers of immigrants are being arrested and detained under the second Trump administration, those with active immigration cases are also seeing dramatically shifting outcomes. But data on immigration cases, released monthly by the [Executive Office for Immigration Review (EOIR)](https://www.justice.gov/eoir/foia-library-0) as a massive relational database, can be hard to parse. The Transactional Records Access Clearinghouse (TRAC) has a few [useful tools](https://tracreports.org/immigration/tools) based on this data that make tracking immigration cases easier. 
 
@@ -13,7 +13,15 @@ TRAC displays its data in tools that are easy to use for extracting quick statis
 
 This session will be modeled after Joe's Philadelphia Inquirer story ["Philadelphia’s immigration court now rejects three in four asylum cases under Trump"](https://archive.is/62i4T) from October 2025. 
 
-## Immigration Court: TRAC Tools
+## This Repo
+
+The code for pulling data from the TRAC tools using the undocumented API can be found in python at [get-trac-data-python.ipynb](get-trac-data-python.ipynb) and in R at [trac_asylum_scraper.Rmd](trac_asylum_scraper.Rmd). This repo focuses on the asylum tool, but similar endpoint exists for other TRAC tools. 
+
+The code for the analysis of this data can be found in python at [analysis-python.ipynb](analysis-python.ipynb) and in R can be found at TK. 
+
+## Immigration Data Sources 
+
+### Immigration Court Data: TRAC Tools
 
 TRAC has several tools for tracking immigration court outcomes. Here's an overview for the ones that will likely be the most useful to reporting on local immigration in 2026:
 
@@ -32,7 +40,7 @@ TRAC has several tools for tracking immigration court outcomes. Here's an overvi
 
 Across all of these tools, TRAC lets you select a geographic area and drill down on up to two variables, such as custody, legal representation or nationality, which you can select by clicking the down arrow on each column header to expand the dropdown menu.
 
-## Immigration Enforcement Data
+### Immigration Enforcement Data
 
 While EOIR and TRAC are the main sources for data on immigration cases, data on immigration enforcement actions mostly comes from ICE and from a few secondary sources that analyze or publish ICE data.
 
@@ -40,7 +48,9 @@ While EOIR and TRAC are the main sources for data on immigration cases, data on 
 
     Localizing enforcement data from the Deportation Data Project depends on which data set you use. It is difficult to determine where arrests took place at a level any more granular than the state level, although some information can be gleaned from the "apprehension site landmark" field. Be careful when using this field, though, as it can sometimes simply refer to the field office or area that has jurisdiction over the ICE agent that made the arrest, rather than denote where an arrest actually took place. It's also tempting to use the Area of Responsibility (AOR), but this should also be interpreted with caution. AORs are administrative jurisdictions that often span multiple states. [See this map.](https://deportationdata.org/data/processed/ice-offices.html)
 
-    Data on detentions and detainers on the other hand, can be directly geolocated to the facility. The Vera Institute of Justice publishes [metadata](https://github.com/vera-institute/ice-detention-trends/blob/main/metadata/facilities.csv) on detention facilities that you can link to this data using the detention_facility_code. 
+    Data on detentions, on the other hand, can be directly geolocated to the facility. The Vera Institute of Justice publishes [metadata](https://github.com/vera-institute/ice-detention-trends/blob/main/metadata/facilities.csv) on detention facilities that you can link to this data using the detention_facility_code. 
+
+
 
 - [**ICE Detention Management Data**](https://www.ice.gov/detain/detention-management) Approximately every two weeks, ICE publishes updated data on the detention population. The Deportation Data Project stores the [previous releases](https://deportationdata.org/data/reports.html) on their site. Some of this data is nationwide, but one of the spreadsheet tabs contains detention-facility level data for most ICE facilities (excluding temporary hold facilities and a few other types). It's important to note that much of this data, including the average daily detention population, is averaged from the start of the government fiscal year, which begins on Oct. 1. This means that the population figures do not always represent current or recent trends. For more accurate facility-level detention populations, we recommend using [Detention Reports by Relevant Research](https://detentionreports.com/), which uses a different method for estimating average daily population that reflects more recent changes. 
 
