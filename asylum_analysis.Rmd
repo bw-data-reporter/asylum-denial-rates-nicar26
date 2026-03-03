@@ -1,0 +1,187 @@
+---
+title: "Asylum Analysis"
+author: "Joe Yerardi / The Philadelphia Inquirer"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    self_contained: true # Export a single, self-contained HTML file when rendered
+    theme: flatly
+    toc: true # Add table of contents
+    toc_float: true
+    code_folding: hide # Hide code by default but allow toggling
+---
+
+```{r setup, include=FALSE}
+# Load required packages
+library(htmlwidgets)
+library(janitor)
+library(forcats)
+library(leaflet)
+library(leaflet.extras)
+library(lubridate)
+library(mapview)
+library(purrr)
+library(readxl)
+library(rmapshaper)
+library(openxlsx2)
+library(scales)
+library(sf)
+library(tidycensus)
+library(tidyverse)
+```
+
+```{r Import asylum decision data scraped from the Transactional Records Access Clearinghouse}
+# Source: https://tracreports.org/phptools/immigration/asylum/
+
+# Totals
+total_by_month <- read_csv("data/exported/totals.csv") %>% 
+  mutate(month = ymd(paste0(fymon, "-01"))) %>% # Append day and convert month to date format
+  select(court, month, total:other) # Remove the original fiscal year-month column
+
+# Custody
+custody_by_month <- read_csv("data/exported/custody.csv") %>% 
+  mutate(month = ymd(paste0(fymon, "-01"))) %>% # Append day and convert month to date format
+  select(court, custody_status, month, total:other) # Remove the original fiscal year-month column
+
+# Language
+language_by_month <- read_csv("data/exported/language.csv") %>% 
+  mutate(month = ymd(paste0(fymon, "-01"))) %>% # Append day and convert month to date format
+  select(court, language, month, total:other) # Remove the original fiscal year-month column
+
+# Representation
+representation_by_month <- read_csv("data/exported/representation.csv") %>% 
+  mutate(month = ymd(paste0(fymon, "-01"))) %>% # Append day and convert month to date format
+  select(court, representation, month, total:other) # Remove the original fiscal year-month column
+```
+
+```{r What proportion of asylum cases, in Philadelphia and the country, have been denied since fiscal year 2000 (Oct. 2000)?}
+asylum_total <- total_by_month %>% 
+  summarize(
+    phl_total_cases = sum(total[court == "Philadelphia"], na.rm = TRUE),
+    phl_total_granted = sum(granted[court == "Philadelphia"], na.rm = TRUE),
+    phl_total_denied = sum(denied[court == "Philadelphia"], na.rm = TRUE) + sum(other[court == "Philadelphia"], na.rm = TRUE),
+    phl_pct_granted = phl_total_granted / phl_total_cases,
+    phl_pct_denied = phl_total_denied / phl_total_cases,
+    us_total_cases = sum(total[court == "United States"], na.rm = TRUE),
+    us_total_granted = sum(granted[court == "United States"], na.rm = TRUE),
+    us_total_denied = sum(denied[court == "United States"], na.rm = TRUE),
+    us_pct_granted = us_total_granted / us_total_cases,
+    us_pct_denied = us_total_denied / us_total_cases
+    )
+
+asylum_total
+```
+
+```{r QUESTION: How have those numbers changed by presidency?}
+asylum_by_president <- total_by_month %>% 
+  mutate(president = case_when(
+    month > ymd("2001-01-20") & month <= ymd("2009-01-20") ~ "Bush",
+    month > ymd("2009-01-20") & month <= ymd("2017-01-20") ~ "Obama",
+    month > ymd("2017-01-20") & month <= ymd("2021-01-20") ~ "Trump I",
+    month > ymd("2021-01-20") & month <= ymd("2025-01-20") ~ "Biden",
+    month > ymd("2025-01-20") ~ "Trump II",
+    TRUE ~ "Other")
+    ) %>%
+  group_by(president) %>%
+  summarize(
+    phl_total_cases = sum(total[court == "Philadelphia"], na.rm = TRUE),
+    phl_total_denied = sum(denied[court == "Philadelphia"], na.rm = TRUE) + sum(other[court == "Philadelphia"], na.rm = TRUE),
+    phl_pct_denied = phl_total_denied / phl_total_cases,
+    us_total_cases = sum(total[court == "United States"], na.rm = TRUE),
+    us_total_denied = sum(denied[court == "United States"], na.rm = TRUE) + sum(other[court == "United States"], na.rm = TRUE),
+    us_pct_denied = us_total_denied / us_total_cases
+    ) %>% 
+  ungroup() %>% 
+  mutate(president = factor(president, levels = c("Bush", "Obama", "Trump I", "Biden", "Trump II"))) %>% # Convert president to factor and set its order
+  arrange(president)
+
+asylum_by_president
+```
+
+```{r How have those numbers changed between the end of the Biden administration and the start of Trump's second term?}
+asylum_biden_vs_trump <- total_by_month %>% 
+  filter(month >= ymd("2024-01-20")) %>% 
+  mutate(president = case_when(month >= ymd("2024-01-20") & month <= ymd("2025-01-20") ~ "Biden",
+                               month >= ymd("2025-02-01") ~ "Trump",
+                               TRUE ~ "Other")) %>% 
+  group_by(president) %>% 
+  summarize(
+    phl_total_cases = sum(total[court == "Philadelphia"], na.rm = TRUE),
+    phl_total_denied = sum(denied[court == "Philadelphia"], na.rm = TRUE) + sum(other[court == "Philadelphia"], na.rm = TRUE),
+    phl_pct_denied = phl_total_denied / phl_total_cases,
+    us_total_cases = sum(total[court == "United States"], na.rm = TRUE),
+    us_total_denied = sum(denied[court == "United States"], na.rm = TRUE) + sum(other[court == "United States"], na.rm = TRUE),
+    us_pct_denied = us_total_denied / us_total_cases
+    ) %>% 
+  ungroup() %>% 
+  mutate(president = factor(president, levels = c("Biden", "Trump"))) %>% # Convert president to factor and set its order %>% 
+  arrange(president)
+
+asylum_biden_vs_trump
+
+# Export the data
+wb_load("data/exported/asylum.xlsx") %>% 
+  wb_add_worksheet("asylum_biden_vs_trump") %>% 
+  wb_add_data("asylum_biden_vs_trump", asylum_biden_vs_trump) %>% 
+  wb_save("data/exported/asylum.xlsx", overwrite = TRUE)
+```
+
+```{r How have those numbers changed by month since the last year of the Biden administration?}
+asylum_by_month_recent <- total_by_month %>% 
+  filter(month >= ymd("2024-01-20")) %>% 
+  mutate(month = format(month, "%Y-%m")) %>% # Convert month to year-month format
+  group_by(month) %>% 
+  summarize(
+    phl_total_cases = sum(total[court == "Philadelphia"], na.rm = TRUE),
+    phl_total_denied = sum(denied[court == "Philadelphia"], na.rm = TRUE) + sum(other[court == "Philadelphia"], na.rm = TRUE),
+    phl_pct_denied = phl_total_denied / phl_total_cases,
+    us_total_cases = sum(total[court == "United States"], na.rm = TRUE),
+    us_total_denied = sum(denied[court == "United States"], na.rm = TRUE) + sum(other[court == "United States"], na.rm = TRUE),
+    us_pct_denied = us_total_denied / us_total_cases
+    )
+
+asylum_by_month_recent
+```
+
+```{r How do those numbers change by custody status?}
+asylum_by_custody <- custody_by_month %>% 
+  group_by(custody_status) %>% 
+  summarize(
+    phl_total_cases = sum(total[court == "Philadelphia"], na.rm = TRUE),
+    phl_total_denied = sum(denied[court == "Philadelphia"], na.rm = TRUE) + sum(other[court == "Philadelphia"], na.rm = TRUE),
+    phl_pct_denied = phl_total_denied / phl_total_cases,
+    us_total_cases = sum(total[court == "United States"], na.rm = TRUE),
+    us_total_denied = sum(denied[court == "United States"], na.rm = TRUE) + sum(other[court == "United States"], na.rm = TRUE),
+    us_pct_denied = us_total_denied / us_total_cases
+    )
+
+asylum_by_custody
+```
+
+```{r How do those numbers change by language spoken?}
+asylum_by_language <- language_by_month %>% 
+  group_by(language) %>% 
+  summarize(
+    phl_total_cases = sum(total[court == "Philadelphia"], na.rm = TRUE),
+    phl_total_denied = sum(denied[court == "Philadelphia"], na.rm = TRUE) + sum(other[court == "Philadelphia"], na.rm = TRUE),
+    phl_pct_denied = phl_total_denied / phl_total_cases,
+    us_total_cases = sum(total[court == "United States"], na.rm = TRUE),
+    us_total_denied = sum(denied[court == "United States"], na.rm = TRUE) + sum(other[court == "United States"], na.rm = TRUE),
+    us_pct_denied = us_total_denied / us_total_cases
+    )
+
+asylum_by_language
+```
+
+```{r How do those numbers change by access to legal representation?}
+asylum_by_representation <- representation_by_month %>% 
+  group_by(representation) %>% 
+  summarize(
+    phl_total_cases = sum(total[court == "Philadelphia"], na.rm = TRUE),
+    phl_total_denied = sum(denied[court == "Philadelphia"], na.rm = TRUE) + sum(other[court == "Philadelphia"], na.rm = TRUE),
+    phl_pct_denied = phl_total_denied / phl_total_cases,
+    us_total_cases = sum(total[court == "United States"], na.rm = TRUE),
+    us_total_denied = sum(denied[court == "United States"], na.rm = TRUE) + sum(other[court == "United States"], na.rm = TRUE),
+    us_pct_denied = us_total_denied / us_total_cases
+    )
+```
