@@ -1,0 +1,199 @@
+---
+title: "TRAC Asylum Scraper"
+author: "Joe Yerardi / The Philadelphia Inquirer"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    self_contained: true # Export a single, self-contained HTML file when rendered
+    theme: flatly
+    toc: true # Add table of contents
+    toc_float: true
+    code_folding: hide # Hide code by default but allow toggling
+---
+
+```{r setup, include=FALSE}
+# Load required packages
+library(httr2) # For making web requests to TRAC's server
+library(jsonlite) # For translating the TRAC API's JSON response into R
+library(tidyverse) # For tidy data processing, cleaning and manipulation
+
+# Build the base URL
+trac_url <- paste0("https://", "tracreports.org/phptools/immigration/asylum/graph.php")
+
+# Store the TRAC ID for English
+english_id <- "16" 
+
+# Define a list of the courts we want to scrape. 
+# The name on the left becomes our label; the value on the right is sent to TRAC's server
+court_targets <- list(
+  "Philadelphia" = "30",
+  "United States" = "All"
+)
+
+# Define the four outcome codes TRAC uses for case decisions
+outcomes <- list("total" = "All", "granted" = "2", "denied" = "1", "other" = "3")
+
+# Define the specific demographic codes we'll pass to the server (i.e. none, representation, language, custody)
+target_lists <- list(
+  "none" = list("total_cases" = "All"),                               
+  "represented" = list("represented" = "2", "not_represented" = "1"), 
+  "language" = list("total_lang" = "All", "english" = english_id),         
+  "custody" = list("never_detained" = "1", "released" = "2",          
+                   "detained" = "3", "not_known" = "4")
+)
+```
+
+```{r API call function, include=FALSE}
+# This function communicates with TRAC's server
+fetch_trac_data <- function(court_code, denial_code, param_name = NULL, param_value = NULL) {
+  
+  # Start building the request with the base parameters every query needs
+  req <- request(trac_url) %>%
+    req_url_query(
+      stat = "count",        # We want raw numbers, not percentages
+      timescale = "fymon",   # We want the x-axis to be Year-Month
+      base_city = court_code,# Insert the court ID (e.g., "30" or "All")
+      denial2 = denial_code, # Insert the outcome code (e.g., "All", "1", "2")
+      timeunit = "number"    # Again, ensuring we get counts
+    )
+
+  # Check if we are passing a specific demographic parameter (like custody or language)
+  if (!is.null(param_name) && param_name != "none") { # If param_name is NOT "none"...
+    req <- req %>% req_url_query(!!param_name := param_value) # ...add that parameter to the URL
+  }
+  
+  # Execute the request
+  resp <- req %>% 
+    req_retry(max_tries = 3) %>% # Retry up to three times and if it fails...
+    req_user_agent("Mozilla/5.0") %>% # disguise as a web browser...
+    req_perform() # and perform it
+
+  # Read the server's text response, parse the JSON and pull out just the "timeline"" list
+  raw_df <- fromJSON(resp_body_string(resp))$timeline
+  
+  # Safety check: if TRAC returns nothing (e.g. no English cases that month), return an empty tibble
+  if (is.null(raw_df) || length(raw_df) == 0) return(tibble(fymon = character(), count = numeric()))
+  
+  # Convert the list to a data frame
+  as.data.frame(raw_df) %>%
+    select(fymon, count = number) %>%
+    # Remove commas from the count and convert to numeric
+    mutate(count = as.numeric(gsub(",", "", as.character(count))))
+}
+```
+
+```{r looper function, include=FALSE}
+# This function loops through all the options for a specific dimension
+scrape_dimension <- function(court_name, court_id, param_name, targets) {
+  cat(sprintf("\nScraping %s dimension: %s\n", court_name, toupper(param_name)))
+  
+  # Loop through the 'targets' list (e.g., represented vs. not_represented) and bind the results into a single data frame
+  map_dfr(names(targets), function(target_label) {
+    target_value <- targets[[target_label]]
+    cat(sprintf(" -> Fetching: %s\n", target_label))
+    
+    # Loop through the four outcomes (i.e. total, granted, denied, other)
+    map_dfr(names(outcomes), function(outcome_name) {
+      denial_code <- outcomes[[outcome_name]]
+      
+      # Call our API function with the specified variables
+      df <- fetch_trac_data(court_id, denial_code, param_name, target_value)
+      
+      # If we get data back, save it to the data frame
+      if(nrow(df) > 0) {
+        df <- df %>% mutate(
+          court = court_name, 
+          dimension = param_name,
+          category = target_label, 
+          outcome = outcome_name
+        )
+      }
+      # Pause for 0.3 seconds before the next loop so we don't crash TRAC's server with too many requests at once
+      Sys.sleep(0.3) 
+      return(df)
+    })
+  })
+}
+```
+
+```{r execution, include=FALSE}
+# Loop through our list of courts (e.g. Philadelphia) and, within each court, map over the specified dimension (e.g. language), feeding everything into our looper function
+all_data <- map_dfr(names(court_targets), function(court_name) {
+  court_id <- court_targets[[court_name]]
+  map_dfr(names(target_lists), ~scrape_dimension(court_name, court_id, .x, target_lists[[.x]]))
+})
+```
+
+```{r formatting, include=FALSE}
+# Split and format into four individual data frames, one for each dimension (e.g. totals)
+cat("\nFormatting into separate data frames...\n")
+
+# Totals
+totals <- all_data %>%
+  filter(dimension == "none") %>% # Grab only the totals data
+  pivot_wider(names_from = outcome, values_from = count, values_fill = 0) %>%
+  select(court, fymon, total, granted, denied, other) %>%
+  arrange(court, fymon)
+
+# Representation
+representation <- all_data %>%
+  filter(dimension == "represented") %>% # Grab only the representation data
+  rename(representation = category) %>% 
+  pivot_wider(names_from = outcome, values_from = count, values_fill = 0) %>%
+  select(court, representation, fymon, total, granted, denied, other) %>%
+  arrange(court, representation, fymon)
+
+# Custody
+custody <- all_data %>%
+  filter(dimension == "custody") %>% # Grab only the custody data
+  rename(custody_status = category) %>%
+  pivot_wider(names_from = outcome, values_from = count, values_fill = 0) %>%
+  select(court, custody_status, fymon, total, granted, denied, other) %>%
+  arrange(court, custody_status, fymon)
+
+# Language
+language <- all_data %>%
+  filter(dimension == "language") %>% # Grab only the language data
+  unite("col_name", category, outcome, sep = "_") %>% # Combine the "english" vs. "total_lang" category with the "granted"/"denied"/"other" outcome to get column names like "english_granted"
+  pivot_wider(names_from = col_name, values_from = count, values_fill = 0)
+
+# Create a list of expected column names
+expected_cols <- c("total_lang_total", "total_lang_granted", "total_lang_denied", "total_lang_other",
+                   "english_total", "english_granted", "english_denied", "english_other")
+
+# If a column (e.g. english_granted) is missing because there were zero cases, manually create it and fill it with zeros so our code doesn't crash
+for(col in expected_cols) { if(!col %in% names(language)) language[[col]] <- 0 }
+
+# Subtract the English totals from the overall totals to get the non-English totals for each outcome 
+language <- language %>%
+  mutate(
+    # Note the hyphen ("non-english" instead of "non_english") so the upcoming pivot_longer split works correctly in the next step
+    `non-english_total`   = total_lang_total - english_total,
+    `non-english_granted` = total_lang_granted - english_granted,
+    `non-english_denied`  = total_lang_denied - english_denied,
+    `non-english_other`   = total_lang_other - english_other
+  ) %>% 
+  rename(
+    total_total = total_lang_total, total_granted = total_lang_granted, 
+    total_denied = total_lang_denied, total_other = total_lang_other
+  ) %>%
+  # Fold columns back down into long format
+  # names_sep = "_" splits "english_granted" back into two distinct variables
+  pivot_longer(cols = -c(court, dimension, fymon), names_to = c("language", "outcome"), names_sep = "_") %>%
+  # Pivot outcomes horizontally again to match our standard formatting
+  pivot_wider(names_from = outcome, values_from = value, values_fill = 0) %>%
+  # Change the hyphen back to an underscore
+  mutate(language = str_replace(language, "-", "_")) %>%
+  select(court, language, fymon, total, granted, denied, other) %>%
+  arrange(court, factor(language, levels = c("total", "english", "non_english")), fymon)
+```
+
+```{r export, include=FALSE}
+# Export the data frames as CSVs
+totals %>% write_csv("data/exported/master_totals.csv")
+representation %>% write_csv("data/exported/master_representation.csv")
+language %>% write_csv("data/exported/master_language.csv")
+custody %>% write_csv("data/exported/master_custody.csv")
+
+cat("\nSuccessfully exported all four files to data/exported/\n")
+```
