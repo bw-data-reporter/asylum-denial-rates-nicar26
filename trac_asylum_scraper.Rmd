@@ -190,10 +190,10 @@ language <- language %>%
 
 ```{r export, include=FALSE}
 # Export the data frames as CSVs
-totals %>% write_csv("data/exported/master_totals.csv")
-representation %>% write_csv("data/exported/master_representation.csv")
-language %>% write_csv("data/exported/master_language.csv")
-custody %>% write_csv("data/exported/master_custody.csv")
+totals %>% write_csv("data/master_totals.csv")
+representation %>% write_csv("data/master_representation.csv")
+language %>% write_csv("data/master_language.csv")
+custody %>% write_csv("data/master_custody.csv")
 
-cat("\nSuccessfully exported all four files to data/exported/\n")
+cat("\nSuccessfully exported all four files to data/\n")
 ```
