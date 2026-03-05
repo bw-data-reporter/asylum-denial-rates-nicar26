@@ -20,6 +20,10 @@ library(tidyverse) # For tidy data processing, cleaning and manipulation
 # Build the base URL
 trac_url <- paste0("https://", "tracreports.org/phptools/immigration/asylum/graph.php")
 
+# All codes (e.g. court, representation, outcome) can be found in the "network" tab of your browser's "developer tools" window
+# Example API call: https://tracreports.org/phptools/immigration/asylum/graph.php?stat=count&timescale=fymon&base_city=30&represented=1&denial2=2&timeunit=number
+# In this example, the statistic is "count" (numbers vs. percentages), the court code is "30" (Philadelphia), the representation code is "1" (not represented) and the outcome code is "2" (granted). By changing these codes, we can get data for different courts, representation statuses and outcomes.
+
 # Store the TRAC ID for English
 english_id <- "16" 
 
@@ -190,10 +194,10 @@ language <- language %>%
 
 ```{r export, include=FALSE}
 # Export the data frames as CSVs
-totals %>% write_csv("data/master_totals.csv")
-representation %>% write_csv("data/master_representation.csv")
-language %>% write_csv("data/master_language.csv")
-custody %>% write_csv("data/master_custody.csv")
+totals %>% write_csv("data/exported/totals.csv")
+representation %>% write_csv("data/exported/representation.csv")
+language %>% write_csv("data/exported/language.csv")
+custody %>% write_csv("data/exported/custody.csv")
 
-cat("\nSuccessfully exported all four files to data/\n")
+cat("\nSuccessfully exported all four files to data/exported/\n")
 ```
