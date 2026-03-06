@@ -21,6 +21,8 @@ TRAC identifies each immigration court by a different numeric code. We've pulled
 
 The rest of this README contains rundown of other TRAC tools and data sources for reporting local immigration stories.
 
+[**Click here to access the TRAC asylum tool to get started.**](https://tracreports.org/phptools/immigration/asylum/)
+
 ## Immigration Data Sources 
 
 ### Immigration Court Data: TRAC Tools
