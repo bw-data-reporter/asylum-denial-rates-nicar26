@@ -1,3 +1,5 @@
+**Note: Originally created by Julia Ingram (CBS News) and Joe Yerardi (Philadelphia Inquirer). I saw their presentation at NICAR 2026 and adopted it for my reporting on Detroit immigration court.
+
 # NICAR 2026: Using immigration data to tell stories in your community
 Friday, March 6, 9-10 a.m.
 
