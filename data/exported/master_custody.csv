@@ -1,833 +1,878 @@
 court,custody_status,fymon,total,granted,denied,other
-Philadelphia,detained,2000-11,1.0,0.0,1.0,0.0
-Philadelphia,detained,2000-12,1.0,0.0,1.0,0.0
-Philadelphia,detained,2001-01,2.0,0.0,2.0,0.0
-Philadelphia,detained,2001-02,1.0,0.0,1.0,0.0
-Philadelphia,detained,2001-03,2.0,0.0,2.0,0.0
-Philadelphia,detained,2001-04,1.0,0.0,1.0,0.0
-Philadelphia,detained,2001-05,3.0,0.0,3.0,0.0
-Philadelphia,detained,2001-06,4.0,0.0,4.0,0.0
-Philadelphia,detained,2001-08,4.0,0.0,4.0,0.0
-Philadelphia,detained,2001-09,2.0,0.0,2.0,0.0
-Philadelphia,detained,2001-11,2.0,0.0,2.0,0.0
-Philadelphia,detained,2001-12,2.0,0.0,2.0,0.0
-Philadelphia,detained,2002-01,2.0,0.0,2.0,0.0
-Philadelphia,detained,2002-02,4.0,0.0,3.0,1.0
-Philadelphia,detained,2002-03,3.0,0.0,2.0,1.0
-Philadelphia,detained,2002-04,2.0,0.0,2.0,0.0
-Philadelphia,detained,2002-05,2.0,0.0,2.0,0.0
-Philadelphia,detained,2002-06,2.0,0.0,2.0,0.0
-Philadelphia,detained,2002-07,4.0,0.0,4.0,0.0
-Philadelphia,detained,2002-08,2.0,0.0,2.0,0.0
-Philadelphia,detained,2002-09,2.0,0.0,2.0,0.0
-Philadelphia,detained,2002-10,4.0,0.0,4.0,0.0
-Philadelphia,detained,2002-11,1.0,0.0,0.0,1.0
-Philadelphia,detained,2002-12,7.0,0.0,7.0,0.0
-Philadelphia,detained,2003-01,6.0,0.0,6.0,0.0
-Philadelphia,detained,2003-02,3.0,0.0,3.0,0.0
-Philadelphia,detained,2003-03,2.0,0.0,2.0,0.0
-Philadelphia,detained,2003-04,6.0,0.0,6.0,0.0
-Philadelphia,detained,2003-05,9.0,0.0,9.0,0.0
-Philadelphia,detained,2003-07,13.0,0.0,12.0,1.0
-Philadelphia,detained,2003-08,5.0,0.0,4.0,1.0
-Philadelphia,detained,2003-09,9.0,0.0,8.0,1.0
-Philadelphia,detained,2003-10,6.0,0.0,5.0,1.0
-Philadelphia,detained,2003-11,6.0,0.0,6.0,0.0
-Philadelphia,detained,2003-12,4.0,0.0,4.0,0.0
-Philadelphia,detained,2004-01,3.0,0.0,3.0,0.0
-Philadelphia,detained,2004-02,5.0,0.0,4.0,1.0
-Philadelphia,detained,2004-03,9.0,0.0,8.0,1.0
-Philadelphia,detained,2004-04,1.0,0.0,0.0,1.0
-Philadelphia,detained,2004-05,4.0,0.0,4.0,0.0
-Philadelphia,detained,2004-06,1.0,0.0,0.0,1.0
-Philadelphia,detained,2004-07,2.0,0.0,2.0,0.0
-Philadelphia,detained,2004-08,5.0,0.0,5.0,0.0
-Philadelphia,detained,2004-09,3.0,0.0,3.0,0.0
-Philadelphia,detained,2004-10,2.0,0.0,2.0,0.0
-Philadelphia,detained,2004-12,1.0,0.0,1.0,0.0
-Philadelphia,detained,2005-01,4.0,0.0,3.0,1.0
-Philadelphia,detained,2005-02,1.0,0.0,1.0,0.0
-Philadelphia,detained,2005-03,4.0,1.0,3.0,0.0
-Philadelphia,detained,2005-04,6.0,0.0,5.0,1.0
-Philadelphia,detained,2005-05,2.0,0.0,2.0,0.0
-Philadelphia,detained,2005-07,1.0,0.0,1.0,0.0
-Philadelphia,detained,2005-08,1.0,0.0,1.0,0.0
-Philadelphia,detained,2005-09,3.0,0.0,3.0,0.0
-Philadelphia,detained,2005-11,2.0,0.0,2.0,0.0
-Philadelphia,detained,2005-12,1.0,0.0,1.0,0.0
-Philadelphia,detained,2006-03,2.0,0.0,1.0,1.0
-Philadelphia,detained,2006-04,1.0,0.0,1.0,0.0
-Philadelphia,detained,2006-05,1.0,0.0,1.0,0.0
-Philadelphia,detained,2006-06,4.0,0.0,3.0,1.0
-Philadelphia,detained,2006-08,1.0,0.0,1.0,0.0
-Philadelphia,detained,2006-09,2.0,0.0,2.0,0.0
-Philadelphia,detained,2006-10,2.0,0.0,2.0,0.0
-Philadelphia,detained,2006-11,3.0,1.0,2.0,0.0
-Philadelphia,detained,2007-01,1.0,0.0,1.0,0.0
-Philadelphia,detained,2007-02,1.0,0.0,0.0,1.0
-Philadelphia,detained,2007-04,2.0,0.0,2.0,0.0
-Philadelphia,detained,2007-05,1.0,0.0,1.0,0.0
-Philadelphia,detained,2007-07,2.0,0.0,2.0,0.0
-Philadelphia,detained,2007-10,2.0,0.0,2.0,0.0
-Philadelphia,detained,2007-11,2.0,0.0,2.0,0.0
-Philadelphia,detained,2008-01,7.0,0.0,6.0,1.0
-Philadelphia,detained,2008-02,5.0,0.0,5.0,0.0
-Philadelphia,detained,2008-03,1.0,0.0,1.0,0.0
-Philadelphia,detained,2008-04,4.0,0.0,4.0,0.0
-Philadelphia,detained,2008-05,1.0,0.0,1.0,0.0
-Philadelphia,detained,2008-06,3.0,0.0,3.0,0.0
-Philadelphia,detained,2008-07,2.0,0.0,2.0,0.0
-Philadelphia,detained,2008-08,5.0,0.0,5.0,0.0
-Philadelphia,detained,2008-09,3.0,0.0,3.0,0.0
-Philadelphia,detained,2008-10,5.0,0.0,5.0,0.0
-Philadelphia,detained,2008-11,1.0,0.0,1.0,0.0
-Philadelphia,detained,2008-12,2.0,0.0,2.0,0.0
-Philadelphia,detained,2009-01,1.0,0.0,1.0,0.0
-Philadelphia,detained,2009-02,1.0,0.0,1.0,0.0
-Philadelphia,detained,2009-03,3.0,0.0,2.0,1.0
-Philadelphia,detained,2009-04,1.0,0.0,1.0,0.0
-Philadelphia,detained,2009-05,1.0,0.0,0.0,1.0
-Philadelphia,detained,2009-06,1.0,0.0,1.0,0.0
-Philadelphia,detained,2009-08,1.0,0.0,1.0,0.0
-Philadelphia,detained,2009-09,1.0,0.0,1.0,0.0
-Philadelphia,detained,2009-10,3.0,0.0,2.0,1.0
-Philadelphia,detained,2009-11,1.0,0.0,1.0,0.0
-Philadelphia,detained,2009-12,5.0,0.0,5.0,0.0
-Philadelphia,detained,2010-01,4.0,0.0,4.0,0.0
-Philadelphia,detained,2010-03,1.0,0.0,1.0,0.0
-Philadelphia,detained,2010-04,1.0,0.0,1.0,0.0
-Philadelphia,detained,2010-05,5.0,0.0,5.0,0.0
-Philadelphia,detained,2010-06,4.0,0.0,4.0,0.0
-Philadelphia,detained,2010-07,1.0,0.0,1.0,0.0
-Philadelphia,detained,2010-08,2.0,0.0,2.0,0.0
-Philadelphia,detained,2010-09,2.0,0.0,2.0,0.0
-Philadelphia,detained,2010-10,2.0,0.0,2.0,0.0
-Philadelphia,detained,2010-11,2.0,0.0,2.0,0.0
-Philadelphia,detained,2010-12,2.0,0.0,2.0,0.0
-Philadelphia,detained,2011-03,2.0,0.0,2.0,0.0
-Philadelphia,detained,2011-05,3.0,0.0,3.0,0.0
-Philadelphia,detained,2011-06,5.0,0.0,5.0,0.0
-Philadelphia,detained,2011-09,1.0,0.0,1.0,0.0
-Philadelphia,detained,2011-10,2.0,0.0,1.0,1.0
-Philadelphia,detained,2011-11,3.0,0.0,3.0,0.0
-Philadelphia,detained,2011-12,2.0,0.0,2.0,0.0
-Philadelphia,detained,2012-03,1.0,0.0,1.0,0.0
-Philadelphia,detained,2012-04,2.0,0.0,2.0,0.0
-Philadelphia,detained,2012-09,2.0,0.0,2.0,0.0
-Philadelphia,detained,2012-12,1.0,0.0,1.0,0.0
-Philadelphia,detained,2013-02,1.0,0.0,1.0,0.0
-Philadelphia,detained,2013-05,2.0,0.0,2.0,0.0
-Philadelphia,detained,2013-06,1.0,0.0,1.0,0.0
-Philadelphia,detained,2013-08,1.0,0.0,1.0,0.0
-Philadelphia,detained,2013-09,1.0,0.0,1.0,0.0
-Philadelphia,detained,2013-10,1.0,0.0,1.0,0.0
-Philadelphia,detained,2014-04,1.0,0.0,1.0,0.0
-Philadelphia,detained,2014-12,1.0,0.0,1.0,0.0
-Philadelphia,detained,2017-01,1.0,0.0,1.0,0.0
-Philadelphia,detained,2017-02,2.0,0.0,2.0,0.0
-Philadelphia,detained,2017-03,1.0,0.0,1.0,0.0
-Philadelphia,detained,2017-04,2.0,0.0,2.0,0.0
-Philadelphia,detained,2017-05,1.0,0.0,0.0,1.0
-Philadelphia,detained,2017-06,2.0,0.0,2.0,0.0
-Philadelphia,detained,2017-07,1.0,0.0,1.0,0.0
-Philadelphia,detained,2017-11,1.0,0.0,1.0,0.0
-Philadelphia,detained,2017-12,1.0,0.0,1.0,0.0
-Philadelphia,detained,2018-01,1.0,0.0,1.0,0.0
-Philadelphia,detained,2018-05,3.0,0.0,3.0,0.0
-Philadelphia,detained,2018-06,1.0,0.0,1.0,0.0
-Philadelphia,detained,2018-10,2.0,0.0,2.0,0.0
-Philadelphia,detained,2018-11,2.0,0.0,2.0,0.0
-Philadelphia,detained,2018-12,1.0,0.0,1.0,0.0
-Philadelphia,detained,2019-01,2.0,0.0,2.0,0.0
-Philadelphia,detained,2019-02,1.0,0.0,1.0,0.0
-Philadelphia,detained,2019-03,3.0,0.0,2.0,1.0
-Philadelphia,detained,2019-04,5.0,0.0,5.0,0.0
-Philadelphia,detained,2019-05,2.0,0.0,2.0,0.0
-Philadelphia,detained,2019-06,1.0,0.0,1.0,0.0
-Philadelphia,detained,2019-07,4.0,0.0,3.0,1.0
-Philadelphia,detained,2019-08,5.0,0.0,4.0,1.0
-Philadelphia,detained,2019-09,4.0,0.0,4.0,0.0
-Philadelphia,detained,2019-10,3.0,0.0,3.0,0.0
-Philadelphia,detained,2019-11,5.0,0.0,3.0,2.0
-Philadelphia,detained,2019-12,3.0,0.0,3.0,0.0
-Philadelphia,detained,2020-01,5.0,0.0,4.0,1.0
-Philadelphia,detained,2020-02,8.0,0.0,6.0,2.0
-Philadelphia,detained,2020-03,5.0,0.0,2.0,3.0
-Philadelphia,detained,2020-04,4.0,0.0,3.0,1.0
-Philadelphia,detained,2020-05,1.0,0.0,1.0,0.0
-Philadelphia,detained,2020-06,11.0,0.0,10.0,1.0
-Philadelphia,detained,2020-07,4.0,0.0,4.0,0.0
-Philadelphia,detained,2020-08,3.0,0.0,3.0,0.0
-Philadelphia,detained,2020-09,3.0,0.0,3.0,0.0
-Philadelphia,detained,2020-10,2.0,0.0,2.0,0.0
-Philadelphia,detained,2020-11,3.0,0.0,3.0,0.0
-Philadelphia,detained,2020-12,5.0,0.0,5.0,0.0
-Philadelphia,detained,2021-01,2.0,0.0,2.0,0.0
-Philadelphia,detained,2021-02,5.0,0.0,4.0,1.0
-Philadelphia,detained,2021-03,4.0,0.0,4.0,0.0
-Philadelphia,detained,2021-04,10.0,0.0,9.0,1.0
-Philadelphia,detained,2021-05,1.0,0.0,1.0,0.0
-Philadelphia,detained,2021-06,7.0,0.0,6.0,1.0
-Philadelphia,detained,2021-07,6.0,0.0,6.0,0.0
-Philadelphia,detained,2021-08,2.0,0.0,2.0,0.0
-Philadelphia,detained,2021-09,1.0,0.0,1.0,0.0
-Philadelphia,detained,2021-10,1.0,0.0,1.0,0.0
-Philadelphia,detained,2021-11,4.0,0.0,3.0,1.0
-Philadelphia,detained,2021-12,3.0,0.0,3.0,0.0
-Philadelphia,detained,2022-02,4.0,0.0,4.0,0.0
-Philadelphia,detained,2022-03,3.0,0.0,3.0,0.0
-Philadelphia,detained,2022-04,2.0,0.0,2.0,0.0
-Philadelphia,detained,2022-05,3.0,0.0,3.0,0.0
-Philadelphia,detained,2022-06,3.0,0.0,3.0,0.0
-Philadelphia,detained,2022-07,6.0,0.0,6.0,0.0
-Philadelphia,detained,2022-08,5.0,0.0,5.0,0.0
-Philadelphia,detained,2022-09,7.0,0.0,7.0,0.0
-Philadelphia,detained,2022-10,4.0,0.0,4.0,0.0
-Philadelphia,detained,2022-11,6.0,0.0,6.0,0.0
-Philadelphia,detained,2022-12,4.0,0.0,3.0,1.0
-Philadelphia,detained,2023-01,4.0,0.0,3.0,1.0
-Philadelphia,detained,2023-02,4.0,0.0,3.0,1.0
-Philadelphia,detained,2023-03,3.0,0.0,3.0,0.0
-Philadelphia,detained,2023-04,5.0,0.0,5.0,0.0
-Philadelphia,detained,2023-05,8.0,0.0,7.0,1.0
-Philadelphia,detained,2023-06,9.0,0.0,6.0,3.0
-Philadelphia,detained,2023-07,4.0,0.0,4.0,0.0
-Philadelphia,detained,2023-08,7.0,0.0,6.0,1.0
-Philadelphia,detained,2023-09,4.0,0.0,3.0,1.0
-Philadelphia,detained,2023-10,7.0,0.0,6.0,1.0
-Philadelphia,detained,2023-11,1.0,0.0,1.0,0.0
-Philadelphia,detained,2023-12,2.0,0.0,1.0,1.0
-Philadelphia,detained,2024-01,6.0,0.0,6.0,0.0
-Philadelphia,detained,2024-02,6.0,0.0,4.0,2.0
-Philadelphia,detained,2024-03,6.0,1.0,5.0,0.0
-Philadelphia,detained,2024-04,7.0,0.0,6.0,1.0
-Philadelphia,detained,2024-05,2.0,0.0,2.0,0.0
-Philadelphia,detained,2024-06,5.0,0.0,3.0,2.0
-Philadelphia,detained,2024-07,5.0,0.0,5.0,0.0
-Philadelphia,detained,2024-08,3.0,0.0,2.0,1.0
-Philadelphia,detained,2024-09,5.0,0.0,2.0,3.0
-Philadelphia,detained,2024-10,5.0,0.0,1.0,4.0
-Philadelphia,detained,2024-11,5.0,0.0,3.0,2.0
-Philadelphia,detained,2024-12,5.0,1.0,2.0,2.0
-Philadelphia,detained,2025-01,7.0,0.0,3.0,4.0
-Philadelphia,detained,2025-02,10.0,0.0,5.0,5.0
-Philadelphia,detained,2025-03,13.0,2.0,3.0,8.0
-Philadelphia,detained,2025-04,9.0,0.0,5.0,4.0
-Philadelphia,detained,2025-05,18.0,3.0,5.0,10.0
-Philadelphia,detained,2025-06,9.0,1.0,4.0,4.0
-Philadelphia,detained,2025-07,14.0,0.0,6.0,8.0
-Philadelphia,detained,2025-08,5.0,0.0,2.0,3.0
-Philadelphia,detained,2025-09,30.0,3.0,5.0,22.0
-Philadelphia,detained,2025-10,23.0,1.0,5.0,17.0
-Philadelphia,detained,2025-11,13.0,0.0,7.0,6.0
-Philadelphia,detained,2025-12,4.0,0.0,4.0,0.0
-Philadelphia,never_detained,2000-10,59.0,33.0,25.0,1.0
-Philadelphia,never_detained,2000-11,42.0,19.0,23.0,0.0
-Philadelphia,never_detained,2000-12,47.0,23.0,24.0,0.0
-Philadelphia,never_detained,2001-01,42.0,14.0,26.0,2.0
-Philadelphia,never_detained,2001-02,32.0,14.0,18.0,0.0
-Philadelphia,never_detained,2001-03,27.0,4.0,22.0,1.0
-Philadelphia,never_detained,2001-04,44.0,20.0,24.0,0.0
-Philadelphia,never_detained,2001-05,45.0,13.0,31.0,1.0
-Philadelphia,never_detained,2001-06,33.0,10.0,23.0,0.0
-Philadelphia,never_detained,2001-07,23.0,4.0,18.0,1.0
-Philadelphia,never_detained,2001-08,28.0,11.0,15.0,2.0
-Philadelphia,never_detained,2001-09,25.0,14.0,11.0,0.0
-Philadelphia,never_detained,2001-10,27.0,3.0,23.0,1.0
-Philadelphia,never_detained,2001-11,27.0,5.0,20.0,2.0
-Philadelphia,never_detained,2001-12,18.0,10.0,8.0,0.0
-Philadelphia,never_detained,2002-01,32.0,17.0,15.0,0.0
-Philadelphia,never_detained,2002-02,34.0,14.0,20.0,0.0
-Philadelphia,never_detained,2002-03,31.0,17.0,14.0,0.0
-Philadelphia,never_detained,2002-04,50.0,23.0,25.0,2.0
-Philadelphia,never_detained,2002-05,57.0,32.0,25.0,0.0
-Philadelphia,never_detained,2002-06,56.0,39.0,17.0,0.0
-Philadelphia,never_detained,2002-07,33.0,4.0,27.0,2.0
-Philadelphia,never_detained,2002-08,52.0,23.0,29.0,0.0
-Philadelphia,never_detained,2002-09,43.0,14.0,27.0,2.0
-Philadelphia,never_detained,2002-10,38.0,14.0,23.0,1.0
-Philadelphia,never_detained,2002-11,31.0,10.0,20.0,1.0
-Philadelphia,never_detained,2002-12,32.0,8.0,24.0,0.0
-Philadelphia,never_detained,2003-01,43.0,13.0,30.0,0.0
-Philadelphia,never_detained,2003-02,67.0,28.0,39.0,0.0
-Philadelphia,never_detained,2003-03,67.0,25.0,40.0,2.0
-Philadelphia,never_detained,2003-04,78.0,23.0,55.0,0.0
-Philadelphia,never_detained,2003-05,51.0,18.0,33.0,0.0
-Philadelphia,never_detained,2003-06,54.0,22.0,31.0,1.0
-Philadelphia,never_detained,2003-07,38.0,13.0,25.0,0.0
-Philadelphia,never_detained,2003-08,53.0,19.0,34.0,0.0
-Philadelphia,never_detained,2003-09,34.0,11.0,22.0,1.0
-Philadelphia,never_detained,2003-10,48.0,15.0,33.0,0.0
-Philadelphia,never_detained,2003-11,49.0,23.0,25.0,1.0
-Philadelphia,never_detained,2003-12,52.0,20.0,32.0,0.0
-Philadelphia,never_detained,2004-01,49.0,16.0,33.0,0.0
-Philadelphia,never_detained,2004-02,53.0,6.0,46.0,1.0
-Philadelphia,never_detained,2004-03,99.0,25.0,73.0,1.0
-Philadelphia,never_detained,2004-04,57.0,22.0,35.0,0.0
-Philadelphia,never_detained,2004-05,57.0,10.0,46.0,1.0
-Philadelphia,never_detained,2004-06,38.0,6.0,32.0,0.0
-Philadelphia,never_detained,2004-07,45.0,7.0,38.0,0.0
-Philadelphia,never_detained,2004-08,46.0,9.0,37.0,0.0
-Philadelphia,never_detained,2004-09,53.0,10.0,42.0,1.0
-Philadelphia,never_detained,2004-10,53.0,16.0,37.0,0.0
-Philadelphia,never_detained,2004-11,54.0,9.0,45.0,0.0
-Philadelphia,never_detained,2004-12,46.0,5.0,40.0,1.0
-Philadelphia,never_detained,2005-01,59.0,3.0,55.0,1.0
-Philadelphia,never_detained,2005-02,65.0,10.0,53.0,2.0
-Philadelphia,never_detained,2005-03,48.0,10.0,37.0,1.0
-Philadelphia,never_detained,2005-04,60.0,8.0,52.0,0.0
-Philadelphia,never_detained,2005-05,52.0,11.0,40.0,1.0
-Philadelphia,never_detained,2005-06,59.0,21.0,35.0,3.0
-Philadelphia,never_detained,2005-07,55.0,6.0,49.0,0.0
-Philadelphia,never_detained,2005-08,74.0,12.0,60.0,2.0
-Philadelphia,never_detained,2005-09,79.0,4.0,74.0,1.0
-Philadelphia,never_detained,2005-10,42.0,12.0,30.0,0.0
-Philadelphia,never_detained,2005-11,59.0,9.0,50.0,0.0
-Philadelphia,never_detained,2005-12,50.0,10.0,39.0,1.0
-Philadelphia,never_detained,2006-01,46.0,12.0,34.0,0.0
-Philadelphia,never_detained,2006-02,55.0,10.0,45.0,0.0
-Philadelphia,never_detained,2006-03,86.0,15.0,69.0,2.0
-Philadelphia,never_detained,2006-04,59.0,10.0,49.0,0.0
-Philadelphia,never_detained,2006-05,37.0,9.0,27.0,1.0
-Philadelphia,never_detained,2006-06,72.0,17.0,54.0,1.0
-Philadelphia,never_detained,2006-07,54.0,8.0,46.0,0.0
-Philadelphia,never_detained,2006-08,53.0,22.0,28.0,3.0
-Philadelphia,never_detained,2006-09,43.0,18.0,25.0,0.0
-Philadelphia,never_detained,2006-10,49.0,18.0,29.0,2.0
-Philadelphia,never_detained,2006-11,28.0,9.0,19.0,0.0
-Philadelphia,never_detained,2006-12,36.0,22.0,13.0,1.0
-Philadelphia,never_detained,2007-01,60.0,13.0,45.0,2.0
-Philadelphia,never_detained,2007-02,18.0,8.0,3.0,7.0
-Philadelphia,never_detained,2007-03,39.0,15.0,24.0,0.0
-Philadelphia,never_detained,2007-04,35.0,15.0,18.0,2.0
-Philadelphia,never_detained,2007-05,29.0,19.0,9.0,1.0
-Philadelphia,never_detained,2007-06,28.0,8.0,20.0,0.0
-Philadelphia,never_detained,2007-07,17.0,7.0,9.0,1.0
-Philadelphia,never_detained,2007-08,19.0,7.0,11.0,1.0
-Philadelphia,never_detained,2007-09,21.0,14.0,7.0,0.0
-Philadelphia,never_detained,2007-10,26.0,17.0,8.0,1.0
-Philadelphia,never_detained,2007-11,31.0,20.0,11.0,0.0
-Philadelphia,never_detained,2007-12,16.0,11.0,5.0,0.0
-Philadelphia,never_detained,2008-01,23.0,8.0,15.0,0.0
-Philadelphia,never_detained,2008-02,20.0,12.0,6.0,2.0
-Philadelphia,never_detained,2008-03,6.0,2.0,4.0,0.0
-Philadelphia,never_detained,2008-04,15.0,10.0,5.0,0.0
-Philadelphia,never_detained,2008-05,20.0,10.0,10.0,0.0
-Philadelphia,never_detained,2008-06,19.0,12.0,7.0,0.0
-Philadelphia,never_detained,2008-07,34.0,19.0,15.0,0.0
-Philadelphia,never_detained,2008-08,20.0,10.0,9.0,1.0
-Philadelphia,never_detained,2008-09,18.0,10.0,8.0,0.0
-Philadelphia,never_detained,2008-10,28.0,19.0,9.0,0.0
-Philadelphia,never_detained,2008-11,16.0,10.0,6.0,0.0
-Philadelphia,never_detained,2008-12,12.0,8.0,4.0,0.0
-Philadelphia,never_detained,2009-01,24.0,9.0,15.0,0.0
-Philadelphia,never_detained,2009-02,13.0,6.0,7.0,0.0
-Philadelphia,never_detained,2009-03,13.0,7.0,6.0,0.0
-Philadelphia,never_detained,2009-04,17.0,5.0,12.0,0.0
-Philadelphia,never_detained,2009-05,7.0,2.0,5.0,0.0
-Philadelphia,never_detained,2009-06,8.0,5.0,3.0,0.0
-Philadelphia,never_detained,2009-07,16.0,7.0,9.0,0.0
-Philadelphia,never_detained,2009-08,25.0,11.0,14.0,0.0
-Philadelphia,never_detained,2009-09,13.0,5.0,8.0,0.0
-Philadelphia,never_detained,2009-10,7.0,3.0,4.0,0.0
-Philadelphia,never_detained,2009-11,16.0,8.0,8.0,0.0
-Philadelphia,never_detained,2009-12,12.0,9.0,3.0,0.0
-Philadelphia,never_detained,2010-01,14.0,10.0,4.0,0.0
-Philadelphia,never_detained,2010-02,9.0,2.0,7.0,0.0
-Philadelphia,never_detained,2010-03,18.0,6.0,12.0,0.0
-Philadelphia,never_detained,2010-04,12.0,2.0,10.0,0.0
-Philadelphia,never_detained,2010-05,18.0,9.0,9.0,0.0
-Philadelphia,never_detained,2010-06,17.0,8.0,9.0,0.0
-Philadelphia,never_detained,2010-07,4.0,1.0,3.0,0.0
-Philadelphia,never_detained,2010-08,21.0,13.0,8.0,0.0
-Philadelphia,never_detained,2010-09,10.0,7.0,3.0,0.0
-Philadelphia,never_detained,2010-10,22.0,16.0,6.0,0.0
-Philadelphia,never_detained,2010-11,15.0,8.0,7.0,0.0
-Philadelphia,never_detained,2010-12,11.0,8.0,3.0,0.0
-Philadelphia,never_detained,2011-01,11.0,6.0,5.0,0.0
-Philadelphia,never_detained,2011-02,22.0,13.0,7.0,2.0
-Philadelphia,never_detained,2011-03,12.0,9.0,3.0,0.0
-Philadelphia,never_detained,2011-04,15.0,14.0,1.0,0.0
-Philadelphia,never_detained,2011-05,22.0,17.0,5.0,0.0
-Philadelphia,never_detained,2011-06,14.0,8.0,4.0,2.0
-Philadelphia,never_detained,2011-07,11.0,5.0,5.0,1.0
-Philadelphia,never_detained,2011-08,28.0,17.0,10.0,1.0
-Philadelphia,never_detained,2011-09,25.0,16.0,9.0,0.0
-Philadelphia,never_detained,2011-10,18.0,13.0,4.0,1.0
-Philadelphia,never_detained,2011-11,7.0,5.0,2.0,0.0
-Philadelphia,never_detained,2011-12,16.0,15.0,1.0,0.0
-Philadelphia,never_detained,2012-01,20.0,5.0,11.0,4.0
-Philadelphia,never_detained,2012-02,28.0,24.0,4.0,0.0
-Philadelphia,never_detained,2012-03,28.0,17.0,11.0,0.0
-Philadelphia,never_detained,2012-04,20.0,13.0,7.0,0.0
-Philadelphia,never_detained,2012-05,9.0,6.0,3.0,0.0
-Philadelphia,never_detained,2012-06,14.0,11.0,3.0,0.0
-Philadelphia,never_detained,2012-07,19.0,12.0,7.0,0.0
-Philadelphia,never_detained,2012-08,18.0,14.0,4.0,0.0
-Philadelphia,never_detained,2012-09,12.0,6.0,5.0,1.0
-Philadelphia,never_detained,2012-10,20.0,16.0,4.0,0.0
-Philadelphia,never_detained,2012-11,8.0,6.0,2.0,0.0
-Philadelphia,never_detained,2012-12,9.0,3.0,5.0,1.0
-Philadelphia,never_detained,2013-01,12.0,10.0,1.0,1.0
-Philadelphia,never_detained,2013-02,12.0,10.0,2.0,0.0
-Philadelphia,never_detained,2013-03,13.0,9.0,4.0,0.0
-Philadelphia,never_detained,2013-04,15.0,10.0,4.0,1.0
-Philadelphia,never_detained,2013-05,15.0,10.0,5.0,0.0
-Philadelphia,never_detained,2013-06,21.0,16.0,5.0,0.0
-Philadelphia,never_detained,2013-07,10.0,8.0,2.0,0.0
-Philadelphia,never_detained,2013-08,18.0,13.0,5.0,0.0
-Philadelphia,never_detained,2013-09,9.0,8.0,1.0,0.0
-Philadelphia,never_detained,2013-10,7.0,3.0,3.0,1.0
-Philadelphia,never_detained,2013-11,11.0,3.0,8.0,0.0
-Philadelphia,never_detained,2013-12,12.0,11.0,1.0,0.0
-Philadelphia,never_detained,2014-01,9.0,8.0,1.0,0.0
-Philadelphia,never_detained,2014-02,13.0,10.0,2.0,1.0
-Philadelphia,never_detained,2014-03,11.0,9.0,2.0,0.0
-Philadelphia,never_detained,2014-04,16.0,13.0,3.0,0.0
-Philadelphia,never_detained,2014-05,15.0,6.0,9.0,0.0
-Philadelphia,never_detained,2014-06,13.0,9.0,4.0,0.0
-Philadelphia,never_detained,2014-07,12.0,7.0,5.0,0.0
-Philadelphia,never_detained,2014-08,9.0,6.0,3.0,0.0
-Philadelphia,never_detained,2014-09,11.0,5.0,6.0,0.0
-Philadelphia,never_detained,2014-10,20.0,11.0,9.0,0.0
-Philadelphia,never_detained,2014-11,8.0,5.0,3.0,0.0
-Philadelphia,never_detained,2014-12,6.0,1.0,4.0,1.0
-Philadelphia,never_detained,2015-01,6.0,2.0,4.0,0.0
-Philadelphia,never_detained,2015-02,12.0,11.0,1.0,0.0
-Philadelphia,never_detained,2015-03,6.0,6.0,0.0,0.0
-Philadelphia,never_detained,2015-04,15.0,12.0,3.0,0.0
-Philadelphia,never_detained,2015-05,2.0,2.0,0.0,0.0
-Philadelphia,never_detained,2015-06,9.0,4.0,4.0,1.0
-Philadelphia,never_detained,2015-07,5.0,4.0,1.0,0.0
-Philadelphia,never_detained,2015-08,5.0,2.0,3.0,0.0
-Philadelphia,never_detained,2015-09,5.0,4.0,1.0,0.0
-Philadelphia,never_detained,2015-10,8.0,6.0,1.0,1.0
-Philadelphia,never_detained,2015-11,4.0,4.0,0.0,0.0
-Philadelphia,never_detained,2015-12,3.0,1.0,1.0,1.0
-Philadelphia,never_detained,2016-01,7.0,5.0,2.0,0.0
-Philadelphia,never_detained,2016-02,6.0,5.0,0.0,1.0
-Philadelphia,never_detained,2016-03,11.0,9.0,2.0,0.0
-Philadelphia,never_detained,2016-04,9.0,8.0,1.0,0.0
-Philadelphia,never_detained,2016-05,9.0,5.0,4.0,0.0
-Philadelphia,never_detained,2016-06,6.0,5.0,1.0,0.0
-Philadelphia,never_detained,2016-07,11.0,9.0,2.0,0.0
-Philadelphia,never_detained,2016-08,6.0,3.0,3.0,0.0
-Philadelphia,never_detained,2016-09,15.0,5.0,10.0,0.0
-Philadelphia,never_detained,2016-10,14.0,8.0,6.0,0.0
-Philadelphia,never_detained,2016-11,23.0,14.0,9.0,0.0
-Philadelphia,never_detained,2016-12,6.0,4.0,2.0,0.0
-Philadelphia,never_detained,2017-01,26.0,18.0,8.0,0.0
-Philadelphia,never_detained,2017-02,26.0,13.0,13.0,0.0
-Philadelphia,never_detained,2017-03,23.0,19.0,4.0,0.0
-Philadelphia,never_detained,2017-04,15.0,13.0,2.0,0.0
-Philadelphia,never_detained,2017-05,15.0,7.0,8.0,0.0
-Philadelphia,never_detained,2017-06,19.0,12.0,7.0,0.0
-Philadelphia,never_detained,2017-07,11.0,6.0,5.0,0.0
-Philadelphia,never_detained,2017-08,26.0,10.0,16.0,0.0
-Philadelphia,never_detained,2017-09,38.0,21.0,17.0,0.0
-Philadelphia,never_detained,2017-10,18.0,8.0,9.0,1.0
-Philadelphia,never_detained,2017-11,38.0,28.0,10.0,0.0
-Philadelphia,never_detained,2017-12,29.0,13.0,16.0,0.0
-Philadelphia,never_detained,2018-01,23.0,15.0,6.0,2.0
-Philadelphia,never_detained,2018-02,42.0,20.0,22.0,0.0
-Philadelphia,never_detained,2018-03,37.0,19.0,17.0,1.0
-Philadelphia,never_detained,2018-04,48.0,30.0,18.0,0.0
-Philadelphia,never_detained,2018-05,20.0,17.0,3.0,0.0
-Philadelphia,never_detained,2018-06,22.0,8.0,14.0,0.0
-Philadelphia,never_detained,2018-07,11.0,6.0,5.0,0.0
-Philadelphia,never_detained,2018-08,25.0,7.0,17.0,1.0
-Philadelphia,never_detained,2018-09,24.0,11.0,13.0,0.0
-Philadelphia,never_detained,2018-10,70.0,36.0,34.0,0.0
-Philadelphia,never_detained,2018-11,78.0,30.0,44.0,4.0
-Philadelphia,never_detained,2018-12,50.0,15.0,35.0,0.0
-Philadelphia,never_detained,2019-01,5.0,3.0,2.0,0.0
-Philadelphia,never_detained,2019-02,57.0,25.0,32.0,0.0
-Philadelphia,never_detained,2019-03,71.0,27.0,44.0,0.0
-Philadelphia,never_detained,2019-04,77.0,27.0,49.0,1.0
-Philadelphia,never_detained,2019-05,83.0,34.0,47.0,2.0
-Philadelphia,never_detained,2019-06,78.0,25.0,49.0,4.0
-Philadelphia,never_detained,2019-07,48.0,15.0,33.0,0.0
-Philadelphia,never_detained,2019-08,82.0,28.0,49.0,5.0
-Philadelphia,never_detained,2019-09,66.0,31.0,35.0,0.0
-Philadelphia,never_detained,2019-10,90.0,32.0,57.0,1.0
-Philadelphia,never_detained,2019-11,78.0,21.0,57.0,0.0
-Philadelphia,never_detained,2019-12,72.0,19.0,51.0,2.0
-Philadelphia,never_detained,2020-01,83.0,23.0,60.0,0.0
-Philadelphia,never_detained,2020-02,108.0,35.0,71.0,2.0
-Philadelphia,never_detained,2020-03,47.0,19.0,28.0,0.0
-Philadelphia,never_detained,2020-04,20.0,13.0,5.0,2.0
-Philadelphia,never_detained,2020-05,4.0,3.0,1.0,0.0
-Philadelphia,never_detained,2020-06,27.0,12.0,15.0,0.0
-Philadelphia,never_detained,2020-07,22.0,7.0,13.0,2.0
-Philadelphia,never_detained,2020-08,40.0,20.0,19.0,1.0
-Philadelphia,never_detained,2020-09,49.0,13.0,36.0,0.0
-Philadelphia,never_detained,2020-10,50.0,9.0,41.0,0.0
-Philadelphia,never_detained,2020-11,63.0,11.0,50.0,2.0
-Philadelphia,never_detained,2020-12,26.0,10.0,15.0,1.0
-Philadelphia,never_detained,2021-01,45.0,21.0,24.0,0.0
-Philadelphia,never_detained,2021-02,56.0,22.0,34.0,0.0
-Philadelphia,never_detained,2021-03,58.0,26.0,32.0,0.0
-Philadelphia,never_detained,2021-04,83.0,28.0,53.0,2.0
-Philadelphia,never_detained,2021-05,52.0,25.0,27.0,0.0
-Philadelphia,never_detained,2021-06,52.0,27.0,25.0,0.0
-Philadelphia,never_detained,2021-07,49.0,27.0,22.0,0.0
-Philadelphia,never_detained,2021-08,36.0,30.0,6.0,0.0
-Philadelphia,never_detained,2021-09,45.0,21.0,24.0,0.0
-Philadelphia,never_detained,2021-10,36.0,16.0,20.0,0.0
-Philadelphia,never_detained,2021-11,43.0,27.0,15.0,1.0
-Philadelphia,never_detained,2021-12,51.0,38.0,12.0,1.0
-Philadelphia,never_detained,2022-01,36.0,25.0,11.0,0.0
-Philadelphia,never_detained,2022-02,52.0,28.0,24.0,0.0
-Philadelphia,never_detained,2022-03,57.0,28.0,28.0,1.0
-Philadelphia,never_detained,2022-04,62.0,49.0,11.0,2.0
-Philadelphia,never_detained,2022-05,34.0,19.0,13.0,2.0
-Philadelphia,never_detained,2022-06,47.0,40.0,6.0,1.0
-Philadelphia,never_detained,2022-07,58.0,42.0,14.0,2.0
-Philadelphia,never_detained,2022-08,63.0,33.0,26.0,4.0
-Philadelphia,never_detained,2022-09,120.0,51.0,68.0,1.0
-Philadelphia,never_detained,2022-10,91.0,38.0,51.0,2.0
-Philadelphia,never_detained,2022-11,93.0,45.0,44.0,4.0
-Philadelphia,never_detained,2022-12,73.0,48.0,21.0,4.0
-Philadelphia,never_detained,2023-01,66.0,33.0,25.0,8.0
-Philadelphia,never_detained,2023-02,89.0,55.0,32.0,2.0
-Philadelphia,never_detained,2023-03,87.0,42.0,43.0,2.0
-Philadelphia,never_detained,2023-04,48.0,29.0,15.0,4.0
-Philadelphia,never_detained,2023-05,49.0,30.0,13.0,6.0
-Philadelphia,never_detained,2023-06,60.0,44.0,14.0,2.0
-Philadelphia,never_detained,2023-07,64.0,42.0,20.0,2.0
-Philadelphia,never_detained,2023-08,53.0,28.0,22.0,3.0
-Philadelphia,never_detained,2023-09,60.0,39.0,17.0,4.0
-Philadelphia,never_detained,2023-10,78.0,47.0,28.0,3.0
-Philadelphia,never_detained,2023-11,45.0,27.0,18.0,0.0
-Philadelphia,never_detained,2023-12,38.0,22.0,13.0,3.0
-Philadelphia,never_detained,2024-01,33.0,18.0,13.0,2.0
-Philadelphia,never_detained,2024-02,63.0,40.0,10.0,13.0
-Philadelphia,never_detained,2024-03,63.0,37.0,22.0,4.0
-Philadelphia,never_detained,2024-04,67.0,37.0,22.0,8.0
-Philadelphia,never_detained,2024-05,47.0,32.0,14.0,1.0
-Philadelphia,never_detained,2024-06,62.0,35.0,22.0,5.0
-Philadelphia,never_detained,2024-07,37.0,17.0,18.0,2.0
-Philadelphia,never_detained,2024-08,65.0,24.0,35.0,6.0
-Philadelphia,never_detained,2024-09,51.0,22.0,28.0,1.0
-Philadelphia,never_detained,2024-10,79.0,28.0,48.0,3.0
-Philadelphia,never_detained,2024-11,78.0,35.0,39.0,4.0
-Philadelphia,never_detained,2024-12,53.0,22.0,29.0,2.0
-Philadelphia,never_detained,2025-01,68.0,22.0,43.0,3.0
-Philadelphia,never_detained,2025-02,108.0,32.0,74.0,2.0
-Philadelphia,never_detained,2025-03,120.0,42.0,75.0,3.0
-Philadelphia,never_detained,2025-04,147.0,29.0,116.0,2.0
-Philadelphia,never_detained,2025-05,122.0,19.0,101.0,2.0
-Philadelphia,never_detained,2025-06,152.0,28.0,119.0,5.0
-Philadelphia,never_detained,2025-07,179.0,57.0,121.0,1.0
-Philadelphia,never_detained,2025-08,114.0,29.0,84.0,1.0
-Philadelphia,never_detained,2025-09,197.0,52.0,142.0,3.0
-Philadelphia,never_detained,2025-10,255.0,48.0,204.0,3.0
-Philadelphia,never_detained,2025-11,208.0,47.0,160.0,1.0
-Philadelphia,never_detained,2025-12,62.0,13.0,49.0,0.0
-Philadelphia,not_known,2004-09,1.0,0.0,1.0,0.0
-Philadelphia,not_known,2025-12,1.0,0.0,1.0,0.0
-Philadelphia,released,2000-10,9.0,1.0,7.0,1.0
-Philadelphia,released,2000-11,3.0,0.0,3.0,0.0
-Philadelphia,released,2000-12,8.0,2.0,6.0,0.0
-Philadelphia,released,2001-01,15.0,3.0,12.0,0.0
-Philadelphia,released,2001-02,9.0,2.0,7.0,0.0
-Philadelphia,released,2001-03,10.0,2.0,8.0,0.0
-Philadelphia,released,2001-04,11.0,2.0,9.0,0.0
-Philadelphia,released,2001-05,7.0,1.0,6.0,0.0
-Philadelphia,released,2001-06,5.0,1.0,4.0,0.0
-Philadelphia,released,2001-07,12.0,3.0,9.0,0.0
-Philadelphia,released,2001-08,7.0,0.0,7.0,0.0
-Philadelphia,released,2001-09,7.0,0.0,7.0,0.0
-Philadelphia,released,2001-10,5.0,1.0,4.0,0.0
-Philadelphia,released,2001-11,12.0,1.0,11.0,0.0
-Philadelphia,released,2001-12,5.0,3.0,2.0,0.0
-Philadelphia,released,2002-01,12.0,1.0,11.0,0.0
-Philadelphia,released,2002-02,10.0,1.0,9.0,0.0
-Philadelphia,released,2002-03,10.0,3.0,7.0,0.0
-Philadelphia,released,2002-04,14.0,3.0,11.0,0.0
-Philadelphia,released,2002-05,7.0,2.0,3.0,2.0
-Philadelphia,released,2002-06,8.0,0.0,8.0,0.0
-Philadelphia,released,2002-07,9.0,0.0,9.0,0.0
-Philadelphia,released,2002-08,3.0,1.0,2.0,0.0
-Philadelphia,released,2002-09,6.0,1.0,5.0,0.0
-Philadelphia,released,2002-10,4.0,0.0,3.0,1.0
-Philadelphia,released,2002-11,6.0,1.0,5.0,0.0
-Philadelphia,released,2002-12,3.0,1.0,2.0,0.0
-Philadelphia,released,2003-01,9.0,4.0,5.0,0.0
-Philadelphia,released,2003-02,10.0,3.0,7.0,0.0
-Philadelphia,released,2003-03,13.0,2.0,11.0,0.0
-Philadelphia,released,2003-04,9.0,1.0,8.0,0.0
-Philadelphia,released,2003-05,10.0,3.0,7.0,0.0
-Philadelphia,released,2003-06,13.0,5.0,8.0,0.0
-Philadelphia,released,2003-07,14.0,3.0,11.0,0.0
-Philadelphia,released,2003-08,3.0,1.0,2.0,0.0
-Philadelphia,released,2003-09,17.0,6.0,11.0,0.0
-Philadelphia,released,2003-10,14.0,3.0,11.0,0.0
-Philadelphia,released,2003-11,6.0,2.0,4.0,0.0
-Philadelphia,released,2003-12,8.0,1.0,7.0,0.0
-Philadelphia,released,2004-01,14.0,0.0,14.0,0.0
-Philadelphia,released,2004-02,11.0,3.0,8.0,0.0
-Philadelphia,released,2004-03,7.0,1.0,5.0,1.0
-Philadelphia,released,2004-04,9.0,2.0,6.0,1.0
-Philadelphia,released,2004-05,17.0,2.0,13.0,2.0
-Philadelphia,released,2004-06,15.0,2.0,13.0,0.0
-Philadelphia,released,2004-07,3.0,1.0,2.0,0.0
-Philadelphia,released,2004-08,18.0,3.0,15.0,0.0
-Philadelphia,released,2004-09,17.0,4.0,11.0,2.0
-Philadelphia,released,2004-10,10.0,0.0,10.0,0.0
-Philadelphia,released,2004-11,8.0,1.0,7.0,0.0
-Philadelphia,released,2004-12,5.0,0.0,5.0,0.0
-Philadelphia,released,2005-01,9.0,0.0,9.0,0.0
-Philadelphia,released,2005-02,11.0,3.0,8.0,0.0
-Philadelphia,released,2005-03,7.0,0.0,7.0,0.0
-Philadelphia,released,2005-04,6.0,2.0,4.0,0.0
-Philadelphia,released,2005-05,9.0,0.0,9.0,0.0
-Philadelphia,released,2005-06,3.0,0.0,3.0,0.0
-Philadelphia,released,2005-07,7.0,2.0,4.0,1.0
-Philadelphia,released,2005-08,14.0,2.0,12.0,0.0
-Philadelphia,released,2005-09,10.0,0.0,10.0,0.0
-Philadelphia,released,2005-10,3.0,1.0,2.0,0.0
-Philadelphia,released,2005-11,8.0,2.0,6.0,0.0
-Philadelphia,released,2005-12,10.0,1.0,9.0,0.0
-Philadelphia,released,2006-01,8.0,1.0,7.0,0.0
-Philadelphia,released,2006-02,5.0,1.0,4.0,0.0
-Philadelphia,released,2006-03,21.0,6.0,15.0,0.0
-Philadelphia,released,2006-04,12.0,4.0,8.0,0.0
-Philadelphia,released,2006-05,3.0,1.0,2.0,0.0
-Philadelphia,released,2006-06,10.0,5.0,5.0,0.0
-Philadelphia,released,2006-07,10.0,3.0,5.0,2.0
-Philadelphia,released,2006-08,6.0,3.0,3.0,0.0
-Philadelphia,released,2006-09,7.0,4.0,2.0,1.0
-Philadelphia,released,2006-10,5.0,2.0,3.0,0.0
-Philadelphia,released,2006-11,9.0,2.0,6.0,1.0
-Philadelphia,released,2006-12,5.0,2.0,3.0,0.0
-Philadelphia,released,2007-01,12.0,7.0,5.0,0.0
-Philadelphia,released,2007-02,6.0,4.0,2.0,0.0
-Philadelphia,released,2007-03,5.0,2.0,3.0,0.0
-Philadelphia,released,2007-04,8.0,4.0,3.0,1.0
-Philadelphia,released,2007-05,8.0,1.0,7.0,0.0
-Philadelphia,released,2007-06,5.0,3.0,2.0,0.0
-Philadelphia,released,2007-07,3.0,2.0,1.0,0.0
-Philadelphia,released,2007-08,1.0,0.0,1.0,0.0
-Philadelphia,released,2007-09,1.0,0.0,1.0,0.0
-Philadelphia,released,2007-10,3.0,1.0,2.0,0.0
-Philadelphia,released,2007-11,2.0,2.0,0.0,0.0
-Philadelphia,released,2007-12,3.0,1.0,2.0,0.0
-Philadelphia,released,2008-01,5.0,1.0,4.0,0.0
-Philadelphia,released,2008-02,2.0,1.0,1.0,0.0
-Philadelphia,released,2008-03,1.0,0.0,1.0,0.0
-Philadelphia,released,2008-04,1.0,0.0,1.0,0.0
-Philadelphia,released,2008-05,7.0,7.0,0.0,0.0
-Philadelphia,released,2008-06,2.0,1.0,1.0,0.0
-Philadelphia,released,2008-07,5.0,1.0,4.0,0.0
-Philadelphia,released,2008-08,5.0,1.0,4.0,0.0
-Philadelphia,released,2008-09,3.0,1.0,2.0,0.0
-Philadelphia,released,2008-10,6.0,4.0,2.0,0.0
-Philadelphia,released,2008-11,3.0,1.0,2.0,0.0
-Philadelphia,released,2008-12,6.0,1.0,5.0,0.0
-Philadelphia,released,2009-01,2.0,0.0,2.0,0.0
-Philadelphia,released,2009-02,2.0,1.0,1.0,0.0
-Philadelphia,released,2009-03,4.0,1.0,3.0,0.0
-Philadelphia,released,2009-04,3.0,0.0,3.0,0.0
-Philadelphia,released,2009-05,3.0,1.0,2.0,0.0
-Philadelphia,released,2009-06,3.0,1.0,2.0,0.0
-Philadelphia,released,2009-07,5.0,0.0,5.0,0.0
-Philadelphia,released,2009-08,4.0,1.0,3.0,0.0
-Philadelphia,released,2009-09,2.0,2.0,0.0,0.0
-Philadelphia,released,2009-10,3.0,0.0,3.0,0.0
-Philadelphia,released,2009-11,4.0,3.0,1.0,0.0
-Philadelphia,released,2009-12,3.0,1.0,2.0,0.0
-Philadelphia,released,2010-01,3.0,0.0,3.0,0.0
-Philadelphia,released,2010-02,3.0,1.0,2.0,0.0
-Philadelphia,released,2010-03,4.0,1.0,3.0,0.0
-Philadelphia,released,2010-04,8.0,2.0,6.0,0.0
-Philadelphia,released,2010-05,1.0,1.0,0.0,0.0
-Philadelphia,released,2010-06,3.0,1.0,2.0,0.0
-Philadelphia,released,2010-07,5.0,2.0,3.0,0.0
-Philadelphia,released,2010-08,4.0,1.0,2.0,1.0
-Philadelphia,released,2010-10,1.0,1.0,0.0,0.0
-Philadelphia,released,2010-11,4.0,1.0,3.0,0.0
-Philadelphia,released,2010-12,3.0,0.0,2.0,1.0
-Philadelphia,released,2011-01,4.0,1.0,3.0,0.0
-Philadelphia,released,2011-02,3.0,2.0,1.0,0.0
-Philadelphia,released,2011-03,5.0,2.0,3.0,0.0
-Philadelphia,released,2011-04,5.0,0.0,5.0,0.0
-Philadelphia,released,2011-05,3.0,2.0,1.0,0.0
-Philadelphia,released,2011-06,6.0,5.0,1.0,0.0
-Philadelphia,released,2011-07,7.0,5.0,2.0,0.0
-Philadelphia,released,2011-08,3.0,1.0,2.0,0.0
-Philadelphia,released,2011-09,4.0,2.0,2.0,0.0
-Philadelphia,released,2011-10,5.0,4.0,1.0,0.0
-Philadelphia,released,2011-11,3.0,2.0,1.0,0.0
-Philadelphia,released,2011-12,2.0,1.0,1.0,0.0
-Philadelphia,released,2012-01,1.0,1.0,0.0,0.0
-Philadelphia,released,2012-02,3.0,1.0,2.0,0.0
-Philadelphia,released,2012-03,4.0,1.0,3.0,0.0
-Philadelphia,released,2012-04,7.0,4.0,3.0,0.0
-Philadelphia,released,2012-05,3.0,0.0,3.0,0.0
-Philadelphia,released,2012-06,10.0,8.0,2.0,0.0
-Philadelphia,released,2012-07,3.0,2.0,1.0,0.0
-Philadelphia,released,2012-08,5.0,2.0,3.0,0.0
-Philadelphia,released,2012-09,3.0,1.0,2.0,0.0
-Philadelphia,released,2012-10,9.0,3.0,6.0,0.0
-Philadelphia,released,2012-11,2.0,2.0,0.0,0.0
-Philadelphia,released,2012-12,3.0,1.0,1.0,1.0
-Philadelphia,released,2013-01,2.0,2.0,0.0,0.0
-Philadelphia,released,2013-02,7.0,2.0,5.0,0.0
-Philadelphia,released,2013-03,4.0,1.0,3.0,0.0
-Philadelphia,released,2013-04,6.0,2.0,4.0,0.0
-Philadelphia,released,2013-05,7.0,4.0,3.0,0.0
-Philadelphia,released,2013-06,5.0,3.0,2.0,0.0
-Philadelphia,released,2013-07,8.0,1.0,7.0,0.0
-Philadelphia,released,2013-08,5.0,4.0,1.0,0.0
-Philadelphia,released,2013-09,6.0,4.0,2.0,0.0
-Philadelphia,released,2013-10,4.0,3.0,1.0,0.0
-Philadelphia,released,2013-11,6.0,1.0,4.0,1.0
-Philadelphia,released,2013-12,6.0,2.0,4.0,0.0
-Philadelphia,released,2014-01,5.0,4.0,1.0,0.0
-Philadelphia,released,2014-02,2.0,1.0,1.0,0.0
-Philadelphia,released,2014-03,6.0,4.0,2.0,0.0
-Philadelphia,released,2014-04,7.0,6.0,1.0,0.0
-Philadelphia,released,2014-05,5.0,2.0,3.0,0.0
-Philadelphia,released,2014-06,8.0,6.0,2.0,0.0
-Philadelphia,released,2014-07,1.0,0.0,1.0,0.0
-Philadelphia,released,2014-08,8.0,2.0,6.0,0.0
-Philadelphia,released,2014-09,4.0,2.0,1.0,1.0
-Philadelphia,released,2014-10,5.0,1.0,4.0,0.0
-Philadelphia,released,2014-11,6.0,1.0,5.0,0.0
-Philadelphia,released,2014-12,4.0,1.0,2.0,1.0
-Philadelphia,released,2015-01,5.0,2.0,2.0,1.0
-Philadelphia,released,2015-02,4.0,0.0,4.0,0.0
-Philadelphia,released,2015-03,1.0,1.0,0.0,0.0
-Philadelphia,released,2015-04,1.0,1.0,0.0,0.0
-Philadelphia,released,2015-05,2.0,1.0,1.0,0.0
-Philadelphia,released,2015-06,4.0,2.0,2.0,0.0
-Philadelphia,released,2015-07,1.0,1.0,0.0,0.0
-Philadelphia,released,2015-08,4.0,1.0,3.0,0.0
-Philadelphia,released,2015-09,4.0,1.0,3.0,0.0
-Philadelphia,released,2015-10,2.0,1.0,1.0,0.0
-Philadelphia,released,2015-11,3.0,2.0,1.0,0.0
-Philadelphia,released,2015-12,4.0,3.0,1.0,0.0
-Philadelphia,released,2016-01,1.0,1.0,0.0,0.0
-Philadelphia,released,2016-02,10.0,7.0,3.0,0.0
-Philadelphia,released,2016-03,9.0,9.0,0.0,0.0
-Philadelphia,released,2016-04,6.0,5.0,1.0,0.0
-Philadelphia,released,2016-05,5.0,5.0,0.0,0.0
-Philadelphia,released,2016-06,7.0,5.0,1.0,1.0
-Philadelphia,released,2016-07,5.0,3.0,2.0,0.0
-Philadelphia,released,2016-08,5.0,2.0,3.0,0.0
-Philadelphia,released,2016-09,4.0,0.0,4.0,0.0
-Philadelphia,released,2016-10,3.0,1.0,2.0,0.0
-Philadelphia,released,2016-11,8.0,4.0,4.0,0.0
-Philadelphia,released,2016-12,3.0,1.0,2.0,0.0
-Philadelphia,released,2017-01,7.0,3.0,4.0,0.0
-Philadelphia,released,2017-02,9.0,7.0,2.0,0.0
-Philadelphia,released,2017-03,7.0,3.0,4.0,0.0
-Philadelphia,released,2017-04,13.0,8.0,5.0,0.0
-Philadelphia,released,2017-05,2.0,1.0,1.0,0.0
-Philadelphia,released,2017-06,11.0,6.0,4.0,1.0
-Philadelphia,released,2017-07,3.0,3.0,0.0,0.0
-Philadelphia,released,2017-08,15.0,7.0,7.0,1.0
-Philadelphia,released,2017-09,8.0,5.0,3.0,0.0
-Philadelphia,released,2017-10,10.0,4.0,4.0,2.0
-Philadelphia,released,2017-11,7.0,4.0,3.0,0.0
-Philadelphia,released,2017-12,7.0,3.0,4.0,0.0
-Philadelphia,released,2018-01,15.0,11.0,4.0,0.0
-Philadelphia,released,2018-02,12.0,4.0,8.0,0.0
-Philadelphia,released,2018-03,16.0,5.0,10.0,1.0
-Philadelphia,released,2018-04,7.0,2.0,5.0,0.0
-Philadelphia,released,2018-05,15.0,3.0,12.0,0.0
-Philadelphia,released,2018-06,18.0,9.0,9.0,0.0
-Philadelphia,released,2018-07,10.0,6.0,4.0,0.0
-Philadelphia,released,2018-08,9.0,3.0,6.0,0.0
-Philadelphia,released,2018-09,10.0,6.0,4.0,0.0
-Philadelphia,released,2018-10,19.0,10.0,8.0,1.0
-Philadelphia,released,2018-11,24.0,7.0,17.0,0.0
-Philadelphia,released,2018-12,14.0,8.0,6.0,0.0
-Philadelphia,released,2019-01,5.0,2.0,3.0,0.0
-Philadelphia,released,2019-02,12.0,6.0,6.0,0.0
-Philadelphia,released,2019-03,28.0,9.0,17.0,2.0
-Philadelphia,released,2019-04,25.0,11.0,13.0,1.0
-Philadelphia,released,2019-05,26.0,7.0,15.0,4.0
-Philadelphia,released,2019-06,31.0,8.0,20.0,3.0
-Philadelphia,released,2019-07,9.0,4.0,5.0,0.0
-Philadelphia,released,2019-08,19.0,6.0,13.0,0.0
-Philadelphia,released,2019-09,25.0,5.0,20.0,0.0
-Philadelphia,released,2019-10,24.0,6.0,16.0,2.0
-Philadelphia,released,2019-11,23.0,10.0,11.0,2.0
-Philadelphia,released,2019-12,17.0,5.0,10.0,2.0
-Philadelphia,released,2020-01,22.0,1.0,21.0,0.0
-Philadelphia,released,2020-02,20.0,8.0,11.0,1.0
-Philadelphia,released,2020-03,17.0,5.0,11.0,1.0
-Philadelphia,released,2020-04,1.0,0.0,1.0,0.0
-Philadelphia,released,2020-05,1.0,0.0,1.0,0.0
-Philadelphia,released,2020-06,9.0,1.0,8.0,0.0
-Philadelphia,released,2020-07,3.0,0.0,2.0,1.0
-Philadelphia,released,2020-08,11.0,5.0,6.0,0.0
-Philadelphia,released,2020-09,26.0,8.0,18.0,0.0
-Philadelphia,released,2020-10,13.0,4.0,8.0,1.0
-Philadelphia,released,2020-11,19.0,7.0,10.0,2.0
-Philadelphia,released,2020-12,9.0,3.0,6.0,0.0
-Philadelphia,released,2021-01,12.0,3.0,9.0,0.0
-Philadelphia,released,2021-02,13.0,2.0,11.0,0.0
-Philadelphia,released,2021-03,19.0,7.0,11.0,1.0
-Philadelphia,released,2021-04,19.0,6.0,12.0,1.0
-Philadelphia,released,2021-05,22.0,6.0,16.0,0.0
-Philadelphia,released,2021-06,11.0,6.0,5.0,0.0
-Philadelphia,released,2021-07,10.0,1.0,9.0,0.0
-Philadelphia,released,2021-08,7.0,4.0,3.0,0.0
-Philadelphia,released,2021-09,17.0,11.0,6.0,0.0
-Philadelphia,released,2021-10,16.0,11.0,5.0,0.0
-Philadelphia,released,2021-11,9.0,3.0,3.0,3.0
-Philadelphia,released,2021-12,6.0,3.0,3.0,0.0
-Philadelphia,released,2022-01,12.0,7.0,3.0,2.0
-Philadelphia,released,2022-02,10.0,8.0,2.0,0.0
-Philadelphia,released,2022-03,18.0,7.0,8.0,3.0
-Philadelphia,released,2022-04,5.0,3.0,2.0,0.0
-Philadelphia,released,2022-05,6.0,3.0,3.0,0.0
-Philadelphia,released,2022-06,8.0,3.0,4.0,1.0
-Philadelphia,released,2022-07,14.0,5.0,8.0,1.0
-Philadelphia,released,2022-08,13.0,8.0,5.0,0.0
-Philadelphia,released,2022-09,18.0,11.0,6.0,1.0
-Philadelphia,released,2022-10,16.0,7.0,9.0,0.0
-Philadelphia,released,2022-11,19.0,11.0,8.0,0.0
-Philadelphia,released,2022-12,9.0,4.0,5.0,0.0
-Philadelphia,released,2023-01,6.0,2.0,4.0,0.0
-Philadelphia,released,2023-02,11.0,5.0,5.0,1.0
-Philadelphia,released,2023-03,12.0,8.0,4.0,0.0
-Philadelphia,released,2023-04,18.0,7.0,10.0,1.0
-Philadelphia,released,2023-05,22.0,12.0,9.0,1.0
-Philadelphia,released,2023-06,10.0,7.0,2.0,1.0
-Philadelphia,released,2023-07,9.0,8.0,1.0,0.0
-Philadelphia,released,2023-08,13.0,6.0,7.0,0.0
-Philadelphia,released,2023-09,10.0,3.0,6.0,1.0
-Philadelphia,released,2023-10,12.0,6.0,5.0,1.0
-Philadelphia,released,2023-11,10.0,6.0,4.0,0.0
-Philadelphia,released,2023-12,10.0,7.0,3.0,0.0
-Philadelphia,released,2024-01,13.0,6.0,6.0,1.0
-Philadelphia,released,2024-02,6.0,3.0,3.0,0.0
-Philadelphia,released,2024-03,7.0,5.0,2.0,0.0
-Philadelphia,released,2024-04,9.0,5.0,3.0,1.0
-Philadelphia,released,2024-05,14.0,7.0,4.0,3.0
-Philadelphia,released,2024-06,8.0,3.0,5.0,0.0
-Philadelphia,released,2024-07,6.0,2.0,3.0,1.0
-Philadelphia,released,2024-08,12.0,9.0,2.0,1.0
-Philadelphia,released,2024-09,12.0,6.0,5.0,1.0
-Philadelphia,released,2024-10,13.0,4.0,8.0,1.0
-Philadelphia,released,2024-11,9.0,5.0,4.0,0.0
-Philadelphia,released,2024-12,9.0,6.0,2.0,1.0
-Philadelphia,released,2025-01,8.0,1.0,7.0,0.0
-Philadelphia,released,2025-02,17.0,5.0,12.0,0.0
-Philadelphia,released,2025-03,21.0,8.0,13.0,0.0
-Philadelphia,released,2025-04,15.0,5.0,10.0,0.0
-Philadelphia,released,2025-05,15.0,7.0,8.0,0.0
-Philadelphia,released,2025-06,18.0,7.0,10.0,1.0
-Philadelphia,released,2025-07,12.0,2.0,9.0,1.0
-Philadelphia,released,2025-08,25.0,12.0,12.0,1.0
-Philadelphia,released,2025-09,24.0,6.0,18.0,0.0
-Philadelphia,released,2025-10,20.0,3.0,17.0,0.0
-Philadelphia,released,2025-11,12.0,2.0,10.0,0.0
-Philadelphia,released,2025-12,13.0,1.0,12.0,0.0
+Detroit,detained,2000-10,2.0,0.0,2.0,0.0
+Detroit,detained,2000-11,2.0,0.0,2.0,0.0
+Detroit,detained,2000-12,3.0,0.0,3.0,0.0
+Detroit,detained,2001-01,1.0,1.0,0.0,0.0
+Detroit,detained,2001-02,3.0,1.0,2.0,0.0
+Detroit,detained,2001-03,3.0,0.0,3.0,0.0
+Detroit,detained,2001-04,4.0,1.0,3.0,0.0
+Detroit,detained,2001-05,5.0,2.0,2.0,1.0
+Detroit,detained,2001-06,2.0,0.0,2.0,0.0
+Detroit,detained,2001-07,3.0,1.0,2.0,0.0
+Detroit,detained,2001-08,2.0,1.0,1.0,0.0
+Detroit,detained,2001-09,2.0,0.0,2.0,0.0
+Detroit,detained,2001-10,4.0,0.0,4.0,0.0
+Detroit,detained,2001-11,3.0,0.0,3.0,0.0
+Detroit,detained,2001-12,2.0,0.0,2.0,0.0
+Detroit,detained,2002-01,8.0,2.0,6.0,0.0
+Detroit,detained,2002-02,15.0,1.0,14.0,0.0
+Detroit,detained,2002-03,13.0,1.0,12.0,0.0
+Detroit,detained,2002-04,10.0,3.0,7.0,0.0
+Detroit,detained,2002-05,7.0,0.0,7.0,0.0
+Detroit,detained,2002-06,2.0,0.0,2.0,0.0
+Detroit,detained,2002-07,7.0,0.0,7.0,0.0
+Detroit,detained,2002-08,5.0,0.0,5.0,0.0
+Detroit,detained,2002-09,8.0,1.0,7.0,0.0
+Detroit,detained,2002-10,9.0,1.0,7.0,1.0
+Detroit,detained,2002-11,8.0,0.0,8.0,0.0
+Detroit,detained,2002-12,2.0,0.0,2.0,0.0
+Detroit,detained,2003-01,7.0,0.0,7.0,0.0
+Detroit,detained,2003-02,5.0,2.0,3.0,0.0
+Detroit,detained,2003-03,2.0,0.0,2.0,0.0
+Detroit,detained,2003-04,9.0,1.0,8.0,0.0
+Detroit,detained,2003-05,5.0,0.0,5.0,0.0
+Detroit,detained,2003-06,3.0,0.0,3.0,0.0
+Detroit,detained,2003-07,6.0,0.0,6.0,0.0
+Detroit,detained,2003-08,2.0,0.0,2.0,0.0
+Detroit,detained,2003-09,4.0,1.0,3.0,0.0
+Detroit,detained,2003-10,1.0,0.0,1.0,0.0
+Detroit,detained,2003-11,4.0,1.0,3.0,0.0
+Detroit,detained,2003-12,4.0,0.0,4.0,0.0
+Detroit,detained,2004-01,4.0,0.0,4.0,0.0
+Detroit,detained,2004-02,4.0,0.0,4.0,0.0
+Detroit,detained,2004-03,4.0,0.0,4.0,0.0
+Detroit,detained,2004-04,3.0,0.0,3.0,0.0
+Detroit,detained,2004-05,2.0,0.0,2.0,0.0
+Detroit,detained,2004-06,6.0,1.0,5.0,0.0
+Detroit,detained,2004-07,3.0,0.0,3.0,0.0
+Detroit,detained,2004-08,2.0,0.0,2.0,0.0
+Detroit,detained,2004-09,2.0,0.0,2.0,0.0
+Detroit,detained,2004-10,2.0,0.0,2.0,0.0
+Detroit,detained,2004-11,3.0,0.0,3.0,0.0
+Detroit,detained,2004-12,1.0,0.0,1.0,0.0
+Detroit,detained,2005-02,4.0,0.0,3.0,1.0
+Detroit,detained,2005-03,2.0,0.0,2.0,0.0
+Detroit,detained,2005-04,7.0,3.0,4.0,0.0
+Detroit,detained,2005-05,6.0,0.0,6.0,0.0
+Detroit,detained,2005-06,6.0,0.0,6.0,0.0
+Detroit,detained,2005-07,1.0,0.0,1.0,0.0
+Detroit,detained,2005-09,2.0,0.0,2.0,0.0
+Detroit,detained,2005-10,4.0,0.0,3.0,1.0
+Detroit,detained,2005-11,3.0,0.0,3.0,0.0
+Detroit,detained,2005-12,1.0,0.0,1.0,0.0
+Detroit,detained,2006-01,3.0,0.0,3.0,0.0
+Detroit,detained,2006-02,9.0,0.0,9.0,0.0
+Detroit,detained,2006-03,8.0,0.0,8.0,0.0
+Detroit,detained,2006-04,10.0,0.0,10.0,0.0
+Detroit,detained,2006-05,5.0,1.0,4.0,0.0
+Detroit,detained,2006-06,5.0,1.0,4.0,0.0
+Detroit,detained,2006-07,1.0,0.0,1.0,0.0
+Detroit,detained,2006-08,3.0,1.0,2.0,0.0
+Detroit,detained,2006-09,2.0,1.0,1.0,0.0
+Detroit,detained,2006-10,1.0,0.0,1.0,0.0
+Detroit,detained,2006-11,4.0,0.0,4.0,0.0
+Detroit,detained,2006-12,2.0,0.0,2.0,0.0
+Detroit,detained,2007-01,2.0,2.0,0.0,0.0
+Detroit,detained,2007-02,1.0,0.0,1.0,0.0
+Detroit,detained,2007-04,1.0,0.0,1.0,0.0
+Detroit,detained,2007-05,2.0,0.0,2.0,0.0
+Detroit,detained,2007-06,2.0,1.0,1.0,0.0
+Detroit,detained,2007-09,3.0,0.0,3.0,0.0
+Detroit,detained,2007-10,1.0,0.0,1.0,0.0
+Detroit,detained,2007-11,1.0,0.0,1.0,0.0
+Detroit,detained,2007-12,2.0,0.0,2.0,0.0
+Detroit,detained,2008-01,1.0,0.0,1.0,0.0
+Detroit,detained,2008-02,5.0,0.0,5.0,0.0
+Detroit,detained,2008-03,4.0,0.0,4.0,0.0
+Detroit,detained,2008-04,4.0,2.0,2.0,0.0
+Detroit,detained,2008-05,3.0,1.0,2.0,0.0
+Detroit,detained,2008-08,1.0,0.0,1.0,0.0
+Detroit,detained,2008-10,3.0,0.0,3.0,0.0
+Detroit,detained,2008-11,2.0,0.0,2.0,0.0
+Detroit,detained,2009-02,3.0,0.0,3.0,0.0
+Detroit,detained,2009-03,4.0,0.0,4.0,0.0
+Detroit,detained,2009-04,4.0,0.0,4.0,0.0
+Detroit,detained,2009-05,3.0,0.0,3.0,0.0
+Detroit,detained,2009-06,5.0,0.0,5.0,0.0
+Detroit,detained,2009-07,3.0,0.0,3.0,0.0
+Detroit,detained,2009-08,1.0,1.0,0.0,0.0
+Detroit,detained,2009-09,2.0,0.0,2.0,0.0
+Detroit,detained,2009-10,3.0,2.0,1.0,0.0
+Detroit,detained,2009-12,1.0,1.0,0.0,0.0
+Detroit,detained,2010-01,1.0,0.0,1.0,0.0
+Detroit,detained,2010-02,2.0,0.0,2.0,0.0
+Detroit,detained,2010-03,2.0,1.0,1.0,0.0
+Detroit,detained,2010-05,2.0,0.0,2.0,0.0
+Detroit,detained,2010-06,1.0,0.0,1.0,0.0
+Detroit,detained,2010-07,1.0,0.0,1.0,0.0
+Detroit,detained,2010-09,1.0,0.0,1.0,0.0
+Detroit,detained,2010-10,1.0,0.0,1.0,0.0
+Detroit,detained,2010-11,2.0,0.0,2.0,0.0
+Detroit,detained,2010-12,3.0,0.0,3.0,0.0
+Detroit,detained,2011-01,3.0,1.0,2.0,0.0
+Detroit,detained,2011-03,3.0,0.0,3.0,0.0
+Detroit,detained,2011-04,5.0,0.0,5.0,0.0
+Detroit,detained,2011-05,3.0,0.0,3.0,0.0
+Detroit,detained,2011-06,3.0,0.0,3.0,0.0
+Detroit,detained,2011-07,4.0,1.0,3.0,0.0
+Detroit,detained,2011-08,2.0,0.0,2.0,0.0
+Detroit,detained,2011-09,6.0,0.0,6.0,0.0
+Detroit,detained,2011-10,6.0,0.0,5.0,1.0
+Detroit,detained,2011-12,4.0,0.0,3.0,1.0
+Detroit,detained,2012-01,5.0,0.0,5.0,0.0
+Detroit,detained,2012-02,2.0,0.0,2.0,0.0
+Detroit,detained,2012-03,6.0,1.0,5.0,0.0
+Detroit,detained,2012-04,3.0,0.0,3.0,0.0
+Detroit,detained,2012-05,8.0,0.0,7.0,1.0
+Detroit,detained,2012-06,7.0,0.0,5.0,2.0
+Detroit,detained,2012-07,3.0,0.0,3.0,0.0
+Detroit,detained,2012-08,5.0,0.0,5.0,0.0
+Detroit,detained,2012-09,2.0,1.0,0.0,1.0
+Detroit,detained,2012-10,5.0,1.0,4.0,0.0
+Detroit,detained,2012-11,1.0,0.0,1.0,0.0
+Detroit,detained,2012-12,4.0,0.0,4.0,0.0
+Detroit,detained,2013-01,2.0,0.0,2.0,0.0
+Detroit,detained,2013-02,2.0,1.0,1.0,0.0
+Detroit,detained,2013-03,3.0,0.0,3.0,0.0
+Detroit,detained,2013-04,2.0,0.0,2.0,0.0
+Detroit,detained,2013-05,5.0,0.0,4.0,1.0
+Detroit,detained,2013-06,7.0,0.0,7.0,0.0
+Detroit,detained,2013-07,8.0,1.0,7.0,0.0
+Detroit,detained,2013-08,5.0,0.0,4.0,1.0
+Detroit,detained,2013-09,3.0,0.0,3.0,0.0
+Detroit,detained,2013-10,2.0,0.0,1.0,1.0
+Detroit,detained,2013-11,4.0,1.0,3.0,0.0
+Detroit,detained,2013-12,6.0,0.0,6.0,0.0
+Detroit,detained,2014-01,9.0,3.0,6.0,0.0
+Detroit,detained,2014-02,5.0,1.0,4.0,0.0
+Detroit,detained,2014-03,7.0,0.0,6.0,1.0
+Detroit,detained,2014-04,13.0,1.0,10.0,2.0
+Detroit,detained,2014-05,11.0,0.0,11.0,0.0
+Detroit,detained,2014-06,12.0,1.0,11.0,0.0
+Detroit,detained,2014-07,8.0,1.0,7.0,0.0
+Detroit,detained,2014-08,4.0,2.0,2.0,0.0
+Detroit,detained,2014-09,6.0,1.0,5.0,0.0
+Detroit,detained,2014-10,3.0,0.0,3.0,0.0
+Detroit,detained,2014-11,4.0,0.0,4.0,0.0
+Detroit,detained,2014-12,3.0,1.0,2.0,0.0
+Detroit,detained,2015-01,1.0,0.0,1.0,0.0
+Detroit,detained,2015-02,8.0,1.0,7.0,0.0
+Detroit,detained,2015-03,5.0,0.0,5.0,0.0
+Detroit,detained,2015-04,1.0,0.0,1.0,0.0
+Detroit,detained,2015-05,1.0,0.0,1.0,0.0
+Detroit,detained,2015-06,6.0,1.0,5.0,0.0
+Detroit,detained,2015-07,1.0,0.0,1.0,0.0
+Detroit,detained,2015-08,2.0,0.0,2.0,0.0
+Detroit,detained,2015-09,3.0,0.0,3.0,0.0
+Detroit,detained,2015-10,3.0,0.0,3.0,0.0
+Detroit,detained,2015-11,1.0,0.0,1.0,0.0
+Detroit,detained,2015-12,7.0,0.0,6.0,1.0
+Detroit,detained,2016-01,4.0,0.0,4.0,0.0
+Detroit,detained,2016-02,3.0,1.0,2.0,0.0
+Detroit,detained,2016-03,17.0,1.0,16.0,0.0
+Detroit,detained,2016-04,12.0,3.0,9.0,0.0
+Detroit,detained,2016-05,22.0,1.0,21.0,0.0
+Detroit,detained,2016-06,9.0,2.0,6.0,1.0
+Detroit,detained,2016-07,9.0,0.0,9.0,0.0
+Detroit,detained,2016-08,7.0,1.0,5.0,1.0
+Detroit,detained,2016-09,8.0,1.0,5.0,2.0
+Detroit,detained,2016-10,5.0,0.0,5.0,0.0
+Detroit,detained,2016-11,16.0,3.0,11.0,2.0
+Detroit,detained,2016-12,19.0,0.0,16.0,3.0
+Detroit,detained,2017-01,8.0,3.0,5.0,0.0
+Detroit,detained,2017-02,9.0,0.0,9.0,0.0
+Detroit,detained,2017-03,9.0,3.0,6.0,0.0
+Detroit,detained,2017-04,6.0,1.0,5.0,0.0
+Detroit,detained,2017-05,14.0,4.0,10.0,0.0
+Detroit,detained,2017-06,12.0,4.0,8.0,0.0
+Detroit,detained,2017-07,6.0,3.0,3.0,0.0
+Detroit,detained,2017-08,5.0,1.0,4.0,0.0
+Detroit,detained,2017-09,7.0,0.0,7.0,0.0
+Detroit,detained,2017-10,10.0,0.0,9.0,1.0
+Detroit,detained,2017-11,12.0,4.0,8.0,0.0
+Detroit,detained,2017-12,3.0,2.0,1.0,0.0
+Detroit,detained,2018-01,9.0,0.0,9.0,0.0
+Detroit,detained,2018-02,2.0,1.0,1.0,0.0
+Detroit,detained,2018-03,7.0,1.0,6.0,0.0
+Detroit,detained,2018-04,5.0,1.0,4.0,0.0
+Detroit,detained,2018-05,7.0,2.0,5.0,0.0
+Detroit,detained,2018-06,6.0,1.0,5.0,0.0
+Detroit,detained,2018-07,3.0,1.0,2.0,0.0
+Detroit,detained,2018-08,5.0,0.0,5.0,0.0
+Detroit,detained,2018-09,8.0,2.0,6.0,0.0
+Detroit,detained,2018-10,5.0,0.0,5.0,0.0
+Detroit,detained,2018-11,5.0,1.0,4.0,0.0
+Detroit,detained,2018-12,3.0,0.0,3.0,0.0
+Detroit,detained,2019-01,3.0,0.0,3.0,0.0
+Detroit,detained,2019-02,3.0,0.0,3.0,0.0
+Detroit,detained,2019-03,10.0,0.0,10.0,0.0
+Detroit,detained,2019-04,5.0,2.0,2.0,1.0
+Detroit,detained,2019-05,11.0,1.0,9.0,1.0
+Detroit,detained,2019-06,5.0,1.0,4.0,0.0
+Detroit,detained,2019-07,15.0,2.0,11.0,2.0
+Detroit,detained,2019-08,9.0,2.0,7.0,0.0
+Detroit,detained,2019-09,9.0,1.0,8.0,0.0
+Detroit,detained,2019-10,12.0,2.0,9.0,1.0
+Detroit,detained,2019-11,11.0,0.0,11.0,0.0
+Detroit,detained,2019-12,5.0,1.0,3.0,1.0
+Detroit,detained,2020-01,8.0,1.0,7.0,0.0
+Detroit,detained,2020-02,5.0,1.0,4.0,0.0
+Detroit,detained,2020-03,7.0,0.0,6.0,1.0
+Detroit,detained,2020-04,4.0,1.0,3.0,0.0
+Detroit,detained,2020-05,5.0,0.0,5.0,0.0
+Detroit,detained,2020-06,11.0,2.0,7.0,2.0
+Detroit,detained,2020-07,3.0,0.0,3.0,0.0
+Detroit,detained,2020-10,4.0,0.0,4.0,0.0
+Detroit,detained,2020-11,1.0,0.0,0.0,1.0
+Detroit,detained,2020-12,6.0,0.0,3.0,3.0
+Detroit,detained,2021-02,1.0,0.0,1.0,0.0
+Detroit,detained,2021-04,3.0,0.0,3.0,0.0
+Detroit,detained,2021-05,1.0,0.0,1.0,0.0
+Detroit,detained,2021-06,1.0,0.0,1.0,0.0
+Detroit,detained,2021-07,1.0,0.0,1.0,0.0
+Detroit,detained,2021-08,1.0,0.0,1.0,0.0
+Detroit,detained,2021-09,1.0,0.0,1.0,0.0
+Detroit,detained,2021-10,3.0,1.0,2.0,0.0
+Detroit,detained,2021-11,2.0,0.0,2.0,0.0
+Detroit,detained,2021-12,2.0,0.0,1.0,1.0
+Detroit,detained,2022-01,3.0,0.0,3.0,0.0
+Detroit,detained,2022-03,1.0,0.0,1.0,0.0
+Detroit,detained,2022-05,1.0,0.0,0.0,1.0
+Detroit,detained,2022-06,2.0,0.0,2.0,0.0
+Detroit,detained,2022-09,1.0,0.0,1.0,0.0
+Detroit,detained,2022-10,1.0,0.0,1.0,0.0
+Detroit,detained,2022-11,2.0,0.0,2.0,0.0
+Detroit,detained,2022-12,4.0,0.0,3.0,1.0
+Detroit,detained,2023-01,5.0,0.0,5.0,0.0
+Detroit,detained,2023-02,6.0,1.0,5.0,0.0
+Detroit,detained,2023-03,2.0,0.0,2.0,0.0
+Detroit,detained,2023-04,4.0,0.0,4.0,0.0
+Detroit,detained,2023-05,2.0,0.0,2.0,0.0
+Detroit,detained,2023-06,3.0,0.0,3.0,0.0
+Detroit,detained,2023-07,1.0,0.0,1.0,0.0
+Detroit,detained,2023-08,3.0,0.0,3.0,0.0
+Detroit,detained,2023-09,9.0,1.0,8.0,0.0
+Detroit,detained,2023-10,12.0,0.0,12.0,0.0
+Detroit,detained,2023-11,11.0,0.0,11.0,0.0
+Detroit,detained,2023-12,9.0,0.0,9.0,0.0
+Detroit,detained,2024-01,4.0,0.0,4.0,0.0
+Detroit,detained,2024-02,12.0,1.0,11.0,0.0
+Detroit,detained,2024-03,8.0,0.0,8.0,0.0
+Detroit,detained,2024-04,6.0,1.0,5.0,0.0
+Detroit,detained,2024-05,15.0,2.0,13.0,0.0
+Detroit,detained,2024-06,6.0,2.0,2.0,2.0
+Detroit,detained,2024-07,15.0,1.0,13.0,1.0
+Detroit,detained,2024-08,7.0,0.0,7.0,0.0
+Detroit,detained,2024-09,8.0,0.0,8.0,0.0
+Detroit,detained,2024-10,16.0,1.0,14.0,1.0
+Detroit,detained,2024-11,11.0,1.0,10.0,0.0
+Detroit,detained,2024-12,8.0,1.0,7.0,0.0
+Detroit,detained,2025-01,10.0,0.0,9.0,1.0
+Detroit,detained,2025-02,18.0,0.0,9.0,9.0
+Detroit,detained,2025-03,11.0,0.0,11.0,0.0
+Detroit,detained,2025-04,21.0,0.0,21.0,0.0
+Detroit,detained,2025-05,13.0,0.0,13.0,0.0
+Detroit,detained,2025-06,5.0,0.0,4.0,1.0
+Detroit,detained,2025-07,15.0,0.0,14.0,1.0
+Detroit,detained,2025-08,15.0,0.0,15.0,0.0
+Detroit,detained,2025-09,11.0,0.0,8.0,3.0
+Detroit,detained,2025-10,18.0,0.0,17.0,1.0
+Detroit,detained,2025-11,10.0,0.0,9.0,1.0
+Detroit,detained,2025-12,19.0,0.0,19.0,0.0
+Detroit,detained,2026-01,26.0,0.0,25.0,1.0
+Detroit,detained,2026-02,46.0,0.0,46.0,0.0
+Detroit,detained,2026-03,37.0,0.0,37.0,0.0
+Detroit,never_detained,2000-10,39.0,17.0,22.0,0.0
+Detroit,never_detained,2000-11,62.0,14.0,48.0,0.0
+Detroit,never_detained,2000-12,42.0,16.0,26.0,0.0
+Detroit,never_detained,2001-01,19.0,1.0,18.0,0.0
+Detroit,never_detained,2001-02,44.0,20.0,24.0,0.0
+Detroit,never_detained,2001-03,49.0,10.0,39.0,0.0
+Detroit,never_detained,2001-04,49.0,13.0,36.0,0.0
+Detroit,never_detained,2001-05,41.0,6.0,35.0,0.0
+Detroit,never_detained,2001-06,36.0,15.0,21.0,0.0
+Detroit,never_detained,2001-07,36.0,15.0,17.0,4.0
+Detroit,never_detained,2001-08,54.0,16.0,36.0,2.0
+Detroit,never_detained,2001-09,34.0,10.0,23.0,1.0
+Detroit,never_detained,2001-10,65.0,17.0,41.0,7.0
+Detroit,never_detained,2001-11,45.0,18.0,27.0,0.0
+Detroit,never_detained,2001-12,46.0,18.0,28.0,0.0
+Detroit,never_detained,2002-01,49.0,13.0,36.0,0.0
+Detroit,never_detained,2002-02,34.0,12.0,22.0,0.0
+Detroit,never_detained,2002-03,41.0,18.0,23.0,0.0
+Detroit,never_detained,2002-04,42.0,14.0,28.0,0.0
+Detroit,never_detained,2002-05,67.0,14.0,53.0,0.0
+Detroit,never_detained,2002-06,43.0,11.0,32.0,0.0
+Detroit,never_detained,2002-07,56.0,17.0,38.0,1.0
+Detroit,never_detained,2002-08,49.0,19.0,30.0,0.0
+Detroit,never_detained,2002-09,47.0,2.0,42.0,3.0
+Detroit,never_detained,2002-10,60.0,17.0,43.0,0.0
+Detroit,never_detained,2002-11,21.0,7.0,12.0,2.0
+Detroit,never_detained,2002-12,54.0,20.0,34.0,0.0
+Detroit,never_detained,2003-01,41.0,14.0,26.0,1.0
+Detroit,never_detained,2003-02,36.0,15.0,20.0,1.0
+Detroit,never_detained,2003-03,56.0,19.0,37.0,0.0
+Detroit,never_detained,2003-04,32.0,7.0,25.0,0.0
+Detroit,never_detained,2003-05,51.0,19.0,32.0,0.0
+Detroit,never_detained,2003-06,44.0,16.0,28.0,0.0
+Detroit,never_detained,2003-07,38.0,14.0,24.0,0.0
+Detroit,never_detained,2003-08,34.0,5.0,28.0,1.0
+Detroit,never_detained,2003-09,37.0,11.0,25.0,1.0
+Detroit,never_detained,2003-10,33.0,7.0,26.0,0.0
+Detroit,never_detained,2003-11,49.0,9.0,39.0,1.0
+Detroit,never_detained,2003-12,37.0,15.0,22.0,0.0
+Detroit,never_detained,2004-01,42.0,6.0,34.0,2.0
+Detroit,never_detained,2004-02,49.0,13.0,35.0,1.0
+Detroit,never_detained,2004-03,55.0,18.0,37.0,0.0
+Detroit,never_detained,2004-04,71.0,27.0,43.0,1.0
+Detroit,never_detained,2004-05,34.0,11.0,23.0,0.0
+Detroit,never_detained,2004-06,16.0,6.0,10.0,0.0
+Detroit,never_detained,2004-07,39.0,12.0,27.0,0.0
+Detroit,never_detained,2004-08,39.0,4.0,35.0,0.0
+Detroit,never_detained,2004-09,29.0,8.0,20.0,1.0
+Detroit,never_detained,2004-10,43.0,8.0,35.0,0.0
+Detroit,never_detained,2004-11,55.0,10.0,45.0,0.0
+Detroit,never_detained,2004-12,32.0,20.0,12.0,0.0
+Detroit,never_detained,2005-01,29.0,4.0,25.0,0.0
+Detroit,never_detained,2005-02,49.0,16.0,33.0,0.0
+Detroit,never_detained,2005-03,16.0,1.0,15.0,0.0
+Detroit,never_detained,2005-04,32.0,5.0,27.0,0.0
+Detroit,never_detained,2005-05,47.0,5.0,42.0,0.0
+Detroit,never_detained,2005-06,62.0,3.0,59.0,0.0
+Detroit,never_detained,2005-07,13.0,0.0,13.0,0.0
+Detroit,never_detained,2005-08,9.0,1.0,8.0,0.0
+Detroit,never_detained,2005-09,16.0,3.0,13.0,0.0
+Detroit,never_detained,2005-10,41.0,1.0,40.0,0.0
+Detroit,never_detained,2005-11,24.0,4.0,20.0,0.0
+Detroit,never_detained,2005-12,38.0,5.0,33.0,0.0
+Detroit,never_detained,2006-01,26.0,13.0,13.0,0.0
+Detroit,never_detained,2006-02,21.0,5.0,16.0,0.0
+Detroit,never_detained,2006-03,41.0,10.0,30.0,1.0
+Detroit,never_detained,2006-04,37.0,7.0,30.0,0.0
+Detroit,never_detained,2006-05,20.0,1.0,19.0,0.0
+Detroit,never_detained,2006-06,35.0,6.0,26.0,3.0
+Detroit,never_detained,2006-07,48.0,18.0,26.0,4.0
+Detroit,never_detained,2006-08,19.0,3.0,16.0,0.0
+Detroit,never_detained,2006-09,21.0,6.0,14.0,1.0
+Detroit,never_detained,2006-10,23.0,6.0,17.0,0.0
+Detroit,never_detained,2006-11,28.0,4.0,24.0,0.0
+Detroit,never_detained,2006-12,29.0,6.0,23.0,0.0
+Detroit,never_detained,2007-01,19.0,5.0,14.0,0.0
+Detroit,never_detained,2007-02,17.0,4.0,13.0,0.0
+Detroit,never_detained,2007-03,16.0,4.0,12.0,0.0
+Detroit,never_detained,2007-04,23.0,5.0,18.0,0.0
+Detroit,never_detained,2007-05,18.0,9.0,9.0,0.0
+Detroit,never_detained,2007-06,27.0,11.0,16.0,0.0
+Detroit,never_detained,2007-07,29.0,5.0,24.0,0.0
+Detroit,never_detained,2007-08,25.0,11.0,14.0,0.0
+Detroit,never_detained,2007-09,21.0,10.0,10.0,1.0
+Detroit,never_detained,2007-10,32.0,25.0,7.0,0.0
+Detroit,never_detained,2007-11,26.0,12.0,13.0,1.0
+Detroit,never_detained,2007-12,21.0,7.0,14.0,0.0
+Detroit,never_detained,2008-01,10.0,3.0,7.0,0.0
+Detroit,never_detained,2008-02,20.0,8.0,11.0,1.0
+Detroit,never_detained,2008-03,32.0,7.0,25.0,0.0
+Detroit,never_detained,2008-04,25.0,8.0,17.0,0.0
+Detroit,never_detained,2008-05,15.0,4.0,10.0,1.0
+Detroit,never_detained,2008-06,30.0,17.0,13.0,0.0
+Detroit,never_detained,2008-07,21.0,7.0,14.0,0.0
+Detroit,never_detained,2008-08,20.0,14.0,6.0,0.0
+Detroit,never_detained,2008-09,35.0,16.0,15.0,4.0
+Detroit,never_detained,2008-10,23.0,17.0,6.0,0.0
+Detroit,never_detained,2008-11,21.0,12.0,9.0,0.0
+Detroit,never_detained,2008-12,17.0,9.0,7.0,1.0
+Detroit,never_detained,2009-01,22.0,6.0,12.0,4.0
+Detroit,never_detained,2009-02,31.0,12.0,12.0,7.0
+Detroit,never_detained,2009-03,18.0,10.0,8.0,0.0
+Detroit,never_detained,2009-04,25.0,17.0,8.0,0.0
+Detroit,never_detained,2009-05,16.0,5.0,11.0,0.0
+Detroit,never_detained,2009-06,17.0,6.0,10.0,1.0
+Detroit,never_detained,2009-07,17.0,5.0,11.0,1.0
+Detroit,never_detained,2009-08,15.0,6.0,7.0,2.0
+Detroit,never_detained,2009-09,24.0,11.0,11.0,2.0
+Detroit,never_detained,2009-10,8.0,3.0,5.0,0.0
+Detroit,never_detained,2009-11,16.0,4.0,12.0,0.0
+Detroit,never_detained,2009-12,12.0,2.0,8.0,2.0
+Detroit,never_detained,2010-01,5.0,1.0,4.0,0.0
+Detroit,never_detained,2010-02,10.0,4.0,6.0,0.0
+Detroit,never_detained,2010-03,14.0,3.0,10.0,1.0
+Detroit,never_detained,2010-04,8.0,3.0,5.0,0.0
+Detroit,never_detained,2010-05,20.0,9.0,9.0,2.0
+Detroit,never_detained,2010-06,18.0,12.0,6.0,0.0
+Detroit,never_detained,2010-07,21.0,0.0,19.0,2.0
+Detroit,never_detained,2010-08,9.0,4.0,5.0,0.0
+Detroit,never_detained,2010-09,16.0,6.0,9.0,1.0
+Detroit,never_detained,2010-10,9.0,5.0,3.0,1.0
+Detroit,never_detained,2010-11,3.0,2.0,1.0,0.0
+Detroit,never_detained,2010-12,5.0,0.0,5.0,0.0
+Detroit,never_detained,2011-01,7.0,1.0,6.0,0.0
+Detroit,never_detained,2011-02,23.0,9.0,14.0,0.0
+Detroit,never_detained,2011-03,9.0,3.0,6.0,0.0
+Detroit,never_detained,2011-04,11.0,1.0,10.0,0.0
+Detroit,never_detained,2011-05,11.0,1.0,9.0,1.0
+Detroit,never_detained,2011-06,19.0,14.0,5.0,0.0
+Detroit,never_detained,2011-07,15.0,4.0,11.0,0.0
+Detroit,never_detained,2011-08,17.0,4.0,12.0,1.0
+Detroit,never_detained,2011-09,8.0,2.0,6.0,0.0
+Detroit,never_detained,2011-10,11.0,8.0,3.0,0.0
+Detroit,never_detained,2011-11,7.0,0.0,5.0,2.0
+Detroit,never_detained,2011-12,20.0,8.0,10.0,2.0
+Detroit,never_detained,2012-01,11.0,2.0,8.0,1.0
+Detroit,never_detained,2012-02,12.0,8.0,4.0,0.0
+Detroit,never_detained,2012-03,13.0,4.0,8.0,1.0
+Detroit,never_detained,2012-04,6.0,1.0,4.0,1.0
+Detroit,never_detained,2012-05,12.0,1.0,10.0,1.0
+Detroit,never_detained,2012-06,12.0,7.0,5.0,0.0
+Detroit,never_detained,2012-07,12.0,7.0,4.0,1.0
+Detroit,never_detained,2012-08,15.0,8.0,5.0,2.0
+Detroit,never_detained,2012-09,10.0,2.0,8.0,0.0
+Detroit,never_detained,2012-10,12.0,5.0,5.0,2.0
+Detroit,never_detained,2012-11,6.0,2.0,4.0,0.0
+Detroit,never_detained,2012-12,10.0,6.0,4.0,0.0
+Detroit,never_detained,2013-01,6.0,1.0,3.0,2.0
+Detroit,never_detained,2013-02,9.0,4.0,5.0,0.0
+Detroit,never_detained,2013-03,4.0,2.0,2.0,0.0
+Detroit,never_detained,2013-04,20.0,3.0,17.0,0.0
+Detroit,never_detained,2013-05,22.0,7.0,14.0,1.0
+Detroit,never_detained,2013-06,2.0,1.0,1.0,0.0
+Detroit,never_detained,2013-07,8.0,2.0,5.0,1.0
+Detroit,never_detained,2013-08,14.0,6.0,7.0,1.0
+Detroit,never_detained,2013-09,7.0,4.0,3.0,0.0
+Detroit,never_detained,2013-10,4.0,1.0,2.0,1.0
+Detroit,never_detained,2013-11,8.0,2.0,6.0,0.0
+Detroit,never_detained,2013-12,6.0,1.0,5.0,0.0
+Detroit,never_detained,2014-01,13.0,6.0,4.0,3.0
+Detroit,never_detained,2014-02,7.0,0.0,7.0,0.0
+Detroit,never_detained,2014-03,10.0,1.0,8.0,1.0
+Detroit,never_detained,2014-04,6.0,3.0,2.0,1.0
+Detroit,never_detained,2014-05,18.0,1.0,16.0,1.0
+Detroit,never_detained,2014-06,5.0,1.0,4.0,0.0
+Detroit,never_detained,2014-07,3.0,0.0,3.0,0.0
+Detroit,never_detained,2014-08,2.0,2.0,0.0,0.0
+Detroit,never_detained,2014-09,8.0,0.0,7.0,1.0
+Detroit,never_detained,2014-10,1.0,1.0,0.0,0.0
+Detroit,never_detained,2014-12,3.0,0.0,2.0,1.0
+Detroit,never_detained,2015-01,3.0,2.0,1.0,0.0
+Detroit,never_detained,2015-02,3.0,0.0,3.0,0.0
+Detroit,never_detained,2015-03,2.0,0.0,2.0,0.0
+Detroit,never_detained,2015-04,10.0,1.0,8.0,1.0
+Detroit,never_detained,2015-05,8.0,1.0,5.0,2.0
+Detroit,never_detained,2015-06,1.0,0.0,0.0,1.0
+Detroit,never_detained,2015-07,6.0,0.0,5.0,1.0
+Detroit,never_detained,2015-08,10.0,6.0,4.0,0.0
+Detroit,never_detained,2015-09,15.0,5.0,4.0,6.0
+Detroit,never_detained,2015-10,9.0,4.0,2.0,3.0
+Detroit,never_detained,2015-11,6.0,2.0,4.0,0.0
+Detroit,never_detained,2015-12,14.0,1.0,6.0,7.0
+Detroit,never_detained,2016-01,9.0,0.0,1.0,8.0
+Detroit,never_detained,2016-02,14.0,2.0,7.0,5.0
+Detroit,never_detained,2016-03,15.0,2.0,9.0,4.0
+Detroit,never_detained,2016-04,12.0,3.0,7.0,2.0
+Detroit,never_detained,2016-05,22.0,0.0,12.0,10.0
+Detroit,never_detained,2016-06,17.0,6.0,6.0,5.0
+Detroit,never_detained,2016-07,9.0,1.0,7.0,1.0
+Detroit,never_detained,2016-08,11.0,0.0,7.0,4.0
+Detroit,never_detained,2016-09,7.0,0.0,5.0,2.0
+Detroit,never_detained,2016-10,9.0,2.0,5.0,2.0
+Detroit,never_detained,2016-11,9.0,2.0,6.0,1.0
+Detroit,never_detained,2016-12,16.0,4.0,9.0,3.0
+Detroit,never_detained,2017-01,24.0,3.0,10.0,11.0
+Detroit,never_detained,2017-02,2.0,1.0,1.0,0.0
+Detroit,never_detained,2017-03,18.0,3.0,15.0,0.0
+Detroit,never_detained,2017-04,5.0,3.0,2.0,0.0
+Detroit,never_detained,2017-05,12.0,3.0,9.0,0.0
+Detroit,never_detained,2017-06,19.0,2.0,17.0,0.0
+Detroit,never_detained,2017-07,7.0,1.0,6.0,0.0
+Detroit,never_detained,2017-08,6.0,2.0,4.0,0.0
+Detroit,never_detained,2017-09,3.0,2.0,1.0,0.0
+Detroit,never_detained,2017-10,17.0,1.0,16.0,0.0
+Detroit,never_detained,2017-11,20.0,0.0,20.0,0.0
+Detroit,never_detained,2017-12,9.0,3.0,6.0,0.0
+Detroit,never_detained,2018-01,17.0,2.0,15.0,0.0
+Detroit,never_detained,2018-02,5.0,3.0,2.0,0.0
+Detroit,never_detained,2018-03,14.0,7.0,7.0,0.0
+Detroit,never_detained,2018-04,17.0,6.0,9.0,2.0
+Detroit,never_detained,2018-05,25.0,0.0,25.0,0.0
+Detroit,never_detained,2018-06,13.0,3.0,10.0,0.0
+Detroit,never_detained,2018-07,4.0,0.0,4.0,0.0
+Detroit,never_detained,2018-08,5.0,0.0,5.0,0.0
+Detroit,never_detained,2018-09,11.0,5.0,6.0,0.0
+Detroit,never_detained,2018-10,32.0,8.0,24.0,0.0
+Detroit,never_detained,2018-11,27.0,13.0,14.0,0.0
+Detroit,never_detained,2018-12,10.0,6.0,4.0,0.0
+Detroit,never_detained,2019-02,33.0,14.0,19.0,0.0
+Detroit,never_detained,2019-03,15.0,1.0,13.0,1.0
+Detroit,never_detained,2019-04,19.0,7.0,12.0,0.0
+Detroit,never_detained,2019-05,36.0,8.0,27.0,1.0
+Detroit,never_detained,2019-06,18.0,5.0,13.0,0.0
+Detroit,never_detained,2019-07,17.0,6.0,11.0,0.0
+Detroit,never_detained,2019-08,21.0,2.0,19.0,0.0
+Detroit,never_detained,2019-09,25.0,13.0,11.0,1.0
+Detroit,never_detained,2019-10,22.0,2.0,20.0,0.0
+Detroit,never_detained,2019-11,22.0,8.0,13.0,1.0
+Detroit,never_detained,2019-12,17.0,6.0,10.0,1.0
+Detroit,never_detained,2020-01,30.0,10.0,19.0,1.0
+Detroit,never_detained,2020-02,20.0,2.0,18.0,0.0
+Detroit,never_detained,2020-03,18.0,5.0,13.0,0.0
+Detroit,never_detained,2020-05,2.0,0.0,2.0,0.0
+Detroit,never_detained,2020-06,8.0,8.0,0.0,0.0
+Detroit,never_detained,2020-07,7.0,4.0,3.0,0.0
+Detroit,never_detained,2020-08,18.0,13.0,5.0,0.0
+Detroit,never_detained,2020-09,2.0,0.0,2.0,0.0
+Detroit,never_detained,2020-10,11.0,10.0,1.0,0.0
+Detroit,never_detained,2020-11,8.0,1.0,6.0,1.0
+Detroit,never_detained,2020-12,7.0,2.0,5.0,0.0
+Detroit,never_detained,2021-01,11.0,2.0,1.0,8.0
+Detroit,never_detained,2021-02,14.0,5.0,8.0,1.0
+Detroit,never_detained,2021-03,12.0,6.0,5.0,1.0
+Detroit,never_detained,2021-04,11.0,9.0,2.0,0.0
+Detroit,never_detained,2021-05,13.0,2.0,11.0,0.0
+Detroit,never_detained,2021-06,20.0,9.0,11.0,0.0
+Detroit,never_detained,2021-07,9.0,7.0,2.0,0.0
+Detroit,never_detained,2021-08,5.0,4.0,1.0,0.0
+Detroit,never_detained,2021-09,11.0,3.0,8.0,0.0
+Detroit,never_detained,2021-10,14.0,6.0,8.0,0.0
+Detroit,never_detained,2021-11,19.0,9.0,9.0,1.0
+Detroit,never_detained,2021-12,15.0,4.0,11.0,0.0
+Detroit,never_detained,2022-01,36.0,20.0,16.0,0.0
+Detroit,never_detained,2022-02,35.0,3.0,29.0,3.0
+Detroit,never_detained,2022-03,41.0,10.0,31.0,0.0
+Detroit,never_detained,2022-04,28.0,15.0,13.0,0.0
+Detroit,never_detained,2022-05,56.0,36.0,19.0,1.0
+Detroit,never_detained,2022-06,54.0,28.0,26.0,0.0
+Detroit,never_detained,2022-07,41.0,10.0,31.0,0.0
+Detroit,never_detained,2022-08,57.0,24.0,30.0,3.0
+Detroit,never_detained,2022-09,52.0,20.0,32.0,0.0
+Detroit,never_detained,2022-10,85.0,21.0,59.0,5.0
+Detroit,never_detained,2022-11,48.0,16.0,30.0,2.0
+Detroit,never_detained,2022-12,49.0,29.0,18.0,2.0
+Detroit,never_detained,2023-01,49.0,24.0,24.0,1.0
+Detroit,never_detained,2023-02,58.0,33.0,24.0,1.0
+Detroit,never_detained,2023-03,62.0,22.0,38.0,2.0
+Detroit,never_detained,2023-04,47.0,16.0,31.0,0.0
+Detroit,never_detained,2023-05,58.0,18.0,39.0,1.0
+Detroit,never_detained,2023-06,57.0,25.0,29.0,3.0
+Detroit,never_detained,2023-07,32.0,12.0,19.0,1.0
+Detroit,never_detained,2023-08,33.0,17.0,15.0,1.0
+Detroit,never_detained,2023-09,40.0,15.0,24.0,1.0
+Detroit,never_detained,2023-10,74.0,28.0,44.0,2.0
+Detroit,never_detained,2023-11,62.0,20.0,41.0,1.0
+Detroit,never_detained,2023-12,49.0,18.0,30.0,1.0
+Detroit,never_detained,2024-01,70.0,9.0,61.0,0.0
+Detroit,never_detained,2024-02,63.0,32.0,30.0,1.0
+Detroit,never_detained,2024-03,55.0,31.0,23.0,1.0
+Detroit,never_detained,2024-04,71.0,35.0,34.0,2.0
+Detroit,never_detained,2024-05,78.0,36.0,42.0,0.0
+Detroit,never_detained,2024-06,24.0,9.0,14.0,1.0
+Detroit,never_detained,2024-07,62.0,16.0,42.0,4.0
+Detroit,never_detained,2024-08,26.0,8.0,16.0,2.0
+Detroit,never_detained,2024-09,27.0,15.0,12.0,0.0
+Detroit,never_detained,2024-10,48.0,17.0,29.0,2.0
+Detroit,never_detained,2024-11,55.0,20.0,35.0,0.0
+Detroit,never_detained,2024-12,27.0,10.0,17.0,0.0
+Detroit,never_detained,2025-01,59.0,16.0,38.0,5.0
+Detroit,never_detained,2025-02,68.0,19.0,44.0,5.0
+Detroit,never_detained,2025-03,88.0,16.0,70.0,2.0
+Detroit,never_detained,2025-04,83.0,14.0,69.0,0.0
+Detroit,never_detained,2025-05,69.0,16.0,50.0,3.0
+Detroit,never_detained,2025-06,50.0,21.0,27.0,2.0
+Detroit,never_detained,2025-07,33.0,18.0,15.0,0.0
+Detroit,never_detained,2025-08,37.0,9.0,28.0,0.0
+Detroit,never_detained,2025-09,53.0,19.0,33.0,1.0
+Detroit,never_detained,2025-10,37.0,6.0,31.0,0.0
+Detroit,never_detained,2025-11,31.0,5.0,22.0,4.0
+Detroit,never_detained,2025-12,10.0,5.0,5.0,0.0
+Detroit,never_detained,2026-01,11.0,0.0,11.0,0.0
+Detroit,never_detained,2026-02,14.0,0.0,14.0,0.0
+Detroit,never_detained,2026-03,44.0,3.0,41.0,0.0
+Detroit,released,2000-10,3.0,1.0,2.0,0.0
+Detroit,released,2000-11,8.0,0.0,8.0,0.0
+Detroit,released,2000-12,4.0,1.0,3.0,0.0
+Detroit,released,2001-01,5.0,0.0,5.0,0.0
+Detroit,released,2001-02,5.0,0.0,5.0,0.0
+Detroit,released,2001-03,8.0,2.0,6.0,0.0
+Detroit,released,2001-04,2.0,0.0,2.0,0.0
+Detroit,released,2001-05,8.0,2.0,6.0,0.0
+Detroit,released,2001-06,4.0,1.0,3.0,0.0
+Detroit,released,2001-07,4.0,2.0,2.0,0.0
+Detroit,released,2001-08,4.0,1.0,3.0,0.0
+Detroit,released,2001-09,12.0,5.0,7.0,0.0
+Detroit,released,2001-10,3.0,0.0,3.0,0.0
+Detroit,released,2001-11,8.0,1.0,7.0,0.0
+Detroit,released,2001-12,13.0,3.0,10.0,0.0
+Detroit,released,2002-01,15.0,9.0,6.0,0.0
+Detroit,released,2002-02,8.0,3.0,5.0,0.0
+Detroit,released,2002-03,8.0,3.0,5.0,0.0
+Detroit,released,2002-04,10.0,1.0,9.0,0.0
+Detroit,released,2002-05,16.0,0.0,16.0,0.0
+Detroit,released,2002-06,8.0,1.0,7.0,0.0
+Detroit,released,2002-07,13.0,5.0,7.0,1.0
+Detroit,released,2002-08,14.0,2.0,12.0,0.0
+Detroit,released,2002-09,14.0,2.0,11.0,1.0
+Detroit,released,2002-10,13.0,3.0,10.0,0.0
+Detroit,released,2002-11,7.0,2.0,5.0,0.0
+Detroit,released,2002-12,6.0,2.0,4.0,0.0
+Detroit,released,2003-01,4.0,1.0,3.0,0.0
+Detroit,released,2003-02,10.0,2.0,8.0,0.0
+Detroit,released,2003-03,13.0,7.0,6.0,0.0
+Detroit,released,2003-04,10.0,0.0,10.0,0.0
+Detroit,released,2003-05,9.0,3.0,6.0,0.0
+Detroit,released,2003-06,4.0,1.0,3.0,0.0
+Detroit,released,2003-07,11.0,4.0,7.0,0.0
+Detroit,released,2003-08,15.0,4.0,11.0,0.0
+Detroit,released,2003-09,17.0,15.0,1.0,1.0
+Detroit,released,2003-10,8.0,0.0,8.0,0.0
+Detroit,released,2003-11,10.0,2.0,8.0,0.0
+Detroit,released,2003-12,7.0,1.0,6.0,0.0
+Detroit,released,2004-01,3.0,0.0,3.0,0.0
+Detroit,released,2004-02,8.0,1.0,7.0,0.0
+Detroit,released,2004-03,7.0,2.0,5.0,0.0
+Detroit,released,2004-04,23.0,8.0,14.0,1.0
+Detroit,released,2004-05,4.0,2.0,2.0,0.0
+Detroit,released,2004-06,7.0,4.0,3.0,0.0
+Detroit,released,2004-07,13.0,5.0,8.0,0.0
+Detroit,released,2004-08,5.0,0.0,5.0,0.0
+Detroit,released,2004-09,2.0,0.0,2.0,0.0
+Detroit,released,2004-10,10.0,3.0,7.0,0.0
+Detroit,released,2004-11,8.0,2.0,6.0,0.0
+Detroit,released,2004-12,2.0,1.0,1.0,0.0
+Detroit,released,2005-01,1.0,0.0,1.0,0.0
+Detroit,released,2005-02,9.0,1.0,8.0,0.0
+Detroit,released,2005-03,7.0,0.0,7.0,0.0
+Detroit,released,2005-04,3.0,1.0,2.0,0.0
+Detroit,released,2005-05,2.0,0.0,2.0,0.0
+Detroit,released,2005-06,8.0,0.0,8.0,0.0
+Detroit,released,2005-07,6.0,0.0,6.0,0.0
+Detroit,released,2005-08,2.0,0.0,2.0,0.0
+Detroit,released,2005-09,4.0,1.0,3.0,0.0
+Detroit,released,2005-10,11.0,2.0,9.0,0.0
+Detroit,released,2005-11,9.0,2.0,7.0,0.0
+Detroit,released,2005-12,10.0,2.0,8.0,0.0
+Detroit,released,2006-01,4.0,0.0,4.0,0.0
+Detroit,released,2006-02,4.0,1.0,3.0,0.0
+Detroit,released,2006-03,8.0,3.0,5.0,0.0
+Detroit,released,2006-04,9.0,0.0,9.0,0.0
+Detroit,released,2006-05,6.0,2.0,4.0,0.0
+Detroit,released,2006-06,7.0,4.0,3.0,0.0
+Detroit,released,2006-07,13.0,8.0,5.0,0.0
+Detroit,released,2006-08,1.0,1.0,0.0,0.0
+Detroit,released,2006-09,5.0,2.0,3.0,0.0
+Detroit,released,2006-10,5.0,2.0,3.0,0.0
+Detroit,released,2006-11,5.0,2.0,3.0,0.0
+Detroit,released,2006-12,3.0,2.0,1.0,0.0
+Detroit,released,2007-01,2.0,0.0,2.0,0.0
+Detroit,released,2007-02,6.0,0.0,6.0,0.0
+Detroit,released,2007-04,3.0,0.0,3.0,0.0
+Detroit,released,2007-05,1.0,0.0,1.0,0.0
+Detroit,released,2007-06,6.0,4.0,2.0,0.0
+Detroit,released,2007-07,5.0,2.0,3.0,0.0
+Detroit,released,2007-08,2.0,0.0,2.0,0.0
+Detroit,released,2007-09,1.0,1.0,0.0,0.0
+Detroit,released,2007-10,8.0,6.0,2.0,0.0
+Detroit,released,2007-11,6.0,1.0,5.0,0.0
+Detroit,released,2007-12,3.0,0.0,3.0,0.0
+Detroit,released,2008-01,2.0,0.0,2.0,0.0
+Detroit,released,2008-02,3.0,2.0,1.0,0.0
+Detroit,released,2008-03,3.0,2.0,1.0,0.0
+Detroit,released,2008-04,2.0,1.0,1.0,0.0
+Detroit,released,2008-05,4.0,1.0,3.0,0.0
+Detroit,released,2008-06,3.0,2.0,1.0,0.0
+Detroit,released,2008-07,7.0,4.0,3.0,0.0
+Detroit,released,2008-08,1.0,1.0,0.0,0.0
+Detroit,released,2008-09,8.0,5.0,3.0,0.0
+Detroit,released,2008-10,9.0,5.0,3.0,1.0
+Detroit,released,2008-11,1.0,0.0,1.0,0.0
+Detroit,released,2008-12,3.0,1.0,2.0,0.0
+Detroit,released,2009-01,1.0,1.0,0.0,0.0
+Detroit,released,2009-02,3.0,3.0,0.0,0.0
+Detroit,released,2009-03,4.0,2.0,2.0,0.0
+Detroit,released,2009-04,3.0,3.0,0.0,0.0
+Detroit,released,2009-06,1.0,0.0,1.0,0.0
+Detroit,released,2009-07,13.0,11.0,2.0,0.0
+Detroit,released,2009-08,3.0,1.0,2.0,0.0
+Detroit,released,2009-09,2.0,0.0,2.0,0.0
+Detroit,released,2009-10,1.0,0.0,1.0,0.0
+Detroit,released,2009-11,2.0,0.0,2.0,0.0
+Detroit,released,2009-12,1.0,1.0,0.0,0.0
+Detroit,released,2010-01,3.0,3.0,0.0,0.0
+Detroit,released,2010-02,1.0,1.0,0.0,0.0
+Detroit,released,2010-04,1.0,0.0,1.0,0.0
+Detroit,released,2010-05,1.0,0.0,1.0,0.0
+Detroit,released,2010-06,3.0,2.0,1.0,0.0
+Detroit,released,2010-07,3.0,2.0,1.0,0.0
+Detroit,released,2010-08,2.0,0.0,2.0,0.0
+Detroit,released,2010-09,8.0,8.0,0.0,0.0
+Detroit,released,2010-10,4.0,2.0,2.0,0.0
+Detroit,released,2010-11,1.0,0.0,1.0,0.0
+Detroit,released,2011-01,5.0,4.0,1.0,0.0
+Detroit,released,2011-03,4.0,1.0,3.0,0.0
+Detroit,released,2011-04,2.0,1.0,1.0,0.0
+Detroit,released,2011-05,2.0,1.0,1.0,0.0
+Detroit,released,2011-07,3.0,1.0,2.0,0.0
+Detroit,released,2011-08,3.0,2.0,1.0,0.0
+Detroit,released,2011-10,2.0,1.0,0.0,1.0
+Detroit,released,2011-11,4.0,1.0,2.0,1.0
+Detroit,released,2011-12,6.0,0.0,6.0,0.0
+Detroit,released,2012-02,5.0,2.0,3.0,0.0
+Detroit,released,2012-03,2.0,0.0,2.0,0.0
+Detroit,released,2012-04,4.0,1.0,3.0,0.0
+Detroit,released,2012-06,2.0,0.0,1.0,1.0
+Detroit,released,2012-07,2.0,0.0,2.0,0.0
+Detroit,released,2012-08,4.0,2.0,2.0,0.0
+Detroit,released,2012-09,3.0,1.0,2.0,0.0
+Detroit,released,2012-10,2.0,0.0,2.0,0.0
+Detroit,released,2012-11,3.0,0.0,3.0,0.0
+Detroit,released,2012-12,3.0,0.0,3.0,0.0
+Detroit,released,2013-01,3.0,0.0,3.0,0.0
+Detroit,released,2013-02,4.0,0.0,4.0,0.0
+Detroit,released,2013-03,2.0,0.0,2.0,0.0
+Detroit,released,2013-04,3.0,0.0,3.0,0.0
+Detroit,released,2013-05,5.0,1.0,4.0,0.0
+Detroit,released,2013-06,1.0,1.0,0.0,0.0
+Detroit,released,2013-07,2.0,2.0,0.0,0.0
+Detroit,released,2013-08,4.0,1.0,3.0,0.0
+Detroit,released,2013-09,2.0,1.0,1.0,0.0
+Detroit,released,2013-10,2.0,0.0,2.0,0.0
+Detroit,released,2013-11,2.0,0.0,2.0,0.0
+Detroit,released,2013-12,2.0,0.0,2.0,0.0
+Detroit,released,2014-02,4.0,0.0,4.0,0.0
+Detroit,released,2014-03,5.0,0.0,5.0,0.0
+Detroit,released,2014-04,1.0,1.0,0.0,0.0
+Detroit,released,2014-05,4.0,0.0,4.0,0.0
+Detroit,released,2014-07,1.0,0.0,1.0,0.0
+Detroit,released,2014-08,2.0,0.0,1.0,1.0
+Detroit,released,2014-09,2.0,0.0,2.0,0.0
+Detroit,released,2014-10,2.0,1.0,1.0,0.0
+Detroit,released,2014-11,1.0,0.0,0.0,1.0
+Detroit,released,2014-12,1.0,1.0,0.0,0.0
+Detroit,released,2015-01,1.0,1.0,0.0,0.0
+Detroit,released,2015-02,1.0,1.0,0.0,0.0
+Detroit,released,2015-03,2.0,0.0,2.0,0.0
+Detroit,released,2015-04,3.0,0.0,3.0,0.0
+Detroit,released,2015-05,3.0,2.0,1.0,0.0
+Detroit,released,2015-06,3.0,0.0,0.0,3.0
+Detroit,released,2015-07,1.0,0.0,1.0,0.0
+Detroit,released,2015-08,5.0,1.0,1.0,3.0
+Detroit,released,2015-09,1.0,0.0,1.0,0.0
+Detroit,released,2015-10,1.0,0.0,0.0,1.0
+Detroit,released,2015-12,1.0,0.0,0.0,1.0
+Detroit,released,2016-01,1.0,0.0,0.0,1.0
+Detroit,released,2016-02,1.0,0.0,1.0,0.0
+Detroit,released,2016-03,7.0,2.0,5.0,0.0
+Detroit,released,2016-04,6.0,1.0,2.0,3.0
+Detroit,released,2016-05,5.0,2.0,2.0,1.0
+Detroit,released,2016-06,3.0,0.0,2.0,1.0
+Detroit,released,2016-07,5.0,3.0,1.0,1.0
+Detroit,released,2016-09,2.0,1.0,1.0,0.0
+Detroit,released,2016-10,3.0,0.0,3.0,0.0
+Detroit,released,2016-11,2.0,0.0,1.0,1.0
+Detroit,released,2016-12,5.0,1.0,3.0,1.0
+Detroit,released,2017-01,3.0,0.0,0.0,3.0
+Detroit,released,2017-02,1.0,0.0,1.0,0.0
+Detroit,released,2017-03,2.0,0.0,2.0,0.0
+Detroit,released,2017-04,2.0,1.0,1.0,0.0
+Detroit,released,2017-05,1.0,0.0,1.0,0.0
+Detroit,released,2017-06,3.0,0.0,3.0,0.0
+Detroit,released,2017-07,3.0,3.0,0.0,0.0
+Detroit,released,2017-08,5.0,1.0,3.0,1.0
+Detroit,released,2017-09,2.0,0.0,1.0,1.0
+Detroit,released,2017-10,3.0,0.0,3.0,0.0
+Detroit,released,2017-11,4.0,2.0,2.0,0.0
+Detroit,released,2017-12,7.0,4.0,3.0,0.0
+Detroit,released,2018-03,2.0,0.0,2.0,0.0
+Detroit,released,2018-04,2.0,1.0,1.0,0.0
+Detroit,released,2018-05,3.0,2.0,1.0,0.0
+Detroit,released,2018-06,5.0,2.0,3.0,0.0
+Detroit,released,2018-07,4.0,0.0,4.0,0.0
+Detroit,released,2018-09,3.0,0.0,2.0,1.0
+Detroit,released,2018-10,4.0,1.0,3.0,0.0
+Detroit,released,2018-11,1.0,0.0,1.0,0.0
+Detroit,released,2018-12,2.0,1.0,1.0,0.0
+Detroit,released,2019-02,1.0,1.0,0.0,0.0
+Detroit,released,2019-03,10.0,0.0,9.0,1.0
+Detroit,released,2019-04,9.0,5.0,4.0,0.0
+Detroit,released,2019-05,12.0,2.0,9.0,1.0
+Detroit,released,2019-06,9.0,3.0,5.0,1.0
+Detroit,released,2019-07,3.0,0.0,2.0,1.0
+Detroit,released,2019-08,6.0,0.0,3.0,3.0
+Detroit,released,2019-09,8.0,3.0,3.0,2.0
+Detroit,released,2019-10,8.0,0.0,8.0,0.0
+Detroit,released,2019-11,5.0,0.0,4.0,1.0
+Detroit,released,2019-12,13.0,7.0,5.0,1.0
+Detroit,released,2020-01,8.0,1.0,7.0,0.0
+Detroit,released,2020-02,3.0,1.0,1.0,1.0
+Detroit,released,2020-03,4.0,0.0,3.0,1.0
+Detroit,released,2020-04,1.0,1.0,0.0,0.0
+Detroit,released,2020-05,1.0,0.0,1.0,0.0
+Detroit,released,2020-06,1.0,1.0,0.0,0.0
+Detroit,released,2020-07,8.0,0.0,8.0,0.0
+Detroit,released,2020-08,7.0,3.0,4.0,0.0
+Detroit,released,2020-09,2.0,1.0,1.0,0.0
+Detroit,released,2020-10,7.0,2.0,5.0,0.0
+Detroit,released,2020-11,4.0,0.0,4.0,0.0
+Detroit,released,2020-12,1.0,1.0,0.0,0.0
+Detroit,released,2021-01,6.0,1.0,4.0,1.0
+Detroit,released,2021-02,3.0,2.0,1.0,0.0
+Detroit,released,2021-03,6.0,1.0,5.0,0.0
+Detroit,released,2021-04,7.0,2.0,5.0,0.0
+Detroit,released,2021-05,5.0,1.0,4.0,0.0
+Detroit,released,2021-06,2.0,2.0,0.0,0.0
+Detroit,released,2021-07,2.0,0.0,2.0,0.0
+Detroit,released,2021-08,1.0,0.0,1.0,0.0
+Detroit,released,2021-09,3.0,1.0,2.0,0.0
+Detroit,released,2021-10,4.0,2.0,2.0,0.0
+Detroit,released,2021-11,4.0,3.0,1.0,0.0
+Detroit,released,2021-12,9.0,3.0,5.0,1.0
+Detroit,released,2022-01,11.0,6.0,5.0,0.0
+Detroit,released,2022-02,7.0,3.0,4.0,0.0
+Detroit,released,2022-03,12.0,6.0,6.0,0.0
+Detroit,released,2022-04,1.0,0.0,1.0,0.0
+Detroit,released,2022-05,2.0,0.0,2.0,0.0
+Detroit,released,2022-06,3.0,3.0,0.0,0.0
+Detroit,released,2022-07,5.0,3.0,1.0,1.0
+Detroit,released,2022-08,5.0,1.0,3.0,1.0
+Detroit,released,2022-09,5.0,0.0,3.0,2.0
+Detroit,released,2022-10,10.0,5.0,5.0,0.0
+Detroit,released,2022-11,9.0,2.0,6.0,1.0
+Detroit,released,2022-12,4.0,1.0,2.0,1.0
+Detroit,released,2023-01,8.0,7.0,1.0,0.0
+Detroit,released,2023-02,4.0,1.0,3.0,0.0
+Detroit,released,2023-03,10.0,2.0,7.0,1.0
+Detroit,released,2023-04,8.0,3.0,5.0,0.0
+Detroit,released,2023-05,6.0,1.0,5.0,0.0
+Detroit,released,2023-06,9.0,3.0,6.0,0.0
+Detroit,released,2023-07,10.0,3.0,6.0,1.0
+Detroit,released,2023-08,2.0,2.0,0.0,0.0
+Detroit,released,2023-09,4.0,2.0,1.0,1.0
+Detroit,released,2023-10,6.0,2.0,2.0,2.0
+Detroit,released,2023-11,4.0,2.0,1.0,1.0
+Detroit,released,2023-12,2.0,1.0,1.0,0.0
+Detroit,released,2024-01,9.0,4.0,4.0,1.0
+Detroit,released,2024-02,4.0,3.0,1.0,0.0
+Detroit,released,2024-03,5.0,2.0,3.0,0.0
+Detroit,released,2024-04,6.0,2.0,4.0,0.0
+Detroit,released,2024-05,8.0,3.0,5.0,0.0
+Detroit,released,2024-06,9.0,5.0,4.0,0.0
+Detroit,released,2024-07,10.0,2.0,7.0,1.0
+Detroit,released,2024-08,1.0,1.0,0.0,0.0
+Detroit,released,2024-09,3.0,2.0,1.0,0.0
+Detroit,released,2024-10,4.0,4.0,0.0,0.0
+Detroit,released,2024-11,4.0,2.0,2.0,0.0
+Detroit,released,2024-12,2.0,0.0,1.0,1.0
+Detroit,released,2025-01,3.0,3.0,0.0,0.0
+Detroit,released,2025-02,5.0,1.0,4.0,0.0
+Detroit,released,2025-03,2.0,0.0,1.0,1.0
+Detroit,released,2025-04,7.0,2.0,5.0,0.0
+Detroit,released,2025-05,6.0,0.0,6.0,0.0
+Detroit,released,2025-06,2.0,0.0,2.0,0.0
+Detroit,released,2025-07,1.0,0.0,1.0,0.0
+Detroit,released,2025-08,9.0,3.0,6.0,0.0
+Detroit,released,2025-09,2.0,1.0,1.0,0.0
+Detroit,released,2025-10,1.0,0.0,1.0,0.0
+Detroit,released,2025-11,2.0,0.0,1.0,1.0
+Detroit,released,2025-12,1.0,1.0,0.0,0.0
+Detroit,released,2026-02,1.0,0.0,0.0,1.0
+Detroit,released,2026-03,2.0,0.0,2.0,0.0
 United States,detained,2000-10,211.0,61.0,147.0,3.0
 United States,detained,2000-11,191.0,54.0,132.0,5.0
 United States,detained,2000-12,192.0,49.0,137.0,6.0
@@ -891,12 +936,12 @@ United States,detained,2005-09,189.0,30.0,157.0,2.0
 United States,detained,2005-10,159.0,27.0,128.0,4.0
 United States,detained,2005-11,177.0,24.0,147.0,6.0
 United States,detained,2005-12,157.0,16.0,136.0,5.0
-United States,detained,2006-01,180.0,30.0,145.0,5.0
+United States,detained,2006-01,181.0,31.0,145.0,5.0
 United States,detained,2006-02,193.0,35.0,154.0,4.0
 United States,detained,2006-03,205.0,39.0,162.0,4.0
 United States,detained,2006-04,202.0,28.0,170.0,4.0
 United States,detained,2006-05,225.0,39.0,181.0,5.0
-United States,detained,2006-06,239.0,47.0,187.0,5.0
+United States,detained,2006-06,240.0,47.0,188.0,5.0
 United States,detained,2006-07,235.0,63.0,167.0,5.0
 United States,detained,2006-08,170.0,34.0,132.0,4.0
 United States,detained,2006-09,240.0,33.0,198.0,9.0
@@ -1029,7 +1074,7 @@ United States,detained,2017-03,776.0,124.0,637.0,15.0
 United States,detained,2017-04,783.0,134.0,630.0,19.0
 United States,detained,2017-05,993.0,198.0,779.0,16.0
 United States,detained,2017-06,971.0,194.0,754.0,23.0
-United States,detained,2017-07,799.0,144.0,632.0,23.0
+United States,detained,2017-07,798.0,144.0,631.0,23.0
 United States,detained,2017-08,946.0,144.0,776.0,26.0
 United States,detained,2017-09,692.0,109.0,572.0,11.0
 United States,detained,2017-10,728.0,127.0,588.0,13.0
@@ -1052,13 +1097,13 @@ United States,detained,2019-02,1055.0,243.0,793.0,19.0
 United States,detained,2019-03,1133.0,270.0,842.0,21.0
 United States,detained,2019-04,1245.0,277.0,953.0,15.0
 United States,detained,2019-05,1267.0,265.0,961.0,41.0
-United States,detained,2019-06,1160.0,224.0,894.0,42.0
-United States,detained,2019-07,1311.0,282.0,965.0,64.0
+United States,detained,2019-06,1161.0,224.0,894.0,43.0
+United States,detained,2019-07,1312.0,282.0,965.0,65.0
 United States,detained,2019-08,1356.0,311.0,1000.0,45.0
 United States,detained,2019-09,1244.0,292.0,906.0,46.0
 United States,detained,2019-10,1433.0,340.0,1047.0,46.0
-United States,detained,2019-11,1224.0,285.0,902.0,37.0
-United States,detained,2019-12,1361.0,347.0,945.0,69.0
+United States,detained,2019-11,1225.0,285.0,902.0,38.0
+United States,detained,2019-12,1362.0,347.0,945.0,70.0
 United States,detained,2020-01,1812.0,337.0,1367.0,108.0
 United States,detained,2020-02,1755.0,371.0,1275.0,109.0
 United States,detained,2020-03,1851.0,415.0,1277.0,159.0
@@ -1068,7 +1113,7 @@ United States,detained,2020-06,770.0,124.0,607.0,39.0
 United States,detained,2020-07,741.0,233.0,471.0,37.0
 United States,detained,2020-08,667.0,250.0,396.0,21.0
 United States,detained,2020-09,643.0,185.0,432.0,26.0
-United States,detained,2020-10,541.0,172.0,341.0,28.0
+United States,detained,2020-10,542.0,172.0,341.0,29.0
 United States,detained,2020-11,414.0,121.0,267.0,26.0
 United States,detained,2020-12,337.0,76.0,232.0,29.0
 United States,detained,2021-01,334.0,72.0,243.0,19.0
@@ -1076,9 +1121,9 @@ United States,detained,2021-02,285.0,52.0,221.0,12.0
 United States,detained,2021-03,402.0,103.0,284.0,15.0
 United States,detained,2021-04,336.0,61.0,260.0,15.0
 United States,detained,2021-05,310.0,42.0,250.0,18.0
-United States,detained,2021-06,325.0,53.0,258.0,14.0
+United States,detained,2021-06,326.0,53.0,258.0,15.0
 United States,detained,2021-07,274.0,37.0,213.0,24.0
-United States,detained,2021-08,195.0,34.0,141.0,20.0
+United States,detained,2021-08,196.0,34.0,141.0,21.0
 United States,detained,2021-09,201.0,31.0,150.0,20.0
 United States,detained,2021-10,224.0,35.0,168.0,21.0
 United States,detained,2021-11,231.0,40.0,180.0,11.0
@@ -1086,51 +1131,54 @@ United States,detained,2021-12,201.0,33.0,153.0,15.0
 United States,detained,2022-01,195.0,22.0,156.0,17.0
 United States,detained,2022-02,198.0,28.0,162.0,8.0
 United States,detained,2022-03,252.0,34.0,201.0,17.0
-United States,detained,2022-04,276.0,56.0,196.0,24.0
+United States,detained,2022-04,277.0,56.0,196.0,25.0
 United States,detained,2022-05,310.0,52.0,234.0,24.0
 United States,detained,2022-06,441.0,74.0,340.0,27.0
 United States,detained,2022-07,410.0,56.0,335.0,19.0
 United States,detained,2022-08,528.0,53.0,433.0,42.0
-United States,detained,2022-09,464.0,81.0,363.0,20.0
-United States,detained,2022-10,469.0,66.0,388.0,15.0
+United States,detained,2022-09,466.0,81.0,363.0,22.0
+United States,detained,2022-10,471.0,66.0,388.0,17.0
 United States,detained,2022-11,451.0,79.0,360.0,12.0
 United States,detained,2022-12,371.0,50.0,302.0,19.0
 United States,detained,2023-01,308.0,48.0,218.0,42.0
 United States,detained,2023-02,348.0,62.0,262.0,24.0
 United States,detained,2023-03,485.0,69.0,385.0,31.0
 United States,detained,2023-04,442.0,44.0,379.0,19.0
-United States,detained,2023-05,487.0,64.0,350.0,73.0
+United States,detained,2023-05,489.0,64.0,350.0,75.0
 United States,detained,2023-06,412.0,41.0,348.0,23.0
 United States,detained,2023-07,433.0,30.0,376.0,27.0
 United States,detained,2023-08,584.0,50.0,491.0,43.0
-United States,detained,2023-09,527.0,42.0,448.0,37.0
+United States,detained,2023-09,528.0,42.0,448.0,38.0
 United States,detained,2023-10,616.0,60.0,525.0,31.0
 United States,detained,2023-11,556.0,38.0,491.0,27.0
 United States,detained,2023-12,519.0,59.0,430.0,30.0
-United States,detained,2024-01,596.0,50.0,513.0,33.0
-United States,detained,2024-02,645.0,58.0,542.0,45.0
-United States,detained,2024-03,634.0,73.0,524.0,37.0
-United States,detained,2024-04,747.0,86.0,599.0,62.0
+United States,detained,2024-01,597.0,50.0,513.0,34.0
+United States,detained,2024-02,650.0,58.0,542.0,50.0
+United States,detained,2024-03,636.0,73.0,524.0,39.0
+United States,detained,2024-04,748.0,86.0,599.0,63.0
 United States,detained,2024-05,770.0,87.0,622.0,61.0
-United States,detained,2024-06,642.0,76.0,494.0,72.0
-United States,detained,2024-07,690.0,95.0,531.0,64.0
-United States,detained,2024-08,658.0,76.0,528.0,54.0
-United States,detained,2024-09,670.0,77.0,531.0,62.0
+United States,detained,2024-06,645.0,76.0,494.0,75.0
+United States,detained,2024-07,692.0,95.0,531.0,66.0
+United States,detained,2024-08,660.0,76.0,528.0,56.0
+United States,detained,2024-09,676.0,78.0,531.0,67.0
 United States,detained,2024-10,823.0,117.0,589.0,117.0
-United States,detained,2024-11,658.0,74.0,506.0,78.0
-United States,detained,2024-12,637.0,89.0,469.0,79.0
-United States,detained,2025-01,637.0,79.0,485.0,73.0
-United States,detained,2025-02,786.0,65.0,581.0,140.0
-United States,detained,2025-03,942.0,110.0,629.0,203.0
-United States,detained,2025-04,1053.0,125.0,693.0,235.0
-United States,detained,2025-05,1282.0,139.0,884.0,259.0
-United States,detained,2025-06,1810.0,153.0,1301.0,356.0
-United States,detained,2025-07,1986.0,180.0,1396.0,410.0
-United States,detained,2025-08,2014.0,169.0,1455.0,390.0
-United States,detained,2025-09,2258.0,196.0,1639.0,423.0
-United States,detained,2025-10,2039.0,186.0,1487.0,366.0
-United States,detained,2025-11,1412.0,123.0,1092.0,197.0
-United States,detained,2025-12,1134.0,80.0,1012.0,42.0
+United States,detained,2024-11,661.0,74.0,506.0,81.0
+United States,detained,2024-12,638.0,89.0,469.0,80.0
+United States,detained,2025-01,640.0,79.0,485.0,76.0
+United States,detained,2025-02,790.0,66.0,581.0,143.0
+United States,detained,2025-03,946.0,111.0,629.0,206.0
+United States,detained,2025-04,1064.0,126.0,693.0,245.0
+United States,detained,2025-05,1295.0,139.0,884.0,272.0
+United States,detained,2025-06,1830.0,157.0,1300.0,373.0
+United States,detained,2025-07,2020.0,184.0,1396.0,440.0
+United States,detained,2025-08,2085.0,172.0,1455.0,458.0
+United States,detained,2025-09,2384.0,203.0,1638.0,543.0
+United States,detained,2025-10,2337.0,196.0,1487.0,654.0
+United States,detained,2025-11,1877.0,144.0,1096.0,637.0
+United States,detained,2025-12,1723.0,103.0,1024.0,596.0
+United States,detained,2026-01,1362.0,76.0,879.0,407.0
+United States,detained,2026-02,1101.0,60.0,865.0,176.0
+United States,detained,2026-03,1137.0,76.0,1040.0,21.0
 United States,never_detained,2000-10,1607.0,705.0,875.0,27.0
 United States,never_detained,2000-11,1541.0,723.0,800.0,18.0
 United States,never_detained,2000-12,1274.0,579.0,673.0,22.0
@@ -1174,7 +1222,7 @@ United States,never_detained,2004-01,2056.0,878.0,1147.0,31.0
 United States,never_detained,2004-02,2134.0,926.0,1176.0,32.0
 United States,never_detained,2004-03,2599.0,1104.0,1442.0,53.0
 United States,never_detained,2004-04,2261.0,972.0,1257.0,32.0
-United States,never_detained,2004-05,2190.0,941.0,1201.0,48.0
+United States,never_detained,2004-05,2192.0,941.0,1203.0,48.0
 United States,never_detained,2004-06,1862.0,779.0,1049.0,34.0
 United States,never_detained,2004-07,2051.0,911.0,1092.0,48.0
 United States,never_detained,2004-08,2119.0,904.0,1173.0,42.0
@@ -1233,21 +1281,21 @@ United States,never_detained,2008-12,1242.0,671.0,529.0,42.0
 United States,never_detained,2009-01,1228.0,597.0,576.0,55.0
 United States,never_detained,2009-02,1238.0,656.0,548.0,34.0
 United States,never_detained,2009-03,1505.0,779.0,678.0,48.0
-United States,never_detained,2009-04,1565.0,825.0,700.0,40.0
+United States,never_detained,2009-04,1564.0,824.0,700.0,40.0
 United States,never_detained,2009-05,1401.0,716.0,634.0,51.0
 United States,never_detained,2009-06,1495.0,821.0,633.0,41.0
 United States,never_detained,2009-07,1404.0,712.0,646.0,46.0
 United States,never_detained,2009-08,959.0,485.0,446.0,28.0
 United States,never_detained,2009-09,1357.0,721.0,595.0,41.0
 United States,never_detained,2009-10,1316.0,693.0,600.0,23.0
-United States,never_detained,2009-11,1178.0,586.0,561.0,31.0
+United States,never_detained,2009-11,1180.0,586.0,563.0,31.0
 United States,never_detained,2009-12,1197.0,703.0,465.0,29.0
 United States,never_detained,2010-01,1127.0,665.0,437.0,25.0
 United States,never_detained,2010-02,976.0,561.0,381.0,34.0
 United States,never_detained,2010-03,1367.0,764.0,562.0,41.0
-United States,never_detained,2010-04,1299.0,754.0,501.0,44.0
+United States,never_detained,2010-04,1301.0,754.0,501.0,46.0
 United States,never_detained,2010-05,1220.0,707.0,468.0,45.0
-United States,never_detained,2010-06,1217.0,673.0,500.0,44.0
+United States,never_detained,2010-06,1218.0,674.0,500.0,44.0
 United States,never_detained,2010-07,922.0,525.0,374.0,23.0
 United States,never_detained,2010-08,1123.0,699.0,406.0,18.0
 United States,never_detained,2010-09,1226.0,746.0,452.0,28.0
@@ -1267,12 +1315,12 @@ United States,never_detained,2011-10,1308.0,849.0,418.0,41.0
 United States,never_detained,2011-11,1238.0,808.0,405.0,25.0
 United States,never_detained,2011-12,1089.0,766.0,291.0,32.0
 United States,never_detained,2012-01,1241.0,815.0,390.0,36.0
-United States,never_detained,2012-02,1165.0,800.0,338.0,27.0
+United States,never_detained,2012-02,1163.0,800.0,338.0,25.0
 United States,never_detained,2012-03,1236.0,875.0,338.0,23.0
 United States,never_detained,2012-04,1274.0,877.0,372.0,25.0
 United States,never_detained,2012-05,1115.0,717.0,385.0,13.0
 United States,never_detained,2012-06,1195.0,813.0,360.0,22.0
-United States,never_detained,2012-07,875.0,593.0,270.0,12.0
+United States,never_detained,2012-07,874.0,592.0,270.0,12.0
 United States,never_detained,2012-08,1307.0,902.0,383.0,22.0
 United States,never_detained,2012-09,1124.0,685.0,415.0,24.0
 United States,never_detained,2012-10,1058.0,677.0,345.0,36.0
@@ -1285,7 +1333,7 @@ United States,never_detained,2013-04,1257.0,858.0,375.0,24.0
 United States,never_detained,2013-05,1195.0,784.0,386.0,25.0
 United States,never_detained,2013-06,1156.0,850.0,284.0,22.0
 United States,never_detained,2013-07,969.0,654.0,292.0,23.0
-United States,never_detained,2013-08,1182.0,802.0,359.0,21.0
+United States,never_detained,2013-08,1181.0,802.0,358.0,21.0
 United States,never_detained,2013-09,1131.0,809.0,298.0,24.0
 United States,never_detained,2013-10,468.0,314.0,130.0,24.0
 United States,never_detained,2013-11,956.0,665.0,270.0,21.0
@@ -1318,7 +1366,7 @@ United States,never_detained,2016-01,763.0,390.0,360.0,13.0
 United States,never_detained,2016-02,997.0,489.0,496.0,12.0
 United States,never_detained,2016-03,1191.0,620.0,547.0,24.0
 United States,never_detained,2016-04,1092.0,600.0,479.0,13.0
-United States,never_detained,2016-05,1195.0,670.0,504.0,21.0
+United States,never_detained,2016-05,1197.0,672.0,504.0,21.0
 United States,never_detained,2016-06,1277.0,728.0,531.0,18.0
 United States,never_detained,2016-07,910.0,480.0,417.0,13.0
 United States,never_detained,2016-08,1078.0,548.0,508.0,22.0
@@ -1332,7 +1380,7 @@ United States,never_detained,2017-03,1426.0,692.0,725.0,9.0
 United States,never_detained,2017-04,1161.0,586.0,565.0,10.0
 United States,never_detained,2017-05,1219.0,629.0,571.0,19.0
 United States,never_detained,2017-06,1421.0,661.0,755.0,5.0
-United States,never_detained,2017-07,1179.0,449.0,725.0,5.0
+United States,never_detained,2017-07,1180.0,449.0,725.0,6.0
 United States,never_detained,2017-08,1691.0,721.0,958.0,12.0
 United States,never_detained,2017-09,1439.0,614.0,804.0,21.0
 United States,never_detained,2017-10,1787.0,731.0,1040.0,16.0
@@ -1343,97 +1391,100 @@ United States,never_detained,2018-02,1838.0,701.0,1117.0,20.0
 United States,never_detained,2018-03,2173.0,823.0,1330.0,20.0
 United States,never_detained,2018-04,2216.0,908.0,1278.0,30.0
 United States,never_detained,2018-05,2200.0,822.0,1347.0,31.0
-United States,never_detained,2018-06,1641.0,586.0,1035.0,20.0
+United States,never_detained,2018-06,1643.0,586.0,1035.0,22.0
 United States,never_detained,2018-07,1792.0,583.0,1192.0,17.0
 United States,never_detained,2018-08,2136.0,694.0,1415.0,27.0
-United States,never_detained,2018-09,1987.0,607.0,1357.0,23.0
+United States,never_detained,2018-09,1988.0,608.0,1357.0,23.0
 United States,never_detained,2018-10,3036.0,950.0,2060.0,26.0
 United States,never_detained,2018-11,2731.0,923.0,1764.0,44.0
 United States,never_detained,2018-12,2039.0,655.0,1374.0,10.0
 United States,never_detained,2019-01,377.0,114.0,262.0,1.0
-United States,never_detained,2019-02,2673.0,823.0,1835.0,15.0
+United States,never_detained,2019-02,2674.0,823.0,1835.0,16.0
 United States,never_detained,2019-03,3218.0,890.0,2306.0,22.0
 United States,never_detained,2019-04,3636.0,1095.0,2499.0,42.0
-United States,never_detained,2019-05,3755.0,1102.0,2567.0,86.0
-United States,never_detained,2019-06,3521.0,1065.0,2374.0,82.0
-United States,never_detained,2019-07,4223.0,1327.0,2848.0,48.0
-United States,never_detained,2019-08,4579.0,1268.0,3246.0,65.0
-United States,never_detained,2019-09,4854.0,1305.0,3462.0,87.0
-United States,never_detained,2019-10,5867.0,1479.0,4270.0,118.0
-United States,never_detained,2019-11,5132.0,1345.0,3594.0,193.0
-United States,never_detained,2019-12,5099.0,1301.0,3637.0,161.0
-United States,never_detained,2020-01,6544.0,1716.0,4690.0,138.0
-United States,never_detained,2020-02,6983.0,1758.0,5120.0,105.0
-United States,never_detained,2020-03,4304.0,1054.0,3174.0,76.0
+United States,never_detained,2019-05,3757.0,1102.0,2567.0,88.0
+United States,never_detained,2019-06,3533.0,1065.0,2374.0,94.0
+United States,never_detained,2019-07,4224.0,1327.0,2848.0,49.0
+United States,never_detained,2019-08,4581.0,1268.0,3246.0,67.0
+United States,never_detained,2019-09,4856.0,1306.0,3462.0,88.0
+United States,never_detained,2019-10,5870.0,1479.0,4271.0,120.0
+United States,never_detained,2019-11,5133.0,1345.0,3594.0,194.0
+United States,never_detained,2019-12,5100.0,1301.0,3637.0,162.0
+United States,never_detained,2020-01,6545.0,1716.0,4690.0,139.0
+United States,never_detained,2020-02,6989.0,1759.0,5120.0,110.0
+United States,never_detained,2020-03,4307.0,1054.0,3173.0,80.0
 United States,never_detained,2020-04,387.0,164.0,194.0,29.0
 United States,never_detained,2020-05,343.0,109.0,198.0,36.0
-United States,never_detained,2020-06,463.0,148.0,280.0,35.0
+United States,never_detained,2020-06,464.0,148.0,280.0,36.0
 United States,never_detained,2020-07,596.0,181.0,368.0,47.0
-United States,never_detained,2020-08,753.0,274.0,443.0,36.0
-United States,never_detained,2020-09,932.0,258.0,631.0,43.0
-United States,never_detained,2020-10,1578.0,495.0,1044.0,39.0
+United States,never_detained,2020-08,760.0,279.0,443.0,38.0
+United States,never_detained,2020-09,935.0,258.0,631.0,46.0
+United States,never_detained,2020-10,1582.0,498.0,1044.0,40.0
 United States,never_detained,2020-11,1321.0,372.0,914.0,35.0
 United States,never_detained,2020-12,1156.0,343.0,793.0,20.0
 United States,never_detained,2021-01,1063.0,322.0,687.0,54.0
 United States,never_detained,2021-02,1047.0,307.0,564.0,176.0
-United States,never_detained,2021-03,1308.0,473.0,808.0,27.0
-United States,never_detained,2021-04,1378.0,466.0,875.0,37.0
-United States,never_detained,2021-05,1301.0,460.0,813.0,28.0
-United States,never_detained,2021-06,1044.0,407.0,572.0,65.0
-United States,never_detained,2021-07,1304.0,706.0,557.0,41.0
-United States,never_detained,2021-08,1653.0,820.0,769.0,64.0
+United States,never_detained,2021-03,1311.0,474.0,808.0,29.0
+United States,never_detained,2021-04,1380.0,466.0,875.0,39.0
+United States,never_detained,2021-05,1305.0,462.0,813.0,30.0
+United States,never_detained,2021-06,1046.0,407.0,572.0,67.0
+United States,never_detained,2021-07,1305.0,706.0,557.0,42.0
+United States,never_detained,2021-08,1660.0,820.0,769.0,71.0
 United States,never_detained,2021-09,1738.0,878.0,827.0,33.0
 United States,never_detained,2021-10,1995.0,968.0,983.0,44.0
-United States,never_detained,2021-11,1950.0,1080.0,823.0,47.0
-United States,never_detained,2021-12,1951.0,1050.0,851.0,50.0
-United States,never_detained,2022-01,1993.0,1022.0,936.0,35.0
-United States,never_detained,2022-02,2505.0,1082.0,1319.0,104.0
-United States,never_detained,2022-03,3841.0,1685.0,1968.0,188.0
-United States,never_detained,2022-04,3394.0,1755.0,1483.0,156.0
-United States,never_detained,2022-05,3503.0,1917.0,1482.0,104.0
-United States,never_detained,2022-06,3514.0,1749.0,1654.0,111.0
-United States,never_detained,2022-07,3964.0,1712.0,2131.0,121.0
-United States,never_detained,2022-08,5446.0,2171.0,3106.0,169.0
-United States,never_detained,2022-09,5380.0,2257.0,2982.0,141.0
-United States,never_detained,2022-10,5194.0,2268.0,2768.0,158.0
-United States,never_detained,2022-11,4619.0,2125.0,2361.0,133.0
-United States,never_detained,2022-12,4231.0,2108.0,1993.0,130.0
-United States,never_detained,2023-01,5033.0,2447.0,2413.0,173.0
-United States,never_detained,2023-02,4924.0,2221.0,2514.0,189.0
-United States,never_detained,2023-03,5537.0,2700.0,2631.0,206.0
-United States,never_detained,2023-04,4230.0,2038.0,2056.0,136.0
-United States,never_detained,2023-05,4650.0,2340.0,2148.0,162.0
-United States,never_detained,2023-06,4079.0,2061.0,1819.0,199.0
-United States,never_detained,2023-07,3814.0,2003.0,1638.0,173.0
-United States,never_detained,2023-08,4843.0,2662.0,1984.0,197.0
-United States,never_detained,2023-09,4486.0,2465.0,1829.0,192.0
-United States,never_detained,2023-10,4688.0,2524.0,1970.0,194.0
-United States,never_detained,2023-11,4681.0,2450.0,2041.0,190.0
-United States,never_detained,2023-12,4165.0,2113.0,1863.0,189.0
-United States,never_detained,2024-01,4823.0,2386.0,2247.0,190.0
-United States,never_detained,2024-02,4978.0,2564.0,2196.0,218.0
-United States,never_detained,2024-03,5384.0,2710.0,2433.0,241.0
-United States,never_detained,2024-04,5539.0,2593.0,2662.0,284.0
-United States,never_detained,2024-05,5819.0,2700.0,2868.0,251.0
-United States,never_detained,2024-06,4954.0,2329.0,2444.0,181.0
-United States,never_detained,2024-07,5480.0,2455.0,2797.0,228.0
-United States,never_detained,2024-08,5578.0,2207.0,3145.0,226.0
-United States,never_detained,2024-09,5056.0,1913.0,2992.0,151.0
-United States,never_detained,2024-10,6120.0,2254.0,3660.0,206.0
-United States,never_detained,2024-11,5310.0,1844.0,3338.0,128.0
-United States,never_detained,2024-12,4882.0,1718.0,2990.0,174.0
-United States,never_detained,2025-01,6931.0,2232.0,4521.0,178.0
-United States,never_detained,2025-02,8519.0,2176.0,6198.0,145.0
-United States,never_detained,2025-03,9903.0,2302.0,7429.0,172.0
-United States,never_detained,2025-04,10430.0,2236.0,8038.0,156.0
-United States,never_detained,2025-05,10259.0,2174.0,7958.0,127.0
-United States,never_detained,2025-06,8244.0,2080.0,6036.0,128.0
-United States,never_detained,2025-07,7654.0,1695.0,5853.0,106.0
-United States,never_detained,2025-08,7569.0,1567.0,5854.0,148.0
-United States,never_detained,2025-09,7637.0,1271.0,6277.0,89.0
-United States,never_detained,2025-10,7931.0,1234.0,6626.0,71.0
-United States,never_detained,2025-11,6007.0,938.0,5038.0,31.0
-United States,never_detained,2025-12,5750.0,564.0,5176.0,10.0
+United States,never_detained,2021-11,1955.0,1080.0,823.0,52.0
+United States,never_detained,2021-12,1954.0,1050.0,851.0,53.0
+United States,never_detained,2022-01,1996.0,1022.0,936.0,38.0
+United States,never_detained,2022-02,2510.0,1083.0,1319.0,108.0
+United States,never_detained,2022-03,3846.0,1688.0,1968.0,190.0
+United States,never_detained,2022-04,3403.0,1757.0,1483.0,163.0
+United States,never_detained,2022-05,3515.0,1917.0,1482.0,116.0
+United States,never_detained,2022-06,3534.0,1751.0,1654.0,129.0
+United States,never_detained,2022-07,3971.0,1712.0,2131.0,128.0
+United States,never_detained,2022-08,5459.0,2172.0,3106.0,181.0
+United States,never_detained,2022-09,5397.0,2266.0,2982.0,149.0
+United States,never_detained,2022-10,5203.0,2272.0,2768.0,163.0
+United States,never_detained,2022-11,4633.0,2129.0,2361.0,143.0
+United States,never_detained,2022-12,4243.0,2111.0,1993.0,139.0
+United States,never_detained,2023-01,5048.0,2448.0,2413.0,187.0
+United States,never_detained,2023-02,4945.0,2225.0,2514.0,206.0
+United States,never_detained,2023-03,5566.0,2700.0,2631.0,235.0
+United States,never_detained,2023-04,4249.0,2042.0,2057.0,150.0
+United States,never_detained,2023-05,4674.0,2343.0,2148.0,183.0
+United States,never_detained,2023-06,4119.0,2062.0,1819.0,238.0
+United States,never_detained,2023-07,3845.0,2006.0,1638.0,201.0
+United States,never_detained,2023-08,4902.0,2670.0,1984.0,248.0
+United States,never_detained,2023-09,4528.0,2469.0,1829.0,230.0
+United States,never_detained,2023-10,4758.0,2532.0,1971.0,255.0
+United States,never_detained,2023-11,4717.0,2457.0,2041.0,219.0
+United States,never_detained,2023-12,4204.0,2114.0,1863.0,227.0
+United States,never_detained,2024-01,4878.0,2392.0,2247.0,239.0
+United States,never_detained,2024-02,5045.0,2575.0,2196.0,274.0
+United States,never_detained,2024-03,5469.0,2713.0,2433.0,323.0
+United States,never_detained,2024-04,5622.0,2603.0,2662.0,357.0
+United States,never_detained,2024-05,5899.0,2702.0,2868.0,329.0
+United States,never_detained,2024-06,5035.0,2334.0,2444.0,257.0
+United States,never_detained,2024-07,5569.0,2463.0,2797.0,309.0
+United States,never_detained,2024-08,5714.0,2212.0,3146.0,356.0
+United States,never_detained,2024-09,5163.0,1923.0,2992.0,248.0
+United States,never_detained,2024-10,6253.0,2263.0,3660.0,330.0
+United States,never_detained,2024-11,5438.0,1849.0,3338.0,251.0
+United States,never_detained,2024-12,5036.0,1730.0,2990.0,316.0
+United States,never_detained,2025-01,7086.0,2240.0,4527.0,319.0
+United States,never_detained,2025-02,8651.0,2189.0,6203.0,259.0
+United States,never_detained,2025-03,10045.0,2312.0,7432.0,301.0
+United States,never_detained,2025-04,10553.0,2249.0,8037.0,267.0
+United States,never_detained,2025-05,10394.0,2182.0,7962.0,250.0
+United States,never_detained,2025-06,8329.0,2086.0,6047.0,196.0
+United States,never_detained,2025-07,7806.0,1704.0,5856.0,246.0
+United States,never_detained,2025-08,7699.0,1574.0,5858.0,267.0
+United States,never_detained,2025-09,7820.0,1280.0,6288.0,252.0
+United States,never_detained,2025-10,8070.0,1247.0,6656.0,167.0
+United States,never_detained,2025-11,6165.0,953.0,5078.0,134.0
+United States,never_detained,2025-12,6209.0,604.0,5464.0,141.0
+United States,never_detained,2026-01,8146.0,521.0,7508.0,117.0
+United States,never_detained,2026-02,9350.0,442.0,8877.0,31.0
+United States,never_detained,2026-03,11692.0,574.0,11090.0,28.0
 United States,not_known,2001-02,1.0,0.0,1.0,0.0
 United States,not_known,2002-02,1.0,0.0,1.0,0.0
 United States,not_known,2002-03,2.0,0.0,1.0,1.0
@@ -1481,6 +1532,7 @@ United States,not_known,2023-02,1.0,1.0,0.0,0.0
 United States,not_known,2023-09,1.0,1.0,0.0,0.0
 United States,not_known,2025-01,1.0,1.0,0.0,0.0
 United States,not_known,2025-12,1.0,0.0,1.0,0.0
+United States,not_known,2026-03,1.0,0.0,1.0,0.0
 United States,released,2000-10,354.0,109.0,237.0,8.0
 United States,released,2000-11,310.0,86.0,216.0,8.0
 United States,released,2000-12,262.0,78.0,182.0,2.0
@@ -1609,7 +1661,7 @@ United States,released,2011-02,295.0,132.0,156.0,7.0
 United States,released,2011-03,389.0,187.0,192.0,10.0
 United States,released,2011-04,370.0,157.0,204.0,9.0
 United States,released,2011-05,349.0,160.0,175.0,14.0
-United States,released,2011-06,378.0,192.0,177.0,9.0
+United States,released,2011-06,377.0,192.0,176.0,9.0
 United States,released,2011-07,247.0,113.0,128.0,6.0
 United States,released,2011-08,425.0,215.0,205.0,5.0
 United States,released,2011-09,357.0,186.0,158.0,13.0
@@ -1659,7 +1711,7 @@ United States,released,2015-04,270.0,110.0,156.0,4.0
 United States,released,2015-05,261.0,135.0,122.0,4.0
 United States,released,2015-06,304.0,159.0,134.0,11.0
 United States,released,2015-07,289.0,150.0,135.0,4.0
-United States,released,2015-08,214.0,91.0,112.0,11.0
+United States,released,2015-08,215.0,91.0,112.0,12.0
 United States,released,2015-09,289.0,136.0,148.0,5.0
 United States,released,2015-10,273.0,146.0,122.0,5.0
 United States,released,2015-11,297.0,148.0,139.0,10.0
@@ -1682,10 +1734,10 @@ United States,released,2017-03,579.0,260.0,314.0,5.0
 United States,released,2017-04,488.0,231.0,250.0,7.0
 United States,released,2017-05,591.0,251.0,328.0,12.0
 United States,released,2017-06,588.0,253.0,330.0,5.0
-United States,released,2017-07,533.0,222.0,300.0,11.0
+United States,released,2017-07,534.0,222.0,300.0,12.0
 United States,released,2017-08,703.0,274.0,411.0,18.0
 United States,released,2017-09,603.0,240.0,346.0,17.0
-United States,released,2017-10,752.0,296.0,447.0,9.0
+United States,released,2017-10,753.0,296.0,448.0,9.0
 United States,released,2017-11,732.0,319.0,402.0,11.0
 United States,released,2017-12,546.0,224.0,313.0,9.0
 United States,released,2018-01,718.0,301.0,408.0,9.0
@@ -1699,88 +1751,91 @@ United States,released,2018-08,953.0,372.0,569.0,12.0
 United States,released,2018-09,941.0,394.0,534.0,13.0
 United States,released,2018-10,1536.0,572.0,941.0,23.0
 United States,released,2018-11,1308.0,484.0,806.0,18.0
-United States,released,2018-12,1001.0,359.0,623.0,19.0
+United States,released,2018-12,1002.0,359.0,624.0,19.0
 United States,released,2019-01,191.0,63.0,124.0,4.0
-United States,released,2019-02,1199.0,461.0,728.0,10.0
+United States,released,2019-02,1200.0,461.0,728.0,11.0
 United States,released,2019-03,1484.0,529.0,924.0,31.0
 United States,released,2019-04,1723.0,627.0,1065.0,31.0
-United States,released,2019-05,2036.0,827.0,1065.0,144.0
-United States,released,2019-06,1681.0,653.0,937.0,91.0
-United States,released,2019-07,1732.0,667.0,965.0,100.0
-United States,released,2019-08,1727.0,655.0,992.0,80.0
-United States,released,2019-09,1529.0,609.0,856.0,64.0
-United States,released,2019-10,1814.0,702.0,1020.0,92.0
-United States,released,2019-11,1605.0,617.0,893.0,95.0
-United States,released,2019-12,1529.0,666.0,776.0,87.0
-United States,released,2020-01,1711.0,684.0,944.0,83.0
-United States,released,2020-02,1756.0,653.0,1033.0,70.0
-United States,released,2020-03,1118.0,460.0,595.0,63.0
-United States,released,2020-04,250.0,124.0,78.0,48.0
+United States,released,2019-05,2039.0,827.0,1065.0,147.0
+United States,released,2019-06,1684.0,653.0,937.0,94.0
+United States,released,2019-07,1734.0,667.0,965.0,102.0
+United States,released,2019-08,1728.0,655.0,992.0,81.0
+United States,released,2019-09,1531.0,609.0,856.0,66.0
+United States,released,2019-10,1819.0,702.0,1020.0,97.0
+United States,released,2019-11,1608.0,617.0,893.0,98.0
+United States,released,2019-12,1531.0,666.0,776.0,89.0
+United States,released,2020-01,1718.0,685.0,944.0,89.0
+United States,released,2020-02,1763.0,654.0,1033.0,76.0
+United States,released,2020-03,1121.0,461.0,595.0,65.0
+United States,released,2020-04,253.0,124.0,78.0,51.0
 United States,released,2020-05,223.0,89.0,89.0,45.0
-United States,released,2020-06,259.0,104.0,104.0,51.0
-United States,released,2020-07,292.0,118.0,136.0,38.0
-United States,released,2020-08,366.0,171.0,157.0,38.0
-United States,released,2020-09,415.0,165.0,208.0,42.0
-United States,released,2020-10,541.0,199.0,294.0,48.0
-United States,released,2020-11,557.0,214.0,308.0,35.0
-United States,released,2020-12,459.0,169.0,256.0,34.0
-United States,released,2021-01,438.0,163.0,226.0,49.0
-United States,released,2021-02,428.0,121.0,214.0,93.0
-United States,released,2021-03,689.0,296.0,263.0,130.0
-United States,released,2021-04,654.0,304.0,258.0,92.0
-United States,released,2021-05,561.0,226.0,276.0,59.0
-United States,released,2021-06,437.0,216.0,172.0,49.0
-United States,released,2021-07,594.0,342.0,182.0,70.0
-United States,released,2021-08,778.0,430.0,297.0,51.0
-United States,released,2021-09,837.0,442.0,336.0,59.0
-United States,released,2021-10,876.0,436.0,377.0,63.0
-United States,released,2021-11,849.0,450.0,344.0,55.0
-United States,released,2021-12,885.0,480.0,349.0,56.0
-United States,released,2022-01,879.0,476.0,344.0,59.0
-United States,released,2022-02,1032.0,513.0,455.0,64.0
-United States,released,2022-03,1301.0,697.0,514.0,90.0
-United States,released,2022-04,1066.0,568.0,401.0,97.0
-United States,released,2022-05,992.0,642.0,270.0,80.0
-United States,released,2022-06,936.0,623.0,253.0,60.0
-United States,released,2022-07,1056.0,571.0,407.0,78.0
-United States,released,2022-08,1430.0,733.0,585.0,112.0
-United States,released,2022-09,1444.0,719.0,596.0,129.0
-United States,released,2022-10,1356.0,696.0,549.0,111.0
-United States,released,2022-11,1208.0,670.0,460.0,78.0
-United States,released,2022-12,1272.0,716.0,461.0,95.0
-United States,released,2023-01,1362.0,756.0,532.0,74.0
-United States,released,2023-02,1286.0,704.0,499.0,83.0
-United States,released,2023-03,1442.0,777.0,561.0,104.0
-United States,released,2023-04,1267.0,661.0,524.0,82.0
-United States,released,2023-05,1288.0,744.0,459.0,85.0
-United States,released,2023-06,1087.0,619.0,392.0,76.0
-United States,released,2023-07,1007.0,564.0,373.0,70.0
-United States,released,2023-08,1144.0,681.0,396.0,67.0
-United States,released,2023-09,995.0,595.0,322.0,78.0
-United States,released,2023-10,1032.0,630.0,326.0,76.0
-United States,released,2023-11,981.0,619.0,309.0,53.0
-United States,released,2023-12,851.0,502.0,289.0,60.0
-United States,released,2024-01,971.0,592.0,328.0,51.0
-United States,released,2024-02,926.0,547.0,323.0,56.0
-United States,released,2024-03,870.0,479.0,340.0,51.0
-United States,released,2024-04,1004.0,571.0,364.0,69.0
-United States,released,2024-05,955.0,517.0,368.0,70.0
-United States,released,2024-06,710.0,370.0,302.0,38.0
-United States,released,2024-07,789.0,412.0,335.0,42.0
-United States,released,2024-08,763.0,372.0,348.0,43.0
-United States,released,2024-09,736.0,349.0,342.0,45.0
-United States,released,2024-10,749.0,382.0,329.0,38.0
-United States,released,2024-11,671.0,321.0,325.0,25.0
-United States,released,2024-12,609.0,271.0,303.0,35.0
-United States,released,2025-01,779.0,336.0,411.0,32.0
-United States,released,2025-02,921.0,308.0,571.0,42.0
-United States,released,2025-03,1063.0,328.0,708.0,27.0
-United States,released,2025-04,1001.0,262.0,715.0,24.0
-United States,released,2025-05,990.0,285.0,680.0,25.0
-United States,released,2025-06,889.0,281.0,583.0,25.0
-United States,released,2025-07,771.0,217.0,536.0,18.0
-United States,released,2025-08,788.0,200.0,572.0,16.0
-United States,released,2025-09,707.0,149.0,547.0,11.0
-United States,released,2025-10,646.0,134.0,502.0,10.0
-United States,released,2025-11,521.0,87.0,428.0,6.0
-United States,released,2025-12,502.0,57.0,444.0,1.0
+United States,released,2020-06,261.0,105.0,104.0,52.0
+United States,released,2020-07,296.0,118.0,136.0,42.0
+United States,released,2020-08,371.0,172.0,157.0,42.0
+United States,released,2020-09,419.0,166.0,208.0,45.0
+United States,released,2020-10,543.0,200.0,294.0,49.0
+United States,released,2020-11,562.0,214.0,308.0,40.0
+United States,released,2020-12,467.0,169.0,256.0,42.0
+United States,released,2021-01,447.0,164.0,226.0,57.0
+United States,released,2021-02,429.0,121.0,214.0,94.0
+United States,released,2021-03,694.0,296.0,263.0,135.0
+United States,released,2021-04,665.0,304.0,258.0,103.0
+United States,released,2021-05,569.0,229.0,276.0,64.0
+United States,released,2021-06,442.0,217.0,172.0,53.0
+United States,released,2021-07,598.0,342.0,182.0,74.0
+United States,released,2021-08,783.0,430.0,297.0,56.0
+United States,released,2021-09,840.0,442.0,336.0,62.0
+United States,released,2021-10,879.0,436.0,377.0,66.0
+United States,released,2021-11,854.0,451.0,344.0,59.0
+United States,released,2021-12,894.0,480.0,349.0,65.0
+United States,released,2022-01,886.0,476.0,344.0,66.0
+United States,released,2022-02,1035.0,513.0,455.0,67.0
+United States,released,2022-03,1305.0,697.0,514.0,94.0
+United States,released,2022-04,1070.0,569.0,401.0,100.0
+United States,released,2022-05,1002.0,644.0,269.0,89.0
+United States,released,2022-06,943.0,624.0,253.0,66.0
+United States,released,2022-07,1069.0,573.0,407.0,89.0
+United States,released,2022-08,1447.0,733.0,585.0,129.0
+United States,released,2022-09,1454.0,719.0,596.0,139.0
+United States,released,2022-10,1370.0,697.0,550.0,123.0
+United States,released,2022-11,1219.0,670.0,460.0,89.0
+United States,released,2022-12,1285.0,717.0,461.0,107.0
+United States,released,2023-01,1369.0,756.0,532.0,81.0
+United States,released,2023-02,1294.0,705.0,499.0,90.0
+United States,released,2023-03,1456.0,780.0,561.0,115.0
+United States,released,2023-04,1276.0,663.0,524.0,89.0
+United States,released,2023-05,1303.0,748.0,459.0,96.0
+United States,released,2023-06,1101.0,620.0,392.0,89.0
+United States,released,2023-07,1017.0,566.0,373.0,78.0
+United States,released,2023-08,1160.0,682.0,396.0,82.0
+United States,released,2023-09,1019.0,602.0,322.0,95.0
+United States,released,2023-10,1044.0,632.0,326.0,86.0
+United States,released,2023-11,997.0,619.0,310.0,68.0
+United States,released,2023-12,860.0,502.0,289.0,69.0
+United States,released,2024-01,985.0,593.0,328.0,64.0
+United States,released,2024-02,935.0,548.0,323.0,64.0
+United States,released,2024-03,891.0,480.0,340.0,71.0
+United States,released,2024-04,1015.0,572.0,364.0,79.0
+United States,released,2024-05,968.0,520.0,368.0,80.0
+United States,released,2024-06,723.0,372.0,302.0,49.0
+United States,released,2024-07,803.0,414.0,335.0,54.0
+United States,released,2024-08,787.0,373.0,348.0,66.0
+United States,released,2024-09,757.0,349.0,342.0,66.0
+United States,released,2024-10,769.0,383.0,329.0,57.0
+United States,released,2024-11,690.0,322.0,325.0,43.0
+United States,released,2024-12,642.0,274.0,303.0,65.0
+United States,released,2025-01,804.0,337.0,411.0,56.0
+United States,released,2025-02,940.0,308.0,571.0,61.0
+United States,released,2025-03,1083.0,330.0,708.0,45.0
+United States,released,2025-04,1019.0,265.0,715.0,39.0
+United States,released,2025-05,1006.0,288.0,680.0,38.0
+United States,released,2025-06,905.0,285.0,583.0,37.0
+United States,released,2025-07,776.0,218.0,536.0,22.0
+United States,released,2025-08,807.0,201.0,572.0,34.0
+United States,released,2025-09,726.0,149.0,549.0,28.0
+United States,released,2025-10,668.0,135.0,504.0,29.0
+United States,released,2025-11,538.0,89.0,430.0,19.0
+United States,released,2025-12,539.0,62.0,466.0,11.0
+United States,released,2026-01,545.0,46.0,481.0,18.0
+United States,released,2026-02,611.0,35.0,568.0,8.0
+United States,released,2026-03,769.0,50.0,713.0,6.0
