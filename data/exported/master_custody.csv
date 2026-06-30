@@ -279,9 +279,11 @@ Detroit,detained,2025-09,11.0,0.0,8.0,3.0
 Detroit,detained,2025-10,18.0,0.0,17.0,1.0
 Detroit,detained,2025-11,10.0,0.0,9.0,1.0
 Detroit,detained,2025-12,19.0,0.0,19.0,0.0
-Detroit,detained,2026-01,26.0,0.0,25.0,1.0
-Detroit,detained,2026-02,46.0,0.0,46.0,0.0
-Detroit,detained,2026-03,37.0,0.0,37.0,0.0
+Detroit,detained,2026-01,27.0,0.0,25.0,2.0
+Detroit,detained,2026-02,47.0,0.0,46.0,1.0
+Detroit,detained,2026-03,41.0,0.0,39.0,2.0
+Detroit,detained,2026-04,34.0,1.0,33.0,0.0
+Detroit,detained,2026-05,36.0,1.0,35.0,0.0
 Detroit,never_detained,2000-10,39.0,17.0,22.0,0.0
 Detroit,never_detained,2000-11,62.0,14.0,48.0,0.0
 Detroit,never_detained,2000-12,42.0,16.0,26.0,0.0
@@ -545,37 +547,37 @@ Detroit,never_detained,2022-08,57.0,24.0,30.0,3.0
 Detroit,never_detained,2022-09,52.0,20.0,32.0,0.0
 Detroit,never_detained,2022-10,85.0,21.0,59.0,5.0
 Detroit,never_detained,2022-11,48.0,16.0,30.0,2.0
-Detroit,never_detained,2022-12,49.0,29.0,18.0,2.0
+Detroit,never_detained,2022-12,52.0,29.0,18.0,5.0
 Detroit,never_detained,2023-01,49.0,24.0,24.0,1.0
 Detroit,never_detained,2023-02,58.0,33.0,24.0,1.0
-Detroit,never_detained,2023-03,62.0,22.0,38.0,2.0
+Detroit,never_detained,2023-03,63.0,22.0,38.0,3.0
 Detroit,never_detained,2023-04,47.0,16.0,31.0,0.0
 Detroit,never_detained,2023-05,58.0,18.0,39.0,1.0
 Detroit,never_detained,2023-06,57.0,25.0,29.0,3.0
-Detroit,never_detained,2023-07,32.0,12.0,19.0,1.0
+Detroit,never_detained,2023-07,33.0,12.0,19.0,2.0
 Detroit,never_detained,2023-08,33.0,17.0,15.0,1.0
 Detroit,never_detained,2023-09,40.0,15.0,24.0,1.0
-Detroit,never_detained,2023-10,74.0,28.0,44.0,2.0
+Detroit,never_detained,2023-10,75.0,28.0,44.0,3.0
 Detroit,never_detained,2023-11,62.0,20.0,41.0,1.0
-Detroit,never_detained,2023-12,49.0,18.0,30.0,1.0
+Detroit,never_detained,2023-12,50.0,18.0,30.0,2.0
 Detroit,never_detained,2024-01,70.0,9.0,61.0,0.0
-Detroit,never_detained,2024-02,63.0,32.0,30.0,1.0
+Detroit,never_detained,2024-02,67.0,32.0,30.0,5.0
 Detroit,never_detained,2024-03,55.0,31.0,23.0,1.0
 Detroit,never_detained,2024-04,71.0,35.0,34.0,2.0
 Detroit,never_detained,2024-05,78.0,36.0,42.0,0.0
 Detroit,never_detained,2024-06,24.0,9.0,14.0,1.0
 Detroit,never_detained,2024-07,62.0,16.0,42.0,4.0
-Detroit,never_detained,2024-08,26.0,8.0,16.0,2.0
+Detroit,never_detained,2024-08,27.0,8.0,16.0,3.0
 Detroit,never_detained,2024-09,27.0,15.0,12.0,0.0
-Detroit,never_detained,2024-10,48.0,17.0,29.0,2.0
+Detroit,never_detained,2024-10,50.0,17.0,29.0,4.0
 Detroit,never_detained,2024-11,55.0,20.0,35.0,0.0
 Detroit,never_detained,2024-12,27.0,10.0,17.0,0.0
 Detroit,never_detained,2025-01,59.0,16.0,38.0,5.0
-Detroit,never_detained,2025-02,68.0,19.0,44.0,5.0
+Detroit,never_detained,2025-02,72.0,23.0,44.0,5.0
 Detroit,never_detained,2025-03,88.0,16.0,70.0,2.0
-Detroit,never_detained,2025-04,83.0,14.0,69.0,0.0
-Detroit,never_detained,2025-05,69.0,16.0,50.0,3.0
-Detroit,never_detained,2025-06,50.0,21.0,27.0,2.0
+Detroit,never_detained,2025-04,84.0,14.0,69.0,1.0
+Detroit,never_detained,2025-05,70.0,16.0,50.0,4.0
+Detroit,never_detained,2025-06,51.0,21.0,27.0,3.0
 Detroit,never_detained,2025-07,33.0,18.0,15.0,0.0
 Detroit,never_detained,2025-08,37.0,9.0,28.0,0.0
 Detroit,never_detained,2025-09,53.0,19.0,33.0,1.0
@@ -584,7 +586,9 @@ Detroit,never_detained,2025-11,31.0,5.0,22.0,4.0
 Detroit,never_detained,2025-12,10.0,5.0,5.0,0.0
 Detroit,never_detained,2026-01,11.0,0.0,11.0,0.0
 Detroit,never_detained,2026-02,14.0,0.0,14.0,0.0
-Detroit,never_detained,2026-03,44.0,3.0,41.0,0.0
+Detroit,never_detained,2026-03,48.0,3.0,45.0,0.0
+Detroit,never_detained,2026-04,51.0,1.0,50.0,0.0
+Detroit,never_detained,2026-05,81.0,0.0,81.0,0.0
 Detroit,released,2000-10,3.0,1.0,2.0,0.0
 Detroit,released,2000-11,8.0,0.0,8.0,0.0
 Detroit,released,2000-12,4.0,1.0,3.0,0.0
@@ -846,7 +850,7 @@ Detroit,released,2023-08,2.0,2.0,0.0,0.0
 Detroit,released,2023-09,4.0,2.0,1.0,1.0
 Detroit,released,2023-10,6.0,2.0,2.0,2.0
 Detroit,released,2023-11,4.0,2.0,1.0,1.0
-Detroit,released,2023-12,2.0,1.0,1.0,0.0
+Detroit,released,2023-12,3.0,1.0,1.0,1.0
 Detroit,released,2024-01,9.0,4.0,4.0,1.0
 Detroit,released,2024-02,4.0,3.0,1.0,0.0
 Detroit,released,2024-03,5.0,2.0,3.0,0.0
@@ -870,9 +874,11 @@ Detroit,released,2025-08,9.0,3.0,6.0,0.0
 Detroit,released,2025-09,2.0,1.0,1.0,0.0
 Detroit,released,2025-10,1.0,0.0,1.0,0.0
 Detroit,released,2025-11,2.0,0.0,1.0,1.0
-Detroit,released,2025-12,1.0,1.0,0.0,0.0
+Detroit,released,2025-12,2.0,1.0,0.0,1.0
 Detroit,released,2026-02,1.0,0.0,0.0,1.0
 Detroit,released,2026-03,2.0,0.0,2.0,0.0
+Detroit,released,2026-04,5.0,2.0,3.0,0.0
+Detroit,released,2026-05,7.0,0.0,7.0,0.0
 United States,detained,2000-10,211.0,61.0,147.0,3.0
 United States,detained,2000-11,191.0,54.0,132.0,5.0
 United States,detained,2000-12,192.0,49.0,137.0,6.0
@@ -1039,7 +1045,7 @@ United States,detained,2014-04,415.0,55.0,349.0,11.0
 United States,detained,2014-05,374.0,36.0,329.0,9.0
 United States,detained,2014-06,421.0,56.0,355.0,10.0
 United States,detained,2014-07,505.0,71.0,423.0,11.0
-United States,detained,2014-08,486.0,40.0,438.0,8.0
+United States,detained,2014-08,487.0,40.0,439.0,8.0
 United States,detained,2014-09,480.0,71.0,403.0,6.0
 United States,detained,2014-10,489.0,77.0,405.0,7.0
 United States,detained,2014-11,364.0,62.0,292.0,10.0
@@ -1074,7 +1080,7 @@ United States,detained,2017-03,776.0,124.0,637.0,15.0
 United States,detained,2017-04,783.0,134.0,630.0,19.0
 United States,detained,2017-05,993.0,198.0,779.0,16.0
 United States,detained,2017-06,971.0,194.0,754.0,23.0
-United States,detained,2017-07,798.0,144.0,631.0,23.0
+United States,detained,2017-07,799.0,144.0,632.0,23.0
 United States,detained,2017-08,946.0,144.0,776.0,26.0
 United States,detained,2017-09,692.0,109.0,572.0,11.0
 United States,detained,2017-10,728.0,127.0,588.0,13.0
@@ -1101,7 +1107,7 @@ United States,detained,2019-06,1161.0,224.0,894.0,43.0
 United States,detained,2019-07,1312.0,282.0,965.0,65.0
 United States,detained,2019-08,1356.0,311.0,1000.0,45.0
 United States,detained,2019-09,1244.0,292.0,906.0,46.0
-United States,detained,2019-10,1433.0,340.0,1047.0,46.0
+United States,detained,2019-10,1432.0,340.0,1046.0,46.0
 United States,detained,2019-11,1225.0,285.0,902.0,38.0
 United States,detained,2019-12,1362.0,347.0,945.0,70.0
 United States,detained,2020-01,1812.0,337.0,1367.0,108.0
@@ -1109,12 +1115,12 @@ United States,detained,2020-02,1755.0,371.0,1275.0,109.0
 United States,detained,2020-03,1851.0,415.0,1277.0,159.0
 United States,detained,2020-04,926.0,195.0,682.0,49.0
 United States,detained,2020-05,766.0,156.0,562.0,48.0
-United States,detained,2020-06,770.0,124.0,607.0,39.0
+United States,detained,2020-06,771.0,124.0,607.0,40.0
 United States,detained,2020-07,741.0,233.0,471.0,37.0
 United States,detained,2020-08,667.0,250.0,396.0,21.0
 United States,detained,2020-09,643.0,185.0,432.0,26.0
 United States,detained,2020-10,542.0,172.0,341.0,29.0
-United States,detained,2020-11,414.0,121.0,267.0,26.0
+United States,detained,2020-11,418.0,121.0,267.0,30.0
 United States,detained,2020-12,337.0,76.0,232.0,29.0
 United States,detained,2021-01,334.0,72.0,243.0,19.0
 United States,detained,2021-02,285.0,52.0,221.0,12.0
@@ -1125,60 +1131,62 @@ United States,detained,2021-06,326.0,53.0,258.0,15.0
 United States,detained,2021-07,274.0,37.0,213.0,24.0
 United States,detained,2021-08,196.0,34.0,141.0,21.0
 United States,detained,2021-09,201.0,31.0,150.0,20.0
-United States,detained,2021-10,224.0,35.0,168.0,21.0
+United States,detained,2021-10,225.0,35.0,168.0,22.0
 United States,detained,2021-11,231.0,40.0,180.0,11.0
-United States,detained,2021-12,201.0,33.0,153.0,15.0
+United States,detained,2021-12,202.0,33.0,153.0,16.0
 United States,detained,2022-01,195.0,22.0,156.0,17.0
-United States,detained,2022-02,198.0,28.0,162.0,8.0
+United States,detained,2022-02,197.0,28.0,161.0,8.0
 United States,detained,2022-03,252.0,34.0,201.0,17.0
 United States,detained,2022-04,277.0,56.0,196.0,25.0
 United States,detained,2022-05,310.0,52.0,234.0,24.0
 United States,detained,2022-06,441.0,74.0,340.0,27.0
 United States,detained,2022-07,410.0,56.0,335.0,19.0
-United States,detained,2022-08,528.0,53.0,433.0,42.0
+United States,detained,2022-08,529.0,53.0,433.0,43.0
 United States,detained,2022-09,466.0,81.0,363.0,22.0
 United States,detained,2022-10,471.0,66.0,388.0,17.0
 United States,detained,2022-11,451.0,79.0,360.0,12.0
 United States,detained,2022-12,371.0,50.0,302.0,19.0
 United States,detained,2023-01,308.0,48.0,218.0,42.0
-United States,detained,2023-02,348.0,62.0,262.0,24.0
+United States,detained,2023-02,349.0,62.0,262.0,25.0
 United States,detained,2023-03,485.0,69.0,385.0,31.0
 United States,detained,2023-04,442.0,44.0,379.0,19.0
 United States,detained,2023-05,489.0,64.0,350.0,75.0
 United States,detained,2023-06,412.0,41.0,348.0,23.0
-United States,detained,2023-07,433.0,30.0,376.0,27.0
+United States,detained,2023-07,434.0,30.0,376.0,28.0
 United States,detained,2023-08,584.0,50.0,491.0,43.0
 United States,detained,2023-09,528.0,42.0,448.0,38.0
 United States,detained,2023-10,616.0,60.0,525.0,31.0
 United States,detained,2023-11,556.0,38.0,491.0,27.0
 United States,detained,2023-12,519.0,59.0,430.0,30.0
 United States,detained,2024-01,597.0,50.0,513.0,34.0
-United States,detained,2024-02,650.0,58.0,542.0,50.0
+United States,detained,2024-02,651.0,59.0,542.0,50.0
 United States,detained,2024-03,636.0,73.0,524.0,39.0
-United States,detained,2024-04,748.0,86.0,599.0,63.0
+United States,detained,2024-04,750.0,86.0,599.0,65.0
 United States,detained,2024-05,770.0,87.0,622.0,61.0
 United States,detained,2024-06,645.0,76.0,494.0,75.0
-United States,detained,2024-07,692.0,95.0,531.0,66.0
-United States,detained,2024-08,660.0,76.0,528.0,56.0
-United States,detained,2024-09,676.0,78.0,531.0,67.0
-United States,detained,2024-10,823.0,117.0,589.0,117.0
-United States,detained,2024-11,661.0,74.0,506.0,81.0
-United States,detained,2024-12,638.0,89.0,469.0,80.0
-United States,detained,2025-01,640.0,79.0,485.0,76.0
-United States,detained,2025-02,790.0,66.0,581.0,143.0
-United States,detained,2025-03,946.0,111.0,629.0,206.0
-United States,detained,2025-04,1064.0,126.0,693.0,245.0
-United States,detained,2025-05,1295.0,139.0,884.0,272.0
-United States,detained,2025-06,1830.0,157.0,1300.0,373.0
-United States,detained,2025-07,2020.0,184.0,1396.0,440.0
-United States,detained,2025-08,2085.0,172.0,1455.0,458.0
-United States,detained,2025-09,2384.0,203.0,1638.0,543.0
-United States,detained,2025-10,2337.0,196.0,1487.0,654.0
-United States,detained,2025-11,1877.0,144.0,1096.0,637.0
-United States,detained,2025-12,1723.0,103.0,1024.0,596.0
-United States,detained,2026-01,1362.0,76.0,879.0,407.0
-United States,detained,2026-02,1101.0,60.0,865.0,176.0
-United States,detained,2026-03,1137.0,76.0,1040.0,21.0
+United States,detained,2024-07,693.0,95.0,531.0,67.0
+United States,detained,2024-08,661.0,76.0,528.0,57.0
+United States,detained,2024-09,678.0,78.0,531.0,69.0
+United States,detained,2024-10,824.0,117.0,589.0,118.0
+United States,detained,2024-11,663.0,74.0,506.0,83.0
+United States,detained,2024-12,640.0,89.0,469.0,82.0
+United States,detained,2025-01,644.0,80.0,485.0,79.0
+United States,detained,2025-02,796.0,67.0,581.0,148.0
+United States,detained,2025-03,950.0,112.0,629.0,209.0
+United States,detained,2025-04,1068.0,127.0,693.0,248.0
+United States,detained,2025-05,1298.0,139.0,884.0,275.0
+United States,detained,2025-06,1840.0,157.0,1300.0,383.0
+United States,detained,2025-07,2029.0,184.0,1396.0,449.0
+United States,detained,2025-08,2106.0,172.0,1456.0,478.0
+United States,detained,2025-09,2428.0,212.0,1638.0,578.0
+United States,detained,2025-10,2404.0,199.0,1487.0,718.0
+United States,detained,2025-11,1966.0,146.0,1096.0,724.0
+United States,detained,2025-12,1907.0,117.0,1024.0,766.0
+United States,detained,2026-01,1586.0,81.0,879.0,626.0
+United States,detained,2026-02,1399.0,74.0,866.0,459.0
+United States,detained,2026-03,1486.0,87.0,1068.0,331.0
+United States,detained,2026-04,1258.0,64.0,1016.0,178.0
+United States,detained,2026-05,1148.0,54.0,1057.0,37.0
 United States,never_detained,2000-10,1607.0,705.0,875.0,27.0
 United States,never_detained,2000-11,1541.0,723.0,800.0,18.0
 United States,never_detained,2000-12,1274.0,579.0,673.0,22.0
@@ -1281,14 +1289,14 @@ United States,never_detained,2008-12,1242.0,671.0,529.0,42.0
 United States,never_detained,2009-01,1228.0,597.0,576.0,55.0
 United States,never_detained,2009-02,1238.0,656.0,548.0,34.0
 United States,never_detained,2009-03,1505.0,779.0,678.0,48.0
-United States,never_detained,2009-04,1564.0,824.0,700.0,40.0
+United States,never_detained,2009-04,1565.0,825.0,700.0,40.0
 United States,never_detained,2009-05,1401.0,716.0,634.0,51.0
 United States,never_detained,2009-06,1495.0,821.0,633.0,41.0
 United States,never_detained,2009-07,1404.0,712.0,646.0,46.0
-United States,never_detained,2009-08,959.0,485.0,446.0,28.0
+United States,never_detained,2009-08,958.0,484.0,446.0,28.0
 United States,never_detained,2009-09,1357.0,721.0,595.0,41.0
 United States,never_detained,2009-10,1316.0,693.0,600.0,23.0
-United States,never_detained,2009-11,1180.0,586.0,563.0,31.0
+United States,never_detained,2009-11,1178.0,586.0,561.0,31.0
 United States,never_detained,2009-12,1197.0,703.0,465.0,29.0
 United States,never_detained,2010-01,1127.0,665.0,437.0,25.0
 United States,never_detained,2010-02,976.0,561.0,381.0,34.0
@@ -1315,8 +1323,8 @@ United States,never_detained,2011-10,1308.0,849.0,418.0,41.0
 United States,never_detained,2011-11,1238.0,808.0,405.0,25.0
 United States,never_detained,2011-12,1089.0,766.0,291.0,32.0
 United States,never_detained,2012-01,1241.0,815.0,390.0,36.0
-United States,never_detained,2012-02,1163.0,800.0,338.0,25.0
-United States,never_detained,2012-03,1236.0,875.0,338.0,23.0
+United States,never_detained,2012-02,1165.0,800.0,338.0,27.0
+United States,never_detained,2012-03,1237.0,875.0,339.0,23.0
 United States,never_detained,2012-04,1274.0,877.0,372.0,25.0
 United States,never_detained,2012-05,1115.0,717.0,385.0,13.0
 United States,never_detained,2012-06,1195.0,813.0,360.0,22.0
@@ -1341,7 +1349,7 @@ United States,never_detained,2013-12,920.0,667.0,237.0,16.0
 United States,never_detained,2014-01,1076.0,765.0,284.0,27.0
 United States,never_detained,2014-02,864.0,572.0,272.0,20.0
 United States,never_detained,2014-03,964.0,644.0,300.0,20.0
-United States,never_detained,2014-04,1091.0,718.0,358.0,15.0
+United States,never_detained,2014-04,1091.0,717.0,359.0,15.0
 United States,never_detained,2014-05,869.0,576.0,281.0,12.0
 United States,never_detained,2014-06,1001.0,680.0,311.0,10.0
 United States,never_detained,2014-07,874.0,569.0,291.0,14.0
@@ -1368,11 +1376,11 @@ United States,never_detained,2016-03,1191.0,620.0,547.0,24.0
 United States,never_detained,2016-04,1092.0,600.0,479.0,13.0
 United States,never_detained,2016-05,1197.0,672.0,504.0,21.0
 United States,never_detained,2016-06,1277.0,728.0,531.0,18.0
-United States,never_detained,2016-07,910.0,480.0,417.0,13.0
-United States,never_detained,2016-08,1078.0,548.0,508.0,22.0
+United States,never_detained,2016-07,911.0,481.0,417.0,13.0
+United States,never_detained,2016-08,1077.0,547.0,508.0,22.0
 United States,never_detained,2016-09,1195.0,685.0,482.0,28.0
 United States,never_detained,2016-10,1160.0,634.0,518.0,8.0
-United States,never_detained,2016-11,1208.0,640.0,554.0,14.0
+United States,never_detained,2016-11,1210.0,642.0,554.0,14.0
 United States,never_detained,2016-12,1106.0,592.0,497.0,17.0
 United States,never_detained,2017-01,1224.0,628.0,571.0,25.0
 United States,never_detained,2017-02,1207.0,604.0,592.0,11.0
@@ -1387,104 +1395,106 @@ United States,never_detained,2017-10,1787.0,731.0,1040.0,16.0
 United States,never_detained,2017-11,1778.0,724.0,1040.0,14.0
 United States,never_detained,2017-12,1427.0,567.0,856.0,4.0
 United States,never_detained,2018-01,1726.0,738.0,969.0,19.0
-United States,never_detained,2018-02,1838.0,701.0,1117.0,20.0
+United States,never_detained,2018-02,1839.0,701.0,1117.0,21.0
 United States,never_detained,2018-03,2173.0,823.0,1330.0,20.0
 United States,never_detained,2018-04,2216.0,908.0,1278.0,30.0
 United States,never_detained,2018-05,2200.0,822.0,1347.0,31.0
 United States,never_detained,2018-06,1643.0,586.0,1035.0,22.0
 United States,never_detained,2018-07,1792.0,583.0,1192.0,17.0
-United States,never_detained,2018-08,2136.0,694.0,1415.0,27.0
+United States,never_detained,2018-08,2139.0,694.0,1415.0,30.0
 United States,never_detained,2018-09,1988.0,608.0,1357.0,23.0
 United States,never_detained,2018-10,3036.0,950.0,2060.0,26.0
-United States,never_detained,2018-11,2731.0,923.0,1764.0,44.0
-United States,never_detained,2018-12,2039.0,655.0,1374.0,10.0
+United States,never_detained,2018-11,2731.0,924.0,1763.0,44.0
+United States,never_detained,2018-12,2041.0,655.0,1374.0,12.0
 United States,never_detained,2019-01,377.0,114.0,262.0,1.0
 United States,never_detained,2019-02,2674.0,823.0,1835.0,16.0
 United States,never_detained,2019-03,3218.0,890.0,2306.0,22.0
 United States,never_detained,2019-04,3636.0,1095.0,2499.0,42.0
-United States,never_detained,2019-05,3757.0,1102.0,2567.0,88.0
-United States,never_detained,2019-06,3533.0,1065.0,2374.0,94.0
-United States,never_detained,2019-07,4224.0,1327.0,2848.0,49.0
+United States,never_detained,2019-05,3764.0,1102.0,2567.0,95.0
+United States,never_detained,2019-06,3534.0,1065.0,2374.0,95.0
+United States,never_detained,2019-07,4226.0,1327.0,2848.0,51.0
 United States,never_detained,2019-08,4581.0,1268.0,3246.0,67.0
 United States,never_detained,2019-09,4856.0,1306.0,3462.0,88.0
 United States,never_detained,2019-10,5870.0,1479.0,4271.0,120.0
 United States,never_detained,2019-11,5133.0,1345.0,3594.0,194.0
-United States,never_detained,2019-12,5100.0,1301.0,3637.0,162.0
-United States,never_detained,2020-01,6545.0,1716.0,4690.0,139.0
-United States,never_detained,2020-02,6989.0,1759.0,5120.0,110.0
-United States,never_detained,2020-03,4307.0,1054.0,3173.0,80.0
+United States,never_detained,2019-12,5099.0,1301.0,3636.0,162.0
+United States,never_detained,2020-01,6546.0,1716.0,4690.0,140.0
+United States,never_detained,2020-02,6994.0,1759.0,5120.0,115.0
+United States,never_detained,2020-03,4311.0,1054.0,3173.0,84.0
 United States,never_detained,2020-04,387.0,164.0,194.0,29.0
 United States,never_detained,2020-05,343.0,109.0,198.0,36.0
 United States,never_detained,2020-06,464.0,148.0,280.0,36.0
-United States,never_detained,2020-07,596.0,181.0,368.0,47.0
-United States,never_detained,2020-08,760.0,279.0,443.0,38.0
-United States,never_detained,2020-09,935.0,258.0,631.0,46.0
-United States,never_detained,2020-10,1582.0,498.0,1044.0,40.0
+United States,never_detained,2020-07,597.0,181.0,368.0,48.0
+United States,never_detained,2020-08,762.0,279.0,443.0,40.0
+United States,never_detained,2020-09,938.0,258.0,631.0,49.0
+United States,never_detained,2020-10,1585.0,498.0,1044.0,43.0
 United States,never_detained,2020-11,1321.0,372.0,914.0,35.0
 United States,never_detained,2020-12,1156.0,343.0,793.0,20.0
 United States,never_detained,2021-01,1063.0,322.0,687.0,54.0
-United States,never_detained,2021-02,1047.0,307.0,564.0,176.0
-United States,never_detained,2021-03,1311.0,474.0,808.0,29.0
-United States,never_detained,2021-04,1380.0,466.0,875.0,39.0
+United States,never_detained,2021-02,1049.0,307.0,564.0,178.0
+United States,never_detained,2021-03,1313.0,474.0,808.0,31.0
+United States,never_detained,2021-04,1381.0,466.0,875.0,40.0
 United States,never_detained,2021-05,1305.0,462.0,813.0,30.0
 United States,never_detained,2021-06,1046.0,407.0,572.0,67.0
-United States,never_detained,2021-07,1305.0,706.0,557.0,42.0
-United States,never_detained,2021-08,1660.0,820.0,769.0,71.0
-United States,never_detained,2021-09,1738.0,878.0,827.0,33.0
+United States,never_detained,2021-07,1309.0,706.0,557.0,46.0
+United States,never_detained,2021-08,1663.0,821.0,769.0,73.0
+United States,never_detained,2021-09,1737.0,877.0,827.0,33.0
 United States,never_detained,2021-10,1995.0,968.0,983.0,44.0
-United States,never_detained,2021-11,1955.0,1080.0,823.0,52.0
-United States,never_detained,2021-12,1954.0,1050.0,851.0,53.0
-United States,never_detained,2022-01,1996.0,1022.0,936.0,38.0
+United States,never_detained,2021-11,1958.0,1080.0,823.0,55.0
+United States,never_detained,2021-12,1958.0,1050.0,851.0,57.0
+United States,never_detained,2022-01,2003.0,1022.0,936.0,45.0
 United States,never_detained,2022-02,2510.0,1083.0,1319.0,108.0
 United States,never_detained,2022-03,3846.0,1688.0,1968.0,190.0
-United States,never_detained,2022-04,3403.0,1757.0,1483.0,163.0
-United States,never_detained,2022-05,3515.0,1917.0,1482.0,116.0
-United States,never_detained,2022-06,3534.0,1751.0,1654.0,129.0
-United States,never_detained,2022-07,3971.0,1712.0,2131.0,128.0
-United States,never_detained,2022-08,5459.0,2172.0,3106.0,181.0
-United States,never_detained,2022-09,5397.0,2266.0,2982.0,149.0
-United States,never_detained,2022-10,5203.0,2272.0,2768.0,163.0
-United States,never_detained,2022-11,4633.0,2129.0,2361.0,143.0
-United States,never_detained,2022-12,4243.0,2111.0,1993.0,139.0
-United States,never_detained,2023-01,5048.0,2448.0,2413.0,187.0
-United States,never_detained,2023-02,4945.0,2225.0,2514.0,206.0
-United States,never_detained,2023-03,5566.0,2700.0,2631.0,235.0
-United States,never_detained,2023-04,4249.0,2042.0,2057.0,150.0
-United States,never_detained,2023-05,4674.0,2343.0,2148.0,183.0
-United States,never_detained,2023-06,4119.0,2062.0,1819.0,238.0
-United States,never_detained,2023-07,3845.0,2006.0,1638.0,201.0
-United States,never_detained,2023-08,4902.0,2670.0,1984.0,248.0
-United States,never_detained,2023-09,4528.0,2469.0,1829.0,230.0
-United States,never_detained,2023-10,4758.0,2532.0,1971.0,255.0
-United States,never_detained,2023-11,4717.0,2457.0,2041.0,219.0
-United States,never_detained,2023-12,4204.0,2114.0,1863.0,227.0
-United States,never_detained,2024-01,4878.0,2392.0,2247.0,239.0
-United States,never_detained,2024-02,5045.0,2575.0,2196.0,274.0
-United States,never_detained,2024-03,5469.0,2713.0,2433.0,323.0
-United States,never_detained,2024-04,5622.0,2603.0,2662.0,357.0
-United States,never_detained,2024-05,5899.0,2702.0,2868.0,329.0
-United States,never_detained,2024-06,5035.0,2334.0,2444.0,257.0
-United States,never_detained,2024-07,5569.0,2463.0,2797.0,309.0
-United States,never_detained,2024-08,5714.0,2212.0,3146.0,356.0
-United States,never_detained,2024-09,5163.0,1923.0,2992.0,248.0
-United States,never_detained,2024-10,6253.0,2263.0,3660.0,330.0
-United States,never_detained,2024-11,5438.0,1849.0,3338.0,251.0
-United States,never_detained,2024-12,5036.0,1730.0,2990.0,316.0
-United States,never_detained,2025-01,7086.0,2240.0,4527.0,319.0
-United States,never_detained,2025-02,8651.0,2189.0,6203.0,259.0
-United States,never_detained,2025-03,10045.0,2312.0,7432.0,301.0
-United States,never_detained,2025-04,10553.0,2249.0,8037.0,267.0
-United States,never_detained,2025-05,10394.0,2182.0,7962.0,250.0
-United States,never_detained,2025-06,8329.0,2086.0,6047.0,196.0
-United States,never_detained,2025-07,7806.0,1704.0,5856.0,246.0
-United States,never_detained,2025-08,7699.0,1574.0,5858.0,267.0
-United States,never_detained,2025-09,7820.0,1280.0,6288.0,252.0
-United States,never_detained,2025-10,8070.0,1247.0,6656.0,167.0
-United States,never_detained,2025-11,6165.0,953.0,5078.0,134.0
-United States,never_detained,2025-12,6209.0,604.0,5464.0,141.0
-United States,never_detained,2026-01,8146.0,521.0,7508.0,117.0
-United States,never_detained,2026-02,9350.0,442.0,8877.0,31.0
-United States,never_detained,2026-03,11692.0,574.0,11090.0,28.0
+United States,never_detained,2022-04,3410.0,1757.0,1483.0,170.0
+United States,never_detained,2022-05,3521.0,1919.0,1482.0,120.0
+United States,never_detained,2022-06,3541.0,1752.0,1654.0,135.0
+United States,never_detained,2022-07,3977.0,1712.0,2131.0,134.0
+United States,never_detained,2022-08,5473.0,2172.0,3106.0,195.0
+United States,never_detained,2022-09,5406.0,2266.0,2982.0,158.0
+United States,never_detained,2022-10,5215.0,2272.0,2768.0,175.0
+United States,never_detained,2022-11,4640.0,2129.0,2361.0,150.0
+United States,never_detained,2022-12,4259.0,2111.0,1994.0,154.0
+United States,never_detained,2023-01,5064.0,2448.0,2413.0,203.0
+United States,never_detained,2023-02,4960.0,2228.0,2514.0,218.0
+United States,never_detained,2023-03,5582.0,2701.0,2632.0,249.0
+United States,never_detained,2023-04,4259.0,2042.0,2057.0,160.0
+United States,never_detained,2023-05,4686.0,2347.0,2148.0,191.0
+United States,never_detained,2023-06,4147.0,2063.0,1819.0,265.0
+United States,never_detained,2023-07,3867.0,2006.0,1638.0,223.0
+United States,never_detained,2023-08,4923.0,2670.0,1984.0,269.0
+United States,never_detained,2023-09,4551.0,2472.0,1829.0,250.0
+United States,never_detained,2023-10,4795.0,2535.0,1971.0,289.0
+United States,never_detained,2023-11,4741.0,2461.0,2041.0,239.0
+United States,never_detained,2023-12,4231.0,2112.0,1863.0,256.0
+United States,never_detained,2024-01,4907.0,2393.0,2247.0,267.0
+United States,never_detained,2024-02,5103.0,2579.0,2196.0,328.0
+United States,never_detained,2024-03,5522.0,2718.0,2435.0,369.0
+United States,never_detained,2024-04,5657.0,2603.0,2661.0,393.0
+United States,never_detained,2024-05,5948.0,2709.0,2868.0,371.0
+United States,never_detained,2024-06,5077.0,2340.0,2444.0,293.0
+United States,never_detained,2024-07,5635.0,2465.0,2797.0,373.0
+United States,never_detained,2024-08,5793.0,2216.0,3146.0,431.0
+United States,never_detained,2024-09,5226.0,1930.0,2992.0,304.0
+United States,never_detained,2024-10,6342.0,2270.0,3664.0,408.0
+United States,never_detained,2024-11,5534.0,1852.0,3338.0,344.0
+United States,never_detained,2024-12,5114.0,1732.0,2991.0,391.0
+United States,never_detained,2025-01,7192.0,2247.0,4527.0,418.0
+United States,never_detained,2025-02,8785.0,2201.0,6204.0,380.0
+United States,never_detained,2025-03,10128.0,2319.0,7434.0,375.0
+United States,never_detained,2025-04,10657.0,2255.0,8037.0,365.0
+United States,never_detained,2025-05,10494.0,2185.0,7966.0,343.0
+United States,never_detained,2025-06,8406.0,2087.0,6047.0,272.0
+United States,never_detained,2025-07,7898.0,1710.0,5858.0,330.0
+United States,never_detained,2025-08,7766.0,1574.0,5858.0,334.0
+United States,never_detained,2025-09,7954.0,1280.0,6288.0,386.0
+United States,never_detained,2025-10,8127.0,1252.0,6664.0,211.0
+United States,never_detained,2025-11,6227.0,961.0,5080.0,186.0
+United States,never_detained,2025-12,6268.0,616.0,5463.0,189.0
+United States,never_detained,2026-01,8206.0,523.0,7511.0,172.0
+United States,never_detained,2026-02,9423.0,450.0,8886.0,87.0
+United States,never_detained,2026-03,12169.0,602.0,11495.0,72.0
+United States,never_detained,2026-04,11155.0,645.0,10460.0,50.0
+United States,never_detained,2026-05,10786.0,580.0,10162.0,44.0
 United States,not_known,2001-02,1.0,0.0,1.0,0.0
 United States,not_known,2002-02,1.0,0.0,1.0,0.0
 United States,not_known,2002-03,2.0,0.0,1.0,1.0
@@ -1570,7 +1580,7 @@ United States,released,2003-07,501.0,118.0,378.0,5.0
 United States,released,2003-08,488.0,147.0,334.0,7.0
 United States,released,2003-09,532.0,152.0,372.0,8.0
 United States,released,2003-10,537.0,126.0,408.0,3.0
-United States,released,2003-11,386.0,108.0,274.0,4.0
+United States,released,2003-11,386.0,108.0,275.0,3.0
 United States,released,2003-12,420.0,126.0,288.0,6.0
 United States,released,2004-01,484.0,130.0,340.0,14.0
 United States,released,2004-02,418.0,111.0,301.0,6.0
@@ -1652,7 +1662,7 @@ United States,released,2010-05,285.0,139.0,143.0,3.0
 United States,released,2010-06,297.0,129.0,160.0,8.0
 United States,released,2010-07,201.0,89.0,108.0,4.0
 United States,released,2010-08,305.0,158.0,136.0,11.0
-United States,released,2010-09,277.0,137.0,131.0,9.0
+United States,released,2010-09,278.0,137.0,131.0,10.0
 United States,released,2010-10,281.0,148.0,128.0,5.0
 United States,released,2010-11,247.0,123.0,117.0,7.0
 United States,released,2010-12,240.0,113.0,119.0,8.0
@@ -1661,7 +1671,7 @@ United States,released,2011-02,295.0,132.0,156.0,7.0
 United States,released,2011-03,389.0,187.0,192.0,10.0
 United States,released,2011-04,370.0,157.0,204.0,9.0
 United States,released,2011-05,349.0,160.0,175.0,14.0
-United States,released,2011-06,377.0,192.0,176.0,9.0
+United States,released,2011-06,378.0,192.0,177.0,9.0
 United States,released,2011-07,247.0,113.0,128.0,6.0
 United States,released,2011-08,425.0,215.0,205.0,5.0
 United States,released,2011-09,357.0,186.0,158.0,13.0
@@ -1727,7 +1737,7 @@ United States,released,2016-08,399.0,163.0,224.0,12.0
 United States,released,2016-09,445.0,227.0,215.0,3.0
 United States,released,2016-10,417.0,182.0,230.0,5.0
 United States,released,2016-11,489.0,224.0,252.0,13.0
-United States,released,2016-12,396.0,199.0,193.0,4.0
+United States,released,2016-12,397.0,199.0,193.0,5.0
 United States,released,2017-01,430.0,197.0,220.0,13.0
 United States,released,2017-02,444.0,186.0,252.0,6.0
 United States,released,2017-03,579.0,260.0,314.0,5.0
@@ -1757,85 +1767,87 @@ United States,released,2019-02,1200.0,461.0,728.0,11.0
 United States,released,2019-03,1484.0,529.0,924.0,31.0
 United States,released,2019-04,1723.0,627.0,1065.0,31.0
 United States,released,2019-05,2039.0,827.0,1065.0,147.0
-United States,released,2019-06,1684.0,653.0,937.0,94.0
-United States,released,2019-07,1734.0,667.0,965.0,102.0
-United States,released,2019-08,1728.0,655.0,992.0,81.0
-United States,released,2019-09,1531.0,609.0,856.0,66.0
-United States,released,2019-10,1819.0,702.0,1020.0,97.0
-United States,released,2019-11,1608.0,617.0,893.0,98.0
-United States,released,2019-12,1531.0,666.0,776.0,89.0
-United States,released,2020-01,1718.0,685.0,944.0,89.0
-United States,released,2020-02,1763.0,654.0,1033.0,76.0
-United States,released,2020-03,1121.0,461.0,595.0,65.0
-United States,released,2020-04,253.0,124.0,78.0,51.0
+United States,released,2019-06,1687.0,653.0,937.0,97.0
+United States,released,2019-07,1735.0,667.0,965.0,103.0
+United States,released,2019-08,1731.0,656.0,992.0,83.0
+United States,released,2019-09,1534.0,609.0,856.0,69.0
+United States,released,2019-10,1821.0,702.0,1020.0,99.0
+United States,released,2019-11,1615.0,618.0,893.0,104.0
+United States,released,2019-12,1533.0,666.0,776.0,91.0
+United States,released,2020-01,1720.0,687.0,944.0,89.0
+United States,released,2020-02,1765.0,654.0,1033.0,78.0
+United States,released,2020-03,1123.0,462.0,595.0,66.0
+United States,released,2020-04,255.0,125.0,78.0,52.0
 United States,released,2020-05,223.0,89.0,89.0,45.0
-United States,released,2020-06,261.0,105.0,104.0,52.0
-United States,released,2020-07,296.0,118.0,136.0,42.0
-United States,released,2020-08,371.0,172.0,157.0,42.0
+United States,released,2020-06,262.0,105.0,104.0,53.0
+United States,released,2020-07,297.0,118.0,136.0,43.0
+United States,released,2020-08,373.0,172.0,157.0,44.0
 United States,released,2020-09,419.0,166.0,208.0,45.0
-United States,released,2020-10,543.0,200.0,294.0,49.0
-United States,released,2020-11,562.0,214.0,308.0,40.0
-United States,released,2020-12,467.0,169.0,256.0,42.0
-United States,released,2021-01,447.0,164.0,226.0,57.0
-United States,released,2021-02,429.0,121.0,214.0,94.0
-United States,released,2021-03,694.0,296.0,263.0,135.0
-United States,released,2021-04,665.0,304.0,258.0,103.0
-United States,released,2021-05,569.0,229.0,276.0,64.0
-United States,released,2021-06,442.0,217.0,172.0,53.0
-United States,released,2021-07,598.0,342.0,182.0,74.0
-United States,released,2021-08,783.0,430.0,297.0,56.0
-United States,released,2021-09,840.0,442.0,336.0,62.0
-United States,released,2021-10,879.0,436.0,377.0,66.0
-United States,released,2021-11,854.0,451.0,344.0,59.0
-United States,released,2021-12,894.0,480.0,349.0,65.0
-United States,released,2022-01,886.0,476.0,344.0,66.0
+United States,released,2020-10,545.0,200.0,294.0,51.0
+United States,released,2020-11,564.0,214.0,308.0,42.0
+United States,released,2020-12,468.0,169.0,256.0,43.0
+United States,released,2021-01,450.0,164.0,226.0,60.0
+United States,released,2021-02,433.0,121.0,214.0,98.0
+United States,released,2021-03,700.0,296.0,263.0,141.0
+United States,released,2021-04,679.0,304.0,258.0,117.0
+United States,released,2021-05,574.0,229.0,276.0,69.0
+United States,released,2021-06,447.0,217.0,172.0,58.0
+United States,released,2021-07,600.0,342.0,182.0,76.0
+United States,released,2021-08,787.0,430.0,297.0,60.0
+United States,released,2021-09,844.0,442.0,336.0,66.0
+United States,released,2021-10,880.0,436.0,377.0,67.0
+United States,released,2021-11,858.0,452.0,344.0,62.0
+United States,released,2021-12,895.0,480.0,349.0,66.0
+United States,released,2022-01,890.0,476.0,344.0,70.0
 United States,released,2022-02,1035.0,513.0,455.0,67.0
-United States,released,2022-03,1305.0,697.0,514.0,94.0
-United States,released,2022-04,1070.0,569.0,401.0,100.0
-United States,released,2022-05,1002.0,644.0,269.0,89.0
-United States,released,2022-06,943.0,624.0,253.0,66.0
-United States,released,2022-07,1069.0,573.0,407.0,89.0
-United States,released,2022-08,1447.0,733.0,585.0,129.0
-United States,released,2022-09,1454.0,719.0,596.0,139.0
-United States,released,2022-10,1370.0,697.0,550.0,123.0
-United States,released,2022-11,1219.0,670.0,460.0,89.0
-United States,released,2022-12,1285.0,717.0,461.0,107.0
-United States,released,2023-01,1369.0,756.0,532.0,81.0
-United States,released,2023-02,1294.0,705.0,499.0,90.0
-United States,released,2023-03,1456.0,780.0,561.0,115.0
-United States,released,2023-04,1276.0,663.0,524.0,89.0
-United States,released,2023-05,1303.0,748.0,459.0,96.0
-United States,released,2023-06,1101.0,620.0,392.0,89.0
-United States,released,2023-07,1017.0,566.0,373.0,78.0
-United States,released,2023-08,1160.0,682.0,396.0,82.0
-United States,released,2023-09,1019.0,602.0,322.0,95.0
-United States,released,2023-10,1044.0,632.0,326.0,86.0
-United States,released,2023-11,997.0,619.0,310.0,68.0
-United States,released,2023-12,860.0,502.0,289.0,69.0
-United States,released,2024-01,985.0,593.0,328.0,64.0
-United States,released,2024-02,935.0,548.0,323.0,64.0
-United States,released,2024-03,891.0,480.0,340.0,71.0
-United States,released,2024-04,1015.0,572.0,364.0,79.0
-United States,released,2024-05,968.0,520.0,368.0,80.0
-United States,released,2024-06,723.0,372.0,302.0,49.0
-United States,released,2024-07,803.0,414.0,335.0,54.0
-United States,released,2024-08,787.0,373.0,348.0,66.0
-United States,released,2024-09,757.0,349.0,342.0,66.0
-United States,released,2024-10,769.0,383.0,329.0,57.0
-United States,released,2024-11,690.0,322.0,325.0,43.0
-United States,released,2024-12,642.0,274.0,303.0,65.0
-United States,released,2025-01,804.0,337.0,411.0,56.0
-United States,released,2025-02,940.0,308.0,571.0,61.0
-United States,released,2025-03,1083.0,330.0,708.0,45.0
-United States,released,2025-04,1019.0,265.0,715.0,39.0
-United States,released,2025-05,1006.0,288.0,680.0,38.0
-United States,released,2025-06,905.0,285.0,583.0,37.0
-United States,released,2025-07,776.0,218.0,536.0,22.0
-United States,released,2025-08,807.0,201.0,572.0,34.0
-United States,released,2025-09,726.0,149.0,549.0,28.0
-United States,released,2025-10,668.0,135.0,504.0,29.0
-United States,released,2025-11,538.0,89.0,430.0,19.0
-United States,released,2025-12,539.0,62.0,466.0,11.0
-United States,released,2026-01,545.0,46.0,481.0,18.0
-United States,released,2026-02,611.0,35.0,568.0,8.0
-United States,released,2026-03,769.0,50.0,713.0,6.0
+United States,released,2022-03,1312.0,699.0,514.0,99.0
+United States,released,2022-04,1073.0,569.0,401.0,103.0
+United States,released,2022-05,1007.0,644.0,270.0,93.0
+United States,released,2022-06,951.0,624.0,253.0,74.0
+United States,released,2022-07,1073.0,573.0,407.0,93.0
+United States,released,2022-08,1456.0,736.0,585.0,135.0
+United States,released,2022-09,1462.0,720.0,596.0,146.0
+United States,released,2022-10,1377.0,698.0,550.0,129.0
+United States,released,2022-11,1231.0,671.0,460.0,100.0
+United States,released,2022-12,1297.0,719.0,461.0,117.0
+United States,released,2023-01,1377.0,756.0,532.0,89.0
+United States,released,2023-02,1299.0,705.0,499.0,95.0
+United States,released,2023-03,1463.0,780.0,561.0,122.0
+United States,released,2023-04,1280.0,663.0,524.0,93.0
+United States,released,2023-05,1311.0,748.0,459.0,104.0
+United States,released,2023-06,1108.0,620.0,392.0,96.0
+United States,released,2023-07,1022.0,567.0,374.0,81.0
+United States,released,2023-08,1176.0,684.0,396.0,96.0
+United States,released,2023-09,1027.0,602.0,322.0,103.0
+United States,released,2023-10,1049.0,634.0,326.0,89.0
+United States,released,2023-11,1009.0,619.0,309.0,81.0
+United States,released,2023-12,866.0,502.0,289.0,75.0
+United States,released,2024-01,994.0,593.0,328.0,73.0
+United States,released,2024-02,948.0,549.0,323.0,76.0
+United States,released,2024-03,903.0,482.0,340.0,81.0
+United States,released,2024-04,1028.0,573.0,364.0,91.0
+United States,released,2024-05,981.0,521.0,368.0,92.0
+United States,released,2024-06,731.0,373.0,302.0,56.0
+United States,released,2024-07,817.0,414.0,335.0,68.0
+United States,released,2024-08,794.0,374.0,348.0,72.0
+United States,released,2024-09,774.0,350.0,342.0,82.0
+United States,released,2024-10,787.0,384.0,329.0,74.0
+United States,released,2024-11,713.0,324.0,325.0,64.0
+United States,released,2024-12,659.0,277.0,303.0,79.0
+United States,released,2025-01,838.0,341.0,411.0,86.0
+United States,released,2025-02,964.0,311.0,571.0,82.0
+United States,released,2025-03,1103.0,332.0,708.0,63.0
+United States,released,2025-04,1041.0,268.0,715.0,58.0
+United States,released,2025-05,1020.0,290.0,680.0,50.0
+United States,released,2025-06,912.0,285.0,583.0,44.0
+United States,released,2025-07,784.0,219.0,537.0,28.0
+United States,released,2025-08,814.0,202.0,572.0,40.0
+United States,released,2025-09,744.0,150.0,549.0,45.0
+United States,released,2025-10,679.0,135.0,504.0,40.0
+United States,released,2025-11,548.0,89.0,431.0,28.0
+United States,released,2025-12,549.0,62.0,466.0,21.0
+United States,released,2026-01,556.0,46.0,482.0,28.0
+United States,released,2026-02,620.0,35.0,568.0,17.0
+United States,released,2026-03,811.0,54.0,740.0,17.0
+United States,released,2026-04,772.0,64.0,694.0,14.0
+United States,released,2026-05,798.0,65.0,726.0,7.0
